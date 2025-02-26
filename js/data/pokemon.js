@@ -1,147 +1,182 @@
 const pokemonData = {
-    pikachu: {
-        name: "Pikachu",
-        type: "electric",
-        hp: 100,
-        image: "https://placehold.co/150x150/yellow/black?text=Pikachu",
-        moves: [
-            { name: "Thunderbolt", type: "electric", power: 25 },
-            { name: "Quick Attack", type: "normal", power: 15 },
-            { name: "Iron Tail", type: "steel", power: 20 },
-            { name: "Electro Ball", type: "electric", power: 22 }
-        ]
+    "pikachu": {
+      name: "Pikachu",
+      type: "electric",
+      hp: 35,
+      attack: 55,
+      defense: 40,
+      speed: 90,
+      moves: [
+        { name: "Thunderbolt", type: "electric", power: 90, accuracy: 100 },
+        { name: "Quick Attack", type: "normal", power: 40, accuracy: 100 },
+        { name: "Iron Tail", type: "steel", power: 100, accuracy: 75 },
+        { name: "Electro Ball", type: "electric", power: 80, accuracy: 100 }
+      ],
+      sprite: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
     },
-    charizard: {
-        name: "Charizard",
-        type: "fire",
-        hp: 120,
-        image: "https://placehold.co/150x150/orange/black?text=Charizard",
-        moves: [
-            { name: "Flamethrower", type: "fire", power: 25 },
-            { name: "Dragon Claw", type: "dragon", power: 22 },
-            { name: "Air Slash", type: "flying", power: 20 },
-            { name: "Fire Blast", type: "fire", power: 30 }
-        ]
+    "charizard": {
+      name: "Charizard",
+      type: "fire",
+      hp: 78,
+      attack: 84,
+      defense: 78,
+      speed: 100,
+      moves: [
+        { name: "Flamethrower", type: "fire", power: 90, accuracy: 100 },
+        { name: "Dragon Claw", type: "dragon", power: 80, accuracy: 100 },
+        { name: "Air Slash", type: "flying", power: 75, accuracy: 95 },
+        { name: "Earthquake", type: "ground", power: 100, accuracy: 100 }
+      ],
+      sprite: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png"
     },
-    blastoise: {
-        name: "Blastoise",
-        type: "water",
-        hp: 130,
-        image: "https://placehold.co/150x150/blue/white?text=Blastoise",
-        moves: [
-            { name: "Hydro Pump", type: "water", power: 28 },
-            { name: "Ice Beam", type: "ice", power: 22 },
-            { name: "Skull Bash", type: "normal", power: 25 },
-            { name: "Flash Cannon", type: "steel", power: 20 }
-        ]
+    "blastoise": {
+      name: "Blastoise",
+      type: "water",
+      hp: 79,
+      attack: 83,
+      defense: 100,
+      speed: 78,
+      moves: [
+        { name: "Hydro Pump", type: "water", power: 110, accuracy: 80 },
+        { name: "Ice Beam", type: "ice", power: 90, accuracy: 100 },
+        { name: "Flash Cannon", type: "steel", power: 80, accuracy: 100 },
+        { name: "Skull Bash", type: "normal", power: 130, accuracy: 100 }
+      ],
+      sprite: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png"
     },
-    venusaur: {
-        name: "Venusaur",
-        type: "grass",
-        hp: 125,
-        image: "https://placehold.co/150x150/green/white?text=Venusaur",
-        moves: [
-            { name: "Solar Beam", type: "grass", power: 30 },
-            { name: "Sludge Bomb", type: "poison", power: 22 },
-            { name: "Earthquake", type: "ground", power: 25 },
-            { name: "Petal Dance", type: "grass", power: 24 }
-        ]
+    "venusaur": {
+      name: "Venusaur",
+      type: "grass",
+      hp: 80,
+      attack: 82,
+      defense: 83,
+      speed: 80,
+      moves: [
+        { name: "Solar Beam", type: "grass", power: 120, accuracy: 100 },
+        { name: "Sludge Bomb", type: "poison", power: 90, accuracy: 100 },
+        { name: "Earthquake", type: "ground", power: 100, accuracy: 100 },
+        { name: "Sleep Powder", type: "grass", power: 0, accuracy: 75 }
+      ],
+      sprite: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png"
     },
-    jigglypuff: {
-        name: "Jigglypuff",
-        type: "fairy",
-        hp: 95,
-        image: "https://placehold.co/150x150/pink/black?text=Jigglypuff",
-        moves: [
-            { name: "Sing", type: "normal", power: 15 },
-            { name: "Dazzling Gleam", type: "fairy", power: 22 },
-            { name: "Hyper Voice", type: "normal", power: 20 },
-            { name: "Pound", type: "normal", power: 18 }
-        ]
+    "gengar": {
+      name: "Gengar",
+      type: "ghost",
+      hp: 60,
+      attack: 65,
+      defense: 60,
+      speed: 110,
+      moves: [
+        { name: "Shadow Ball", type: "ghost", power: 80, accuracy: 100 },
+        { name: "Sludge Wave", type: "poison", power: 95, accuracy: 100 },
+        { name: "Thunderbolt", type: "electric", power: 90, accuracy: 100 },
+        { name: "Focus Blast", type: "fighting", power: 120, accuracy: 70 }
+      ],
+      sprite: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png"
     },
-    gengar: {
-        name: "Gengar",
-        type: "ghost",
-        hp: 105,
-        image: "https://placehold.co/150x150/purple/white?text=Gengar",
-        moves: [
-            { name: "Shadow Ball", type: "ghost", power: 25 },
-            { name: "Sludge Bomb", type: "poison", power: 22 },
-            { name: "Thunderbolt", type: "electric", power: 20 },
-            { name: "Focus Blast", type: "fighting", power: 28 }
-        ]
+    "dragonite": {
+      name: "Dragonite",
+      type: "dragon",
+      hp: 91,
+      attack: 134,
+      defense: 95,
+      speed: 80,
+      moves: [
+        { name: "Outrage", type: "dragon", power: 120, accuracy: 100 },
+        { name: "Fire Punch", type: "fire", power: 75, accuracy: 100 },
+        { name: "Thunder Punch", type: "electric", power: 75, accuracy: 100 },
+        { name: "Extreme Speed", type: "normal", power: 80, accuracy: 100 }
+      ],
+      sprite: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png"
     },
-    alakazam: {
-        name: "Alakazam",
-        type: "psychic",
-        hp: 95,
-        image: "https://placehold.co/150x150/brown/white?text=Alakazam",
-        moves: [
-            { name: "Psychic", type: "psychic", power: 26 },
-            { name: "Shadow Ball", type: "ghost", power: 22 },
-            { name: "Focus Blast", type: "fighting", power: 25 },
-            { name: "Energy Ball", type: "grass", power: 20 }
-        ]
+    "alakazam": {
+      name: "Alakazam",
+      type: "psychic",
+      hp: 55,
+      attack: 50,
+      defense: 45,
+      speed: 120,
+      moves: [
+        { name: "Psychic", type: "psychic", power: 90, accuracy: 100 },
+        { name: "Shadow Ball", type: "ghost", power: 80, accuracy: 100 },
+        { name: "Focus Blast", type: "fighting", power: 120, accuracy: 70 },
+        { name: "Energy Ball", type: "grass", power: 90, accuracy: 100 }
+      ],
+      sprite: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png"
     },
-    machamp: {
-        name: "Machamp",
-        type: "fighting",
-        hp: 135,
-        image: "https://placehold.co/150x150/gray/white?text=Machamp",
-        moves: [
-            { name: "Dynamic Punch", type: "fighting", power: 27 },
-            { name: "Stone Edge", type: "rock", power: 25 },
-            { name: "Earthquake", type: "ground", power: 24 },
-            { name: "Knock Off", type: "dark", power: 20 }
-        ]
+    "snorlax": {
+      name: "Snorlax",
+      type: "normal",
+      hp: 160,
+      attack: 110,
+      defense: 65,
+      speed: 30,
+      moves: [
+        { name: "Body Slam", type: "normal", power: 85, accuracy: 100 },
+        { name: "Earthquake", type: "ground", power: 100, accuracy: 100 },
+        { name: "Crunch", type: "dark", power: 80, accuracy: 100 },
+        { name: "Fire Punch", type: "fire", power: 75, accuracy: 100 }
+      ],
+      sprite: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png"
     },
-    gyarados: {
-        name: "Gyarados",
-        type: "water",
-        hp: 130,
-        image: "https://placehold.co/150x150/blue/white?text=Gyarados",
-        moves: [
-            { name: "Waterfall", type: "water", power: 25 },
-            { name: "Crunch", type: "dark", power: 22 },
-            { name: "Earthquake", type: "ground", power: 24 },
-            { name: "Ice Fang", type: "ice", power: 20 }
-        ]
+    "tyranitar": {
+      name: "Tyranitar",
+      type: "rock",
+      hp: 100,
+      attack: 134,
+      defense: 110,
+      speed: 61,
+      moves: [
+        { name: "Stone Edge", type: "rock", power: 100, accuracy: 80 },
+        { name: "Crunch", type: "dark", power: 80, accuracy: 100 },
+        { name: "Earthquake", type: "ground", power: 100, accuracy: 100 },
+        { name: "Fire Blast", type: "fire", power: 110, accuracy: 85 }
+      ],
+      sprite: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/248.png"
     },
-    dragonite: {
-        name: "Dragonite",
-        type: "dragon",
-        hp: 140,
-        image: "https://placehold.co/150x150/orange/white?text=Dragonite",
-        moves: [
-            { name: "Outrage", type: "dragon", power: 28 },
-            { name: "Hurricane", type: "flying", power: 25 },
-            { name: "Earthquake", type: "ground", power: 24 },
-            { name: "Ice Punch", type: "ice", power: 20 }
-        ]
+    "gyarados": {
+      name: "Gyarados",
+      type: "water",
+      hp: 95,
+      attack: 125,
+      defense: 79,
+      speed: 81,
+      moves: [
+        { name: "Waterfall", type: "water", power: 80, accuracy: 100 },
+        { name: "Crunch", type: "dark", power: 80, accuracy: 100 },
+        { name: "Earthquake", type: "ground", power: 100, accuracy: 100 },
+        { name: "Ice Fang", type: "ice", power: 65, accuracy: 95 }
+      ],
+      sprite: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png"
     },
-    tyranitar: {
-        name: "Tyranitar",
-        type: "rock",
-        hp: 145,
-        image: "https://placehold.co/150x150/gray/white?text=Tyranitar",
-        moves: [
-            { name: "Stone Edge", type: "rock", power: 27 },
-            { name: "Crunch", type: "dark", power: 24 },
-            { name: "Earthquake", type: "ground", power: 25 },
-            { name: "Fire Punch", type: "fire", power: 20 }
-        ]
+    "lucario": {
+      name: "Lucario",
+      type: "fighting",
+      hp: 70,
+      attack: 110,
+      defense: 70,
+      speed: 90,
+      moves: [
+        { name: "Aura Sphere", type: "fighting", power: 80, accuracy: 100 },
+        { name: "Flash Cannon", type: "steel", power: 80, accuracy: 100 },
+        { name: "Dark Pulse", type: "dark", power: 80, accuracy: 100 },
+        { name: "Extreme Speed", type: "normal", power: 80, accuracy: 100 }
+      ],
+      sprite: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/448.png"
     },
-    snorlax: {
-        name: "Snorlax",
-        type: "normal",
-        hp: 160,
-        image: "https://placehold.co/150x150/darkblue/white?text=Snorlax",
-        moves: [
-            { name: "Body Slam", type: "normal", power: 26 },
-            { name: "Earthquake", type: "ground", power: 24 },
-            { name: "Fire Punch", type: "fire", power: 20 },
-            { name: "Ice Punch", type: "ice", power: 20 }
-        ]
+    "garchomp": {
+      name: "Garchomp",
+      type: "dragon",
+      hp: 108,
+      attack: 130,
+      defense: 95,
+      speed: 102,
+      moves: [
+        { name: "Dragon Claw", type: "dragon", power: 80, accuracy: 100 },
+        { name: "Earthquake", type: "ground", power: 100, accuracy: 100 },
+        { name: "Fire Fang", type: "fire", power: 65, accuracy: 95 },
+        { name: "Stone Edge", type: "rock", power: 100, accuracy: 80 }
+      ],
+      sprite: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/445.png"
     }
-};
-
+  };

@@ -4,298 +4,181 @@ body {
     margin: 0;
     padding: 20px;
 }
-.battle-container {
-    display: flex;
-    justify-content: space-between;
-    max-width: 900px;
+
+.container {
+    max-width: 1200px;
     margin: 0 auto;
-    background-color: #fff;
-    border-radius: 10px;
-    padding: 20px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
-.pokemon {
+
+.header {
     text-align: center;
-    width: 40%;
-}
-.pokemon img {
-    width: 150px;
-    height: 150px;
-    object-fit: contain;
-}
-.health-bar {
-    height: 20px;
-    background-color: #e0e0e0;
-    border-radius: 10px;
-    margin: 10px 0;
-    overflow: hidden;
-}
-.health-bar-fill {
-    height: 100%;
-    background-color: #4CAF50;
-    transition: width 0.5s;
-}
-.moves {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 10px;
-    margin-top: 20px;
-}
-.move-btn {
-    padding: 8px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    font-weight: bold;
-    transition: background-color 0.3s;
-}
-.action-btns {
-    display: grid;
-    grid-template-columns: 1fr;
-    gap: 10px;
-    margin-top: 10px;
-}
-.switch-btn {
-    padding: 8px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    background-color: #9b59b6;
-    color: white;
-    font-weight: bold;
-    transition: background-color 0.3s;
-}
-.switch-btn:hover {
-    background-color: #8e44ad;
-}
-.switch-btn.disabled {
-    opacity: 0.5;
-    cursor: not-allowed;
-}
-.normal { background-color: #A8A878; color: white; }
-.fire { background-color: #F08030; color: white; }
-.water { background-color: #6890F0; color: white; }
-.electric { background-color: #F8D030; color: black; }
-.grass { background-color: #78C850; color: white; }
-.ice { background-color: #98D8D8; color: black; }
-.fighting { background-color: #C03028; color: white; }
-.poison { background-color: #A040A0; color: white; }
-.ground { background-color: #E0C068; color: black; }
-.flying { background-color: #A890F0; color: white; }
-.psychic { background-color: #F85888; color: white; }
-.bug { background-color: #A8B820; color: white; }
-.rock { background-color: #B8A038; color: white; }
-.ghost { background-color: #705898; color: white; }
-.dragon { background-color: #7038F8; color: white; }
-.dark { background-color: #705848; color: white; }
-.steel { background-color: #B8B8D0; color: black; }
-.fairy { background-color: #EE99AC; color: black; }
-
-.battle-log {
-    margin-top: 20px;
-    padding: 10px;
-    background-color: #f8f8f8;
-    border-radius: 5px;
-    max-height: 150px;
-    overflow-y: auto;
-}
-
-.game-setup {
     margin-bottom: 20px;
-    text-align: center;
 }
 
-.team-selection {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 10px;
-    margin-top: 10px;
+.header h1 {
+    color: #e53935;
 }
 
-.pokemon-option {
-    width: 80px;
-    text-align: center;
-    cursor: pointer;
-    padding: 5px;
-    border-radius: 5px;
-    transition: all 0.3s;
-}
-
-.pokemon-option.selected {
-    background-color: #3498db;
-    color: white;
-}
-
-.pokemon-option img {
-    width: 50px;
-    height: 50px;
-    object-fit: contain;
-}
-
-.pokemon-option span {
-    display: block;
-    font-size: 12px;
-    margin-top: 5px;
-}
-
-button {
-    padding: 8px 16px;
-    background-color: #3498db;
-    color: white;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-}
-
-button:hover {
-    background-color: #2980b9;
-}
-
-button:disabled {
-    background-color: #bdc3c7;
-    cursor: not-allowed;
-}
-
-.game-title {
-    text-align: center;
-    color: #e74c3c;
-    font-size: 2em;
-    margin-bottom: 20px;
-    text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
-}
-
-.vs-text {
-    font-size: 24px;
-    font-weight: bold;
-    color: #e74c3c;
-    margin: 0 10px;
-    align-self: center;
-}
-
-.battle-status {
-    text-align: center;
-    font-weight: bold;
-    margin-top: 10px;
-    color: #3498db;
-}
-
-.restart-btn {
-    display: block;
-    margin: 20px auto;
-    background-color: #e74c3c;
-}
-
-.restart-btn:hover {
-    background-color: #c0392b;
-}
-
-.hp-text {
-    font-size: 14px;
-    font-weight: bold;
-}
-
-.team-container {
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-    margin-top: 20px;
-}
-
-.team-pokemon {
-    display: flex;
-    justify-content: space-between;
-    margin-bottom: 10px;
-}
-
-.player1-team, .player2-team {
-    display: flex;
-    gap: 5px;
-    justify-content: center;
-}
-
-.team-pokemon-icon {
-    width: 40px;
-    height: 40px;
-    border-radius: 50%;
-    background-color: #f0f0f0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 10px;
-    cursor: pointer;
-    position: relative;
-}
-
-.team-pokemon-icon img {
-    width: 30px;
-    height: 30px;
-    object-fit: contain;
-}
-
-.team-pokemon-icon.active {
-    border: 2px solid #3498db;
-}
-
-.team-pokemon-icon.fainted {
-    opacity: 0.5;
-    position: relative;
-}
-
-.team-pokemon-icon.fainted::after {
-    content: 'X';
-    position: absolute;
-    color: red;
-    font-weight: bold;
-    font-size: 20px;
-}
-
-.team-setup {
-    max-width: 800px;
-    margin: 0 auto;
+/* LLM Settings */
+#llm-settings {
     background-color: white;
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
     margin-bottom: 20px;
 }
 
-.team-setup h2 {
-    text-align: center;
-    margin-bottom: 15px;
-    color: #3498db;
-}
-
-.pokemon-list {
+.settings-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
-    gap: 10px;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
 }
 
-.selected-team {
-    display: flex;
-    justify-content: center;
-    gap: 10px;
-    margin-top: 20px;
-    flex-wrap: wrap;
+.settings-section {
+    padding: 15px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
 }
 
-.instructions {
+.settings-section h3 {
+    margin-top: 0;
+    color: #333;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.form-group select, .form-group input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.button-container {
     text-align: center;
-    margin: 10px 0;
-    font-style: italic;
-    color: #7f8c8d;
+    margin-top: 20px;
 }
 
-.switch-pokemon-modal {
+button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #388e3c;
+}
+
+/* Battle Phase */
+#battle-phase {
+    display: none;
+}
+
+.battle-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+
+.pokemon-display {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+.pokemon-sprite {
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+}
+
+.pokemon-info {
+    margin-top: 15px;
+}
+
+.hp-bar {
+    height: 20px;
+    background-color: #e0e0e0;
+    border-radius: 10px;
+    margin-top: 10px;
+    overflow: hidden;
+}
+
+.hp-fill {
+    height: 100%;
+    background-color: #4caf50;
+    transition: width 0.5s;
+}
+
+.moves-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    margin-top: 15px;
+}
+
+.move-btn {
+    background-color: #2196f3;
+    color: white;
+    border: none;
+    padding: 8px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.move-btn:hover {
+    background-color: #1976d2;
+}
+
+.battle-controls {
+    grid-column: span 2;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.battle-log {
+    grid-column: span 2;
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    height: 200px;
+    overflow-y: auto;
+    margin-top: 20px;
+}
+
+.thinking-display {
+    background-color: #f5f5f5;
+    padding: 15px;
+    border-radius: 8px;
+    margin-top: 15px;
+}
+
+/* Switch Modal */
+.modal {
     display: none;
     position: fixed;
-    z-index: 1000;
-    left: 0;
     top: 0;
+    left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(0,0,0,0.5);
+    background-color: rgba(0,0,0,0.7);
+    z-index: 1000;
 }
 
 .modal-content {
@@ -305,104 +188,57 @@ button:disabled {
     width: 80%;
     max-width: 600px;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.3);
-}
-
-.modal-title {
-    text-align: center;
-    margin-bottom: 15px;
 }
 
 .switch-options {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 10px;
+    gap: 15px;
+    margin-top: 20px;
 }
 
 .switch-option {
-    padding: 10px;
-    border-radius: 5px;
     background-color: #f0f0f0;
-    text-align: center;
+    padding: 10px;
+    border-radius: 8px;
     cursor: pointer;
-    transition: background-color 0.3s;
+    text-align: center;
 }
 
 .switch-option:hover {
     background-color: #e0e0e0;
 }
 
-.switch-option.disabled {
-    opacity: 0.5;
-    cursor: not-allowed;
-}
-
 .switch-option img {
-    width: 50px;
-    height: 50px;
-    object-fit: contain;
+    width: 80px;
+    height: 80px;
 }
 
-.close-modal {
-    color: #aaa;
-    float: right;
-    font-size: 28px;
-    font-weight: bold;
-    cursor: pointer;
-}
-
-.close-modal:hover {
-    color: black;
-}
-
-.turn-indicator {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 10px 0;
-    padding: 10px;
-    background-color: #3498db;
+/* Type colors */
+.type {
+    display: inline-block;
+    padding: 3px 8px;
+    border-radius: 4px;
     color: white;
-    border-radius: 10px;
-    font-size: 1.2em;
-    font-weight: bold;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    font-size: 12px;
+    margin-right: 5px;
 }
 
-.player-identifier {
-    font-weight: bold;
-    color: #333;
-    margin-bottom: 5px;
-}
-
-.player1-color {
-    color: #3498db;
-}
-
-.player2-color {
-    color: #e74c3c;
-}
-
-.player-setup-section {
-    border-top: 2px solid #f0f0f0;
-    padding-top: 20px;
-    margin-top: 20px;
-}
-
-.hidden {
-    display: none;
-}
-
-.player-name-input {
-    display: flex;
-    justify-content: center;
-    margin-bottom: 20px;
-}
-
-.player-name-input input {
-    padding: 8px;
-    width: 200px;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    margin: 0 10px;
-}
+.type-normal { background-color: #A8A878; }
+.type-fire { background-color: #F08030; }
+.type-water { background-color: #6890F0; }
+.type-electric { background-color: #F8D030; }
+.type-grass { background-color: #78C850; }
+.type-ice { background-color: #98D8D8; }
+.type-fighting { background-color: #C03028; }
+.type-poison { background-color: #A040A0; }
+.type-ground { background-color: #E0C068; }
+.type-flying { background-color: #A890F0; }
+.type-psychic { background-color: #F85888; }
+.type-bug { background-color: #A8B820; }
+.type-rock { background-color: #B8A038; }
+.type-ghost { background-color: #705898; }
+.type-dragon { background-color: #7038F8; }
+.type-dark { background-color: #705848; }
+.type-steel { background-color: #B8B8D0; }
+.type-fairy { background-color: #EE99AC; }

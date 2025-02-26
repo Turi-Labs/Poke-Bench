@@ -3,129 +3,158 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pokemon Showdown - Team Battles</title>
+    <title>Pokemon Battle Simulator</title>
     <link rel="stylesheet" href="css/styles.css">
+
 </head>
 <body>
-    <h1 class="game-title">Pokemon Showdown - PVP Battles</h1>
-
-    <!-- Player Names Input -->
-    <div id="player-names" class="team-setup">
-        <h2>Enter Player Names</h2>
-        <div class="player-name-input">
-            <input type="text" id="player1-name-input" placeholder="Player 1 Name" value="Player 1">
-            <input type="text" id="player2-name-input" placeholder="Player 2 Name" value="Player 2">
+    <div class="container">
+        <div class="header">
+            <h1>Pokemon Battle Simulator</h1>
+            <p>Watch AI-controlled Pokemon battle each other!</p>
         </div>
-        <button id="confirm-names">Continue</button>
-    </div>
-
-    <!-- Team Setup Phase - Player 1 -->
-    <div id="player1-team-setup" class="team-setup hidden">
-        <h2><span class="player1-color" id="player1-name-display">Player 1</span>, Build Your Team</h2>
-        <p class="instructions">Select 6 Pokemon to form your team</p>
-        <div class="pokemon-list" id="player1-pokemon-list">
-            <!-- Pokemon options will be added dynamically -->
-        </div>
-        <p class="battle-status">Selected: <span id="player1-selected-count">0</span>/6</p>
-        <div class="selected-team" id="player1-selected-team">
-            <!-- Selected Pokemon will appear here -->
-        </div>
-        <button id="player1-confirm-team" disabled>Confirm Team</button>
-    </div>
-
-    <!-- Team Setup Phase - Player 2 -->
-    <div id="player2-team-setup" class="team-setup hidden">
-        <h2><span class="player2-color" id="player2-name-display">Player 2</span>, Build Your Team</h2>
-        <p class="instructions">Select 6 Pokemon to form your team</p>
-        <div class="pokemon-list" id="player2-pokemon-list">
-            <!-- Pokemon options will be added dynamically -->
-        </div>
-        <p class="battle-status">Selected: <span id="player2-selected-count">0</span>/6</p>
-        <div class="selected-team" id="player2-selected-team">
-            <!-- Selected Pokemon will appear here -->
-        </div>
-        <button id="player2-confirm-team" disabled>Confirm Team</button>
-    </div>
-
-    <!-- Battle Phase (initially hidden) -->
-    <div id="battle-phase" class="hidden">
-        <div class="turn-indicator" id="turn-indicator">
-            Waiting for battle to start...
-        </div>
-
-        <div class="team-container">
-            <div class="team-pokemon">
-                <div class="player1-team" id="player1-team">
-                    <!-- Player 1 team icons will be displayed here -->
+        
+        <!-- LLM Settings -->
+        <div id="llm-settings">
+            <h2>Battle Configuration</h2>
+            <div class="settings-grid">
+                <div class="settings-section">
+                    <h3>Player 1 (LLM 1)</h3>
+                    <div class="form-group">
+                        <label for="llm1-model">AI Model:</label>
+                        <select id="llm1-model">
+                            <option value="claude">Claude</option>
+                            <option value="random">Random</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="llm1-name">Bot Name:</label>
+                        <input type="text" id="llm1-name" value="ClaudeBot">
+                    </div>
                 </div>
-                <div class="player2-team" id="player2-team">
-                    <!-- Player 2 team icons will be displayed here -->
+                
+                <div class="settings-section">
+                    <h3>Player 2 (LLM 2)</h3>
+                    <div class="form-group">
+                        <label for="llm2-model">AI Model:</label>
+                        <select id="llm2-model">
+                            <option value="random">Random</option>
+                            <option value="claude">Claude</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="llm2-name">Bot Name:</label>
+                        <input type="text" id="llm2-name" value="RandomBot">
+                    </div>
                 </div>
             </div>
+            
+            <div class="settings-section">
+                <h3>Battle Settings</h3>
+                <div class="form-group">
+                    <label for="move-delay">Delay Between Moves (ms):</label>
+                    <input type="number" id="move-delay" value="2000" min="500" max="5000" step="500">
+                </div>
+            </div>
+            
+            <div class="button-container">
+                <button id="start-llm-battle">Start Battle</button>
+            </div>
         </div>
-
-        <div class="battle-container">
-            <div class="pokemon" id="player1">
-                <div class="player-identifier player1-color" id="player1-label">Player 1</div>
-                <h2 id="player1-pokemon-name">???</h2>
-                <img id="player1-img" src="https://placehold.co/150x150/gray/black?text=???" alt="Player 1 Pokemon">
-                <div class="health-bar">
-                    <div class="health-bar-fill" id="player1-health" style="width: 100%;"></div>
-                </div>
-                <div class="hp-text" id="player1-hp-text">HP: ?/?</div>
-                <div class="moves" id="player1-moves">
-                    <!-- Moves will be added dynamically -->
-                </div>
-                <div class="action-btns">
+        
+        <!-- Battle Phase -->
+        <div id="battle-phase">
+            <div class="battle-container">
+                <!-- Player 1 Pokemon -->
+                <div class="pokemon-display" id="player1-display">
+                    <h3 id="player1-name">Player 1</h3>
+                    <div class="pokemon-sprite">
+                        <img id="player1-sprite" src="" alt="Pokemon">
+                    </div>
+                    <div class="pokemon-info">
+                        <h4 id="player1-pokemon-name">Pokemon</h4>
+                        <div id="player1-type">
+                            <span class="type type-normal">Normal</span>
+                        </div>
+                        <div class="hp-container">
+                            <span id="player1-hp">100/100</span>
+                            <div class="hp-bar">
+                                <div class="hp-fill" id="player1-hp-fill" style="width: 100%;"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="moves-container" id="player1-moves">
+                        <!-- Moves will be added dynamically -->
+                    </div>
                     <button id="player1-switch" class="switch-btn">Switch Pokemon</button>
+                    
+                    <div class="thinking-display" id="player1-thinking">
+                        <h3>Thinking</h3>
+                        <p>Waiting for battle to start...</p>
+                    </div>
                 </div>
-            </div>
-
-            <div class="vs-text">VS</div>
-
-            <div class="pokemon" id="player2">
-                <div class="player-identifier player2-color" id="player2-label">Player 2</div>
-                <h2 id="player2-pokemon-name">???</h2>
-                <img id="player2-img" src="https://placehold.co/150x150/gray/black?text=???" alt="Player 2 Pokemon">
-                <div class="health-bar">
-                    <div class="health-bar-fill" id="player2-health" style="width: 100%;"></div>
-                </div>
-                <div class="hp-text" id="player2-hp-text">HP: ?/?</div>
-                <div class="moves" id="player2-moves">
-                    <!-- Moves will be added dynamically -->
-                </div>
-                <div class="action-btns">
+                
+                <!-- Player 2 Pokemon -->
+                <div class="pokemon-display" id="player2-display">
+                    <h3 id="player2-name">Player 2</h3>
+                    <div class="pokemon-sprite">
+                        <img id="player2-sprite" src="" alt="Pokemon">
+                    </div>
+                    <div class="pokemon-info">
+                        <h4 id="player2-pokemon-name">Pokemon</h4>
+                        <div id="player2-type">
+                            <span class="type type-normal">Normal</span>
+                        </div>
+                        <div class="hp-container">
+                            <span id="player2-hp">100/100</span>
+                            <div class="hp-bar">
+                                <div class="hp-fill" id="player2-hp-fill" style="width: 100%;"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="moves-container" id="player2-moves">
+                        <!-- Moves will be added dynamically -->
+                    </div>
                     <button id="player2-switch" class="switch-btn">Switch Pokemon</button>
+                    
+                    <div class="thinking-display" id="player2-thinking">
+                        <h3>Thinking</h3>
+                        <p>Waiting for battle to start...</p>
+                    </div>
+                </div>
+                
+                <!-- Battle Controls -->
+                <div class="battle-controls">
+                    <button id="next-move">Execute Next Move</button>
+                    <button id="toggle-auto-battle">Start Auto Battle</button>
+                    <button id="restart-battle">Restart Battle</button>
+                </div>
+                
+                <!-- Battle Log -->
+                <div class="battle-log" id="battle-log">
+                    <p>Battle will begin soon...</p>
                 </div>
             </div>
         </div>
-
-        <div class="battle-status" id="battle-status">Battle will begin soon...</div>
-
-        <div class="battle-log" id="battle-log">
-            <p>Welcome to Pokemon Showdown PVP Battles!</p>
-        </div>
-
-        <button class="restart-btn" id="restart-btn" style="display: none;">New Battle</button>
-    </div>
-
-    <!-- Switch Pokemon Modal -->
-    <div id="switch-modal" class="switch-pokemon-modal">
-        <div class="modal-content">
-            <span class="close-modal" id="close-modal">&times;</span>
-            <h3 class="modal-title">Switch Pokemon</h3>
-            <div class="switch-options" id="switch-options">
-                <!-- Switch options will be added dynamically -->
+        
+        <!-- Switch Pokemon Modal -->
+        <div id="switch-modal" class="modal">
+            <div class="modal-content">
+                <h3>Switch Pokemon</h3>
+                <div class="switch-options" id="switch-options">
+                    <!-- Switch options will be added dynamically -->
+                </div>
             </div>
         </div>
     </div>
-
+    
 <!-- JavaScript Files -->
     <script src="js/data/pokemon.js"></script>
     <script src="js/data/types.js"></script>
-    <script src="js/battle_mechanics.js"></script>
     <script src="js/ui_manager.js"></script>
+    <script src="js/battle_mechanics.js"></script>
     <script src="js/game_controller.js"></script>
     <script src="js/main.js"></script>
+    <script src="js/llm.js"></script>
 </body>
 </html>
