@@ -384,7 +384,10 @@ Analyze the battle situation using the provided battle state and return your dec
       try {
         // This is a synchronous call that returns a Promise
         // We'll let the caller handle the Promise
-        return callLLM(prompt, llm.model);
+        let response = callLLM(prompt, llm.model);
+        console.log("from controller")
+        console.log(response)
+        return response;
       } catch (error) {
         console.error('Error calling LLM:', error);
         // Fallback to random strategy if LLM call fails
