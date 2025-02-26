@@ -152,6 +152,11 @@ button:hover {
     background-color: #2980b9;
 }
 
+button:disabled {
+    background-color: #bdc3c7;
+    cursor: not-allowed;
+}
+
 .game-title {
     text-align: center;
     color: #e74c3c;
@@ -203,7 +208,7 @@ button:hover {
     margin-bottom: 10px;
 }
 
-.player-team, .opponent-team {
+.player1-team, .player2-team {
     display: flex;
     gap: 5px;
     justify-content: center;
@@ -258,6 +263,7 @@ button:hover {
 .team-setup h2 {
     text-align: center;
     margin-bottom: 15px;
+    color: #3498db;
 }
 
 .pokemon-list {
@@ -347,4 +353,56 @@ button:hover {
 
 .close-modal:hover {
     color: black;
+}
+
+.turn-indicator {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #3498db;
+    color: white;
+    border-radius: 10px;
+    font-size: 1.2em;
+    font-weight: bold;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.player-identifier {
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 5px;
+}
+
+.player1-color {
+    color: #3498db;
+}
+
+.player2-color {
+    color: #e74c3c;
+}
+
+.player-setup-section {
+    border-top: 2px solid #f0f0f0;
+    padding-top: 20px;
+    margin-top: 20px;
+}
+
+.hidden {
+    display: none;
+}
+
+.player-name-input {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.player-name-input input {
+    padding: 8px;
+    width: 200px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin: 0 10px;
 }

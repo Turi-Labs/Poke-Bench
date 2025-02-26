@@ -1,10 +1,31 @@
 class UIManager {
     constructor(elements) {
         this.elements = elements;
+        this.player1Name = "Player 1";
+        this.player2Name = "Player 2";
+    }
+
+    setPlayerNames(player1Name, player2Name) {
+        this.player1Name = player1Name || "Player 1";
+        this.player2Name = player2Name || "Player 2";
+
+        // Update all name displays
+        if (this.elements.player1Label) {
+            this.elements.player1Label.textContent = this.player1Name;
+        }
+        if (this.elements.player2Label) {
+            this.elements.player2Label.textContent = this.player2Name;
+        }
+        if (this.elements.player1NameDisplay) {
+            this.elements.player1NameDisplay.textContent = this.player1Name;
+        }
+        if (this.elements.player2NameDisplay) {
+            this.elements.player2NameDisplay.textContent = this.player2Name;
+        }
     }
 
     updateActivePokemon(player, pokemon, currentHP) {
-        const nameEl = this.elements[`${player}Name`];
+        const nameEl = this.elements[`${player}PokemonName`];
         const imgEl = this.elements[`${player}Img`];
         const healthEl = this.elements[`${player}Health`];
         const hpTextEl = this.elements[`${player}HPText`];
@@ -17,14 +38,16 @@ class UIManager {
         hpTextEl.textContent = `HP: ${currentHP}/${pokemon.hp}`;
     }
 
-    updateMoves(pokemon, onMoveClick) {
-        this.elements.playerMoves.innerHTML = '';
+    updateMoves(player, pokemon, onMoveClick) {
+        const movesContainer = this.elements[`${player}Moves`];
+        movesContainer.innerHTML = '';
+
         pokemon.moves.forEach(move => {
             const moveBtn = document.createElement('button');
             moveBtn.textContent = move.name;
             moveBtn.className = `move-btn ${move.type}`;
             moveBtn.addEventListener('click', () => onMoveClick(move));
-            this.elements.playerMoves.appendChild(moveBtn);
+            movesContainer.appendChild(moveBtn);
         });
     }
 
@@ -39,32 +62,41 @@ class UIManager {
         this.elements.battleStatus.textContent = message;
     }
 
-    disableMoves() {
-        const moveButtons = this.elements.playerMoves.querySelectorAll('.move-btn');
+    updateTurnIndicator(currentPlayer) {
+        const playerName = currentPlayer === 'player1' ? this.player1Name : this.player2Name;
+        const colorClass = currentPlayer === 'player1' ? 'player1-color' : 'player2-color';
+
+        this.elements.turnIndicator.innerHTML = `
+            <span class="${colorClass}">${playerName}'s Turn</span>
+        `;
+    }
+
+    disablePlayerControls(player) {
+        // Disable moves
+        const moveButtons = this.elements[`${player}Moves`].querySelectorAll('.move-btn');
         moveButtons.forEach(btn => {
             btn.disabled = true;
             btn.style.opacity = 0.5;
             btn.style.cursor = 'not-allowed';
         });
+
+        // Disable switch button
+        this.elements[`${player}Switch`].disabled = true;
+        this.elements[`${player}Switch`].classList.add('disabled');
     }
 
-    enableMoves() {
-        const moveButtons = this.elements.playerMoves.querySelectorAll('.move-btn');
+    enablePlayerControls(player) {
+        // Enable moves
+        const moveButtons = this.elements[`${player}Moves`].querySelectorAll('.move-btn');
         moveButtons.forEach(btn => {
             btn.disabled = false;
             btn.style.opacity = 1;
             btn.style.cursor = 'pointer';
         });
-    }
 
-    disableSwitchButton() {
-        this.elements.switchButton.disabled = true;
-        this.elements.switchButton.classList.add('disabled');
-    }
-
-    enableSwitchButton() {
-        this.elements.switchButton.disabled = false;
-        this.elements.switchButton.classList.remove('disabled');
+        // Enable switch button
+        this.elements[`${player}Switch`].disabled = false;
+        this.elements[`${player}Switch`].classList.remove('disabled');
     }
 
     showRestartButton() {
@@ -77,43 +109,48 @@ class UIManager {
 
     resetBattleLog() {
         this.elements.battleLog.innerHTML = '';
-        this.addLogEntry('Welcome to Pokemon Showdown Team Battles!');
+        this.addLogEntry('Welcome to Pokemon Showdown PVP Battles!');
+        this.addLogEntry(`${this.player1Name} vs ${this.player2Name}. Get ready for battle!`);
     }
 
-    updateTeamIcons(playerTeam, opponentTeam, playerActiveIndex, opponentActiveIndex) {
+    updateTeamIcons(player1Team, player2Team, player1ActiveIndex, player2ActiveIndex) {
         // Clear existing team icons
-        this.elements.playerTeam.innerHTML = '';
-        this.elements.opponentTeam.innerHTML = '';
+        this.elements.player1Team.innerHTML = '';
+        this.elements.player2Team.innerHTML = '';
 
-        // Add player team icons
-        playerTeam.forEach((pokemon, index) => {
+        // Add player1 team icons
+        player1Team.forEach((pokemon, index) => {
             const icon = document.createElement('div');
-            icon.className = `team-pokemon-icon ${index === playerActiveIndex ? 'active' : ''} ${pokemon.currentHP <= 0 ? 'fainted' : ''}`;
+            icon.className = `team-pokemon-icon ${index === player1ActiveIndex ? 'active' : ''} ${pokemon.currentHP <= 0 ? 'fainted' : ''}`;
 
             const img = document.createElement('img');
             img.src = pokemon.image;
             img.alt = pokemon.name;
 
             icon.appendChild(img);
-            this.elements.playerTeam.appendChild(icon);
+            this.elements.player1Team.appendChild(icon);
         });
 
-        // Add opponent team icons
-        opponentTeam.forEach((pokemon, index) => {
+        // Add player2 team icons
+        player2Team.forEach((pokemon, index) => {
             const icon = document.createElement('div');
-            icon.className = `team-pokemon-icon ${index === opponentActiveIndex ? 'active' : ''} ${pokemon.currentHP <= 0 ? 'fainted' : ''}`;
+            icon.className = `team-pokemon-icon ${index === player2ActiveIndex ? 'active' : ''} ${pokemon.currentHP <= 0 ? 'fainted' : ''}`;
 
             const img = document.createElement('img');
             img.src = pokemon.image;
             img.alt = pokemon.name;
 
             icon.appendChild(img);
-            this.elements.opponentTeam.appendChild(icon);
+            this.elements.player2Team.appendChild(icon);
         });
     }
 
-    populateSwitchOptions(team, activeIndex, onSwitchSelect) {
+    populateSwitchOptions(team, activeIndex, playerName, onSwitchSelect) {
         this.elements.switchOptions.innerHTML = '';
+
+        // Update modal title to include player name
+        const modalTitle = document.querySelector('.modal-title');
+        modalTitle.textContent = `${playerName}, Switch Pokemon`;
 
         team.forEach((pokemon, index) => {
             if (index !== activeIndex && pokemon.currentHP > 0) {
@@ -158,12 +195,17 @@ class UIManager {
         this.elements.switchModal.style.display = 'none';
     }
 
-    displayPokemonList(pokemonData, onPokemonSelect) {
-        this.elements.pokemonList.innerHTML = '';
+    displayPokemonList(player, pokemonData, selectedPokemon, onPokemonSelect) {
+        const pokemonList = this.elements[`${player}PokemonList`];
+        pokemonList.innerHTML = '';
 
         Object.entries(pokemonData).forEach(([key, pokemon]) => {
             const option = document.createElement('div');
             option.className = 'pokemon-option';
+            if (selectedPokemon.has(key)) {
+                option.classList.add('selected');
+                option.style.pointerEvents = 'none';
+            }
             option.dataset.key = key;
 
             const img = document.createElement('img');
@@ -176,17 +218,24 @@ class UIManager {
             option.appendChild(img);
             option.appendChild(name);
 
-            option.addEventListener('click', () => onPokemonSelect(key));
+            option.addEventListener('click', () => {
+                if (!selectedPokemon.has(key)) {
+                    onPokemonSelect(key);
+                }
+            });
 
-            this.elements.pokemonList.appendChild(option);
+            pokemonList.appendChild(option);
         });
     }
 
-    updateSelectedTeam(team) {
-        this.elements.selectedTeam.innerHTML = '';
-        this.elements.selectedCount.textContent = team.length;
+    updateSelectedTeam(player, team) {
+        const selectedTeam = this.elements[`${player}SelectedTeam`];
+        const selectedCount = this.elements[`${player}SelectedCount`];
 
-        team.forEach((pokemon, index) => {
+        selectedTeam.innerHTML = '';
+        selectedCount.textContent = team.length;
+
+        team.forEach(pokemon => {
             const selectedPokemon = document.createElement('div');
             selectedPokemon.className = 'team-pokemon-icon';
 
@@ -195,25 +244,43 @@ class UIManager {
             img.alt = pokemon.name;
 
             selectedPokemon.appendChild(img);
-            this.elements.selectedTeam.appendChild(selectedPokemon);
+            selectedTeam.appendChild(selectedPokemon);
         });
     }
 
-    enableStartButton() {
-        this.elements.startGameBtn.disabled = false;
+    enableTeamConfirmButton(player) {
+        this.elements[`${player}ConfirmTeam`].disabled = false;
     }
 
-    disableStartButton() {
-        this.elements.startGameBtn.disabled = true;
+    disableTeamConfirmButton(player) {
+        this.elements[`${player}ConfirmTeam`].disabled = true;
     }
 
-    showTeamSetup() {
-        this.elements.teamSetup.style.display = 'block';
+    showPlayerNameInput() {
+        this.elements.playerNames.style.display = 'block';
+        this.elements.player1TeamSetup.style.display = 'none';
+        this.elements.player2TeamSetup.style.display = 'none';
+        this.elements.battlePhase.style.display = 'none';
+    }
+
+    showPlayer1TeamSetup() {
+        this.elements.playerNames.style.display = 'none';
+        this.elements.player1TeamSetup.style.display = 'block';
+        this.elements.player2TeamSetup.style.display = 'none';
+        this.elements.battlePhase.style.display = 'none';
+    }
+
+    showPlayer2TeamSetup() {
+        this.elements.playerNames.style.display = 'none';
+        this.elements.player1TeamSetup.style.display = 'none';
+        this.elements.player2TeamSetup.style.display = 'block';
         this.elements.battlePhase.style.display = 'none';
     }
 
     showBattlePhase() {
-        this.elements.teamSetup.style.display = 'none';
+        this.elements.playerNames.style.display = 'none';
+        this.elements.player1TeamSetup.style.display = 'none';
+        this.elements.player2TeamSetup.style.display = 'none';
         this.elements.battlePhase.style.display = 'block';
     }
 }
