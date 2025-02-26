@@ -146,33 +146,35 @@ export default function BattlePhase({ player1Name, player2Name, onRestart }: Bat
       <div className="battle-main-content md:w-3/4">
         <div className="grid md:grid-cols-2 gap-6 mb-6">
           <div>
+          <TeamDisplay
+              team={player1Team}
+              activeIndex={player1ActiveIndex}
+              playerId="player1"
+              playerName={player1Name}
+            />
             <PokemonDisplay 
               playerId="player1"
               playerName={player1Name}
               gameController={gameControllerRef.current}
               pokemon={player1Pokemon}
             />
-            <TeamDisplay
-              team={player1Team}
-              activeIndex={player1ActiveIndex}
-              playerId="player1"
-              playerName={player1Name}
-            />
+            
           </div>
           
           <div>
+          <TeamDisplay
+              team={player2Team}
+              activeIndex={player2ActiveIndex}
+              playerId="player2"
+              playerName={player2Name}
+            />
             <PokemonDisplay 
               playerId="player2"
               playerName={player2Name}
               gameController={gameControllerRef.current}
               pokemon={player2Pokemon}
             />
-            <TeamDisplay
-              team={player2Team}
-              activeIndex={player2ActiveIndex}
-              playerId="player2"
-              playerName={player2Name}
-            />
+            
           </div>
         </div>
         
