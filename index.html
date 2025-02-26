@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokemon Showdown - Team Battles</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <h1 class="game-title">Pokemon Showdown - Team Battles</h1>
+
+    <!-- Team Setup Phase -->
+    <div id="team-setup" class="team-setup">
+        <h2>Build Your Team</h2>
+        <p class="instructions">Select 6 Pokemon to form your team</p>
+        <div class="pokemon-list" id="pokemon-list">
+            <!-- Pokemon options will be added dynamically -->
+        </div>
+        <p class="battle-status">Selected: <span id="selected-count">0</span>/6</p>
+        <div class="selected-team" id="selected-team">
+            <!-- Selected Pokemon will appear here -->
+        </div>
+        <button id="start-game" disabled>Start Battle</button>
+    </div>
+
+    <!-- Battle Phase (initially hidden) -->
+    <div id="battle-phase" style="display: none;">
+        <div class="team-container">
+            <div class="team-pokemon">
+                <div class="player-team" id="player-team">
+                    <!-- Player team icons will be displayed here -->
+                </div>
+                <div class="opponent-team" id="opponent-team">
+                    <!-- Opponent team icons will be displayed here -->
+                </div>
+            </div>
+        </div>
+
+        <div class="battle-container">
+            <div class="pokemon" id="player">
+                <h2 id="player-name">???</h2>
+                <img id="player-img" src="https://placehold.co/150x150/gray/black?text=???" alt="Player Pokemon">
+                <div class="health-bar">
+                    <div class="health-bar-fill" id="player-health" style="width: 100%;"></div>
+                </div>
+                <div class="hp-text" id="player-hp-text">HP: ?/?</div>
+                <div class="moves" id="player-moves">
+                    <!-- Moves will be added dynamically -->
+                </div>
+                <div class="action-btns">
+                    <button id="switch-pokemon" class="switch-btn">Switch Pokemon</button>
+                </div>
+            </div>
+
+            <div class="vs-text">VS</div>
+
+            <div class="pokemon" id="opponent">
+                <h2 id="opponent-name">???</h2>
+                <img id="opponent-img" src="https://placehold.co/150x150/gray/black?text=???" alt="Opponent Pokemon">
+                <div class="health-bar">
+                    <div class="health-bar-fill" id="opponent-health" style="width: 100%;"></div>
+                </div>
+                <div class="hp-text" id="opponent-hp-text">HP: ?/?</div>
+            </div>
+        </div>
+
+        <div class="battle-status" id="battle-status">Battle will begin soon...</div>
+
+        <div class="battle-log" id="battle-log">
+            <p>Welcome to Pokemon Showdown Team Battles!</p>
+        </div>
+
+        <button class="restart-btn" id="restart-btn" style="display: none;">Restart Battle</button>
+    </div>
+
+    <!-- Switch Pokemon Modal -->
+    <div id="switch-modal" class="switch-pokemon-modal">
+        <div class="modal-content">
+            <span class="close-modal" id="close-modal">&times;</span>
+            <h3 class="modal-title">Switch Pokemon</h3>
+            <div class="switch-options" id="switch-options">
+                <!-- Switch options will be added dynamically -->
+            </div>
+        </div>
+    </div>
+
+<!-- JavaScript Files -->
+    <script src="js/data/pokemon.js"></script>
+    <script src="js/data/types.js"></script>
+    <script src="js/battle_mechanics.js"></script>
+    <script src="js/ui_manager.js"></script>
+    <script src="js/game_controller.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
