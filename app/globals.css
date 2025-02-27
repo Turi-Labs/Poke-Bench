@@ -428,3 +428,92 @@
   color: #3c5aa6;
   text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.7);
 }
+
+/* Additional refinements for compact layout */
+
+/* Make the battle container more compact overall */
+.battle-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Further reduce the size of Pokemon sprites for better fit */
+.pokemon-sprite {
+  width: 100px;
+  height: 100px;
+  margin: 3px auto;
+}
+
+.pokemon-sprite img {
+  @apply w-20 h-20 object-contain;
+}
+
+/* Make the battle log more compact */
+.battle-log {
+  max-height: 400px;
+}
+
+.battle-log-message {
+  padding: 3px 5px;
+  margin-bottom: 2px;
+}
+
+/* Reduce box shadow size for more compact appearance */
+.pokemon-display {
+  box-shadow: 0 0 0 3px #2a75bb, 0 0 0 6px #ffcb05, 3px 3px 8px rgba(0, 0, 0, 0.3);
+}
+
+.battle-log {
+  box-shadow: 0 0 0 3px #2a75bb, 0 0 0 6px #ffcb05, 3px 3px 8px rgba(0, 0, 0, 0.3);
+}
+
+/* Make team display items smaller */
+.pokemon-team-item img {
+  max-width: 30px;
+  max-height: 30px;
+}
+
+/* Adjust the grid layout for better space usage */
+.battle-main-content {
+  @apply md:w-3/5;
+}
+
+.battle-sidebar {
+  @apply md:w-2/5;
+}
+
+/* Make move buttons even more compact */
+.moves-container {
+  @apply grid grid-cols-2 gap-1 mt-1;
+}
+
+.move-btn {
+  @apply py-1 px-1 text-xs;
+  font-size: 0.6rem !important;
+}
+
+/* Reduce padding in Pokemon info */
+.pokemon-info {
+  padding: 3px;
+}
+
+/* Make the HP bar thinner */
+.hp-bar {
+  @apply h-2;
+}
+
+/* Adjust the battle controls spacing */
+.battle-controls {
+  @apply mt-2;
+}
+
+/* Ensure text doesn't overflow in small containers */
+.pokemon-display h3, 
+.team-display h3,
+.battle-log h3 {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+

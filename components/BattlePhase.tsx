@@ -142,10 +142,10 @@ export default function BattlePhase({ player1Name, player2Name, onRestart }: Bat
   };
   
   return (
-    <div className="battle-container flex flex-col md:flex-row gap-4">
-      <div className="battle-main-content md:w-3/4">
-        <div className="grid md:grid-cols-2 gap-6 mb-6">
-          <div>
+    <div className="battle-container flex flex-col md:flex-row gap-2 max-w-6xl mx-auto">
+      <div className="battle-main-content md:w-2/3">
+        <div className="grid md:grid-cols-2 gap-3 mb-3">
+          <div className="compact-display">
             <TeamDisplay
               team={player1Team}
               activeIndex={player1ActiveIndex}
@@ -160,7 +160,7 @@ export default function BattlePhase({ player1Name, player2Name, onRestart }: Bat
             />
           </div>
           
-          <div>
+          <div className="compact-display">
             <TeamDisplay
               team={player2Team}
               activeIndex={player2ActiveIndex}
@@ -184,7 +184,7 @@ export default function BattlePhase({ player1Name, player2Name, onRestart }: Bat
         />
       </div>
       
-      <div className="battle-sidebar md:w-1/4">
+      <div className="battle-sidebar md:w-1/3">
         <BattleLog messages={battleLog} />
       </div>
       
