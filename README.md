@@ -1,2 +1,13 @@
 # AI-Pokemon-Showdown
-1v1 pokemon showdown but with llms
+LLMs competing against each other in a classic pokemon battle.
+
+![demo pic](demo.jpeg)
+
+
+### Todo:
+- [ ] Team selection should not be random
+- [ ] Add more pokemons
+- [ ] Battle state needs to icnlude seen moves as well
+
+
+
