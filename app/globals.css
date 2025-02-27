@@ -2,6 +2,22 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family: 'Pokemon';
+  src: url('https://cdn.jsdelivr.net/gh/PascalPixel/pokemon-font@master/fonts/pokemon-font.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Press Start 2P';
+  src: url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
@@ -43,6 +59,14 @@
     --chart-4: 43 74% 66%;
     --chart-5: 27 87% 67%;
     --radius: 0.5rem;
+    
+    /* Pokemon theme colors */
+    --pokemon-red: 354 86% 55%;
+    --pokemon-blue: 203 87% 50%;
+    --pokemon-yellow: 49 100% 50%;
+    --pokemon-green: 141 69% 58%;
+    --pokemon-black: 0 0% 20%;
+    --pokemon-white: 0 0% 95%;
   }
   .dark {
     --background: 0 0% 3.9%;
@@ -78,12 +102,34 @@
   }
   body {
     @apply bg-background text-foreground;
+    background: linear-gradient(135deg, #f8f8f8 25%, #e0e0e0 25%, #e0e0e0 50%, #f8f8f8 50%, #f8f8f8 75%, #e0e0e0 75%);
+    background-size: 40px 40px;
+    background-repeat: repeat;
+    /* background-size: 200px; */
+  }
+  h1, h2, h3 {
+    font-family: 'Pokemon', sans-serif;
+    letter-spacing: 1px;
+  }
+  h4, h5, h6 {
+    font-family: 'Press Start 2P', monospace;
+    letter-spacing: 0.5px;
+  }
+  button {
+    font-family: 'Press Start 2P', monospace;
+    font-size: 0.8rem !important;
+    letter-spacing: 0.5px;
   }
 }
 
 /* Pokemon Type Colors */
 .type {
   @apply inline-block px-2 py-1 rounded text-white text-sm font-medium mr-1;
+  font-family: 'Press Start 2P', monospace;
+  font-size: 0.6rem;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  border: 2px solid rgba(0, 0, 0, 0.3);
 }
 
 .type-normal { @apply bg-gray-400; }
@@ -108,18 +154,58 @@
 /* Battle UI */
 .pokemon-display {
   @apply bg-white rounded-lg shadow-md p-4 relative;
+  background-color: #f8f8f8;
+  border: 4px solid #3c5aa6;
+  box-shadow: 0 0 0 4px #2a75bb, 0 0 0 8px #ffcb05, 4px 4px 10px rgba(0, 0, 0, 0.3);
+  position: relative;
+}
+
+.pokemon-display::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 30px;
+  background-color: #ff0000;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  z-index: 0;
+}
+
+.pokemon-display h3 {
+  position: relative;
+  z-index: 1;
+  color: white;
+  text-shadow: 2px 2px 0 #000;
+  margin-top: -10px;
+  padding-bottom: 10px;
 }
 
 .pokemon-sprite {
   @apply flex justify-center items-center;
+  background: linear-gradient(135deg, #f8f8f8 25%, #e0e0e0 25%, #e0e0e0 50%, #f8f8f8 50%, #f8f8f8 75%, #e0e0e0 75%);
+  background-size: cover;
+  background-position: center;
+  border-radius: 50%;
+  padding: 10px;
+  margin: 10px auto;
+  width: 150px;
+  height: 150px;
+  border: 3px solid #3c5aa6;
 }
 
 .pokemon-sprite img {
   @apply w-32 h-32 object-contain;
+  image-rendering: pixelated;
 }
 
 .pokemon-info {
   @apply mt-2 text-center;
+  background-color: #f0f0f0;
+  border: 2px solid #3c5aa6;
+  border-radius: 8px;
+  padding: 8px;
 }
 
 .hp-container {
@@ -128,6 +214,7 @@
 
 .hp-bar {
   @apply w-full h-4 bg-gray-200 rounded-full overflow-hidden;
+  border: 2px solid #000;
 }
 
 .hp-fill {
@@ -140,10 +227,17 @@
 
 .move-btn {
   @apply py-2 px-3 rounded text-white text-sm font-medium transition-colors;
+  border: 3px solid rgba(0, 0, 0, 0.3);
+  text-shadow: 1px 1px 0 #000;
+  box-shadow: inset -2px -2px 0 rgba(0, 0, 0, 0.3);
 }
 
 .switch-btn {
   @apply mt-4 w-full py-2 bg-blue-500 text-white rounded hover:bg-blue-600 transition-colors;
+  background-color: #3c5aa6;
+  border: 3px solid #2a75bb;
+  text-shadow: 1px 1px 0 #000;
+  box-shadow: inset -2px -2px 0 rgba(0, 0, 0, 0.3);
 }
 
 .battle-controls {
@@ -152,15 +246,35 @@
 
 .battle-controls button {
   @apply py-2 px-4 bg-blue-500 text-white rounded hover:bg-blue-600 transition-colors;
+  background-color: #ffcb05;
+  border: 3px solid #c7a008;
+  color: #3c5aa6;
+  text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.5);
+  box-shadow: inset -2px -2px 0 rgba(0, 0, 0, 0.3);
 }
 
 /* Battle log styles */
 .battle-log {
   @apply rounded-lg overflow-y-auto;
+  border: 4px solid #3c5aa6;
+  box-shadow: 0 0 0 4px #2a75bb, 0 0 0 8px #ffcb05, 4px 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+.battle-log h3 {
+  background-color: #ff0000;
+  color: white;
+  text-shadow: 2px 2px 0 #000;
+  padding: 8px;
+  margin: 0;
 }
 
 .battle-log-message {
   @apply transition-all duration-300 ease-in-out;
+  border: 2px solid #3c5aa6;
+  background-color: #f8f8f8;
+  font-family: 'Press Start 2P', monospace;
+  font-size: 0.7rem;
+  line-height: 1.4;
 }
 
 @keyframes fadeIn {
@@ -174,6 +288,16 @@
 
 .thinking-display {
   @apply mt-4 p-3 bg-gray-100 rounded;
+  border: 2px solid #3c5aa6;
+  background-color: #f0f0f0;
+}
+
+.thinking-display h3 {
+  font-size: 0.9rem;
+  color: #3c5aa6;
+  text-shadow: none;
+  margin-top: 0;
+  padding-bottom: 5px;
 }
 
 /* Modal */
@@ -183,6 +307,15 @@
 
 .modal-content {
   @apply bg-white rounded-lg p-6 max-w-md w-full;
+  border: 4px solid #3c5aa6;
+  box-shadow: 0 0 0 4px #2a75bb, 0 0 0 8px #ffcb05, 4px 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+.modal-content h3 {
+  color: #3c5aa6;
+  text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.5);
+  text-align: center;
+  margin-bottom: 15px;
 }
 
 .switch-options {
@@ -191,6 +324,45 @@
 
 .switch-option {
   @apply bg-gray-100 p-3 rounded-lg cursor-pointer hover:bg-gray-200 transition-colors text-center;
+  border: 3px solid #3c5aa6;
+  background-color: #f0f0f0;
+}
+
+.switch-option:hover {
+  background-color: #e0e0e0;
+  transform: scale(1.05);
+}
+
+.switch-option img {
+  image-rendering: pixelated;
+}
+
+/* Team Display */
+.team-display {
+  @apply bg-gray-100 p-3 rounded-lg mt-4;
+  background-color: #f0f0f0;
+  border: 3px solid #3c5aa6;
+  margin-bottom: 15px;
+}
+
+.team-display h3 {
+  color: #3c5aa6;
+  text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.5);
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.pokemon-team-item {
+  border: 2px solid #3c5aa6;
+}
+
+.pokemon-team-item.bg-blue-200 {
+  background-color: #ffcb05 !important;
+  border-color: #c7a008 !important;
+}
+
+.pokemon-team-item img {
+  image-rendering: pixelated;
 }
 
 /* Responsive layout */
@@ -207,4 +379,52 @@
   .battle-log {
     @apply h-64;
   }
+}
+
+/* Settings UI */
+#llm-settings {
+  background-color: #f8f8f8;
+  border: 4px solid #3c5aa6;
+  box-shadow: 0 0 0 4px #2a75bb, 0 0 0 8px #ffcb05, 4px 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+#llm-settings h2 {
+  color: #3c5aa6;
+  text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.5);
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#llm-settings h3 {
+  color: #ff0000;
+  text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.5);
+}
+
+#llm-settings label {
+  font-family: 'Press Start 2P', monospace;
+  font-size: 0.7rem;
+  color: #3c5aa6;
+}
+
+#llm-settings select, 
+#llm-settings input {
+  border: 2px solid #3c5aa6;
+  background-color: #f0f0f0;
+  border-radius: 4px;
+}
+
+/* Main title styling */
+.text-4xl {
+  color: #ffcb05;
+  text-shadow: 
+    -3px -3px 0 #3c5aa6,  
+    3px -3px 0 #3c5aa6,
+    -3px 3px 0 #3c5aa6,
+    3px 3px 0 #3c5aa6;
+  font-size: 2.5rem !important;
+}
+
+.text-xl {
+  color: #3c5aa6;
+  text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.7);
 }

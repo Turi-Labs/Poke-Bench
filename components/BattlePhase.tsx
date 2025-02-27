@@ -146,7 +146,7 @@ export default function BattlePhase({ player1Name, player2Name, onRestart }: Bat
       <div className="battle-main-content md:w-3/4">
         <div className="grid md:grid-cols-2 gap-6 mb-6">
           <div>
-          <TeamDisplay
+            <TeamDisplay
               team={player1Team}
               activeIndex={player1ActiveIndex}
               playerId="player1"
@@ -158,11 +158,10 @@ export default function BattlePhase({ player1Name, player2Name, onRestart }: Bat
               gameController={gameControllerRef.current}
               pokemon={player1Pokemon}
             />
-            
           </div>
           
           <div>
-          <TeamDisplay
+            <TeamDisplay
               team={player2Team}
               activeIndex={player2ActiveIndex}
               playerId="player2"
@@ -174,7 +173,6 @@ export default function BattlePhase({ player1Name, player2Name, onRestart }: Bat
               gameController={gameControllerRef.current}
               pokemon={player2Pokemon}
             />
-            
           </div>
         </div>
         

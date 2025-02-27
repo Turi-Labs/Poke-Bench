@@ -18,7 +18,7 @@ export default function BattleLog({ messages }: BattleLogProps) {
   
   return (
     <div className="battle-log-container h-full">
-      <h3 className="text-lg font-semibold mb-2 bg-blue-600 text-white p-2 rounded-t-lg">Battle Log</h3>
+      <h3 className="text-lg font-semibold mb-0 bg-blue-600 text-white p-2 rounded-t-lg">Battle Log</h3>
       <div 
         className="battle-log bg-gray-100 rounded-b-lg p-3 h-[calc(100vh-200px)] overflow-y-auto flex flex-col"
         id="battle-log"
