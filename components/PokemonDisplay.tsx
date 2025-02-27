@@ -131,9 +131,30 @@ export default function PokemonDisplay({ playerId, playerName, gameController, p
       </button>
       
       <div className="mt-1 p-1 bg-gray-100 rounded border border-gray-300 text-[8px]" id={`${playerId}-thinking`}>
-        <h3 className="font-semibold text-[18px]">LLM Reasoning</h3>
-        <div className="text-[18px] ">{thinking}</div>
-      </div>
+  <h3 className="font-semibold text-[18px]">LLM Reasoning</h3>
+  <div 
+    className="max-h-[200px] overflow-y-auto" 
+    style={{
+      scrollbarWidth: 'thin', /* Firefox */
+      scrollbarColor: '#CBD5E0 #EDF2F7', /* Firefox */
+    }}
+  >
+    <style jsx>{`
+      div::-webkit-scrollbar {
+        width: 8px;
+      }
+      div::-webkit-scrollbar-track {
+        background: #EDF2F7;
+        border-radius: 4px;
+      }
+      div::-webkit-scrollbar-thumb {
+        background-color: #CBD5E0;
+        border-radius: 4px;
+      }
+    `}</style>
+    <p className="text-[18px]">{thinking}</p>
+  </div>
+</div>
     </div>
   );
 }

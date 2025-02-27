@@ -54,6 +54,7 @@ export default function LLMSettings({ onStartBattle, setPlayer1Name, setPlayer2N
             >
               <option value="random">Random</option>
               <option value="openai">OpenAI</option>
+              <option value="claude">Claude</option>
             </select>
           </div>
           <div>
@@ -84,6 +85,7 @@ export default function LLMSettings({ onStartBattle, setPlayer1Name, setPlayer2N
             >
               <option value="random">Random</option>
               <option value="openai">OpenAI</option>
+              <option value="claude">claude</option>
             </select>
           </div>
           <div>

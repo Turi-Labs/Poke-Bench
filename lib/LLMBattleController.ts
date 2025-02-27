@@ -317,7 +317,7 @@ export class LLMBattleController {
     }
     
     // For OpenAI model, call the API
-    if (llm.model === 'openai') {
+    if (llm.model !== 'random') {
       const prompt = `
 You are a Pokémon battle AI assistant. Your task is to decide the next optimal move in a Pokémon battle.
 

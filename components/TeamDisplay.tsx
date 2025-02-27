@@ -41,7 +41,7 @@ export default function TeamDisplay({ team, activeIndex, playerId, playerName }:
                 <img 
                   src={pokemon.sprite} 
                   alt={pokemon.name}
-                  className="w-6 h-6 object-contain mx-auto"
+                  className="w-10 h-10 object-contain mx-auto"
                 />
                 {isFainted && (
                   <div className="absolute inset-0 flex items-center justify-center">
@@ -49,15 +49,15 @@ export default function TeamDisplay({ team, activeIndex, playerId, playerName }:
                   </div>
                 )}
               </div>
-              <div className="text-[6px] font-medium truncate">{pokemon.name}</div>
+              <div className="text-[10px] font-medium truncate">{pokemon.name}</div>
               <div className="text-[6px]">
-                <span className="inline-block bg-gray-200 text-[6px] py-0 px-0.5 rounded-sm" style={{
+                <span className="inline-block bg-gray-200 text-[10px] py-0 px-0.5 rounded-sm" style={{
                   backgroundColor: getTypeColor(pokemon.type.toLowerCase())
                 }}>
                   {pokemon.type.substring(0, 3)}
                 </span>
               </div>
-              <div className={`text-[6px] ${isFainted ? 'text-red-600' : pokemon.currentHP < pokemon.hp / 2 ? 'text-yellow-600' : 'text-green-600'}`}>
+              <div className={`text-[10px] ${isFainted ? 'text-red-600' : pokemon.currentHP < pokemon.hp / 2 ? 'text-yellow-600' : 'text-green-600'}`}>
                 {pokemon.currentHP}/{pokemon.hp}
               </div>
             </div>

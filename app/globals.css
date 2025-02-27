@@ -4,7 +4,7 @@
 
 @font-face {
   font-family: 'Pokemon';
-  src: url('https://cdn.jsdelivr.net/gh/PascalPixel/pokemon-font@master/fonts/pokemon-font.woff2') format('woff2');
+  src: url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap') format('woff2');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
