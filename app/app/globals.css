@@ -1,0 +1,519 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Pokemon';
+  src: url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Press Start 2P';
+  src: url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 0 0% 3.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 0 0% 3.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 0 0% 3.9%;
+    --primary: 0 0% 9%;
+    --primary-foreground: 0 0% 98%;
+    --secondary: 0 0% 96.1%;
+    --secondary-foreground: 0 0% 9%;
+    --muted: 0 0% 96.1%;
+    --muted-foreground: 0 0% 45.1%;
+    --accent: 0 0% 96.1%;
+    --accent-foreground: 0 0% 9%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 0 0% 89.8%;
+    --input: 0 0% 89.8%;
+    --ring: 0 0% 3.9%;
+    --chart-1: 12 76% 61%;
+    --chart-2: 173 58% 39%;
+    --chart-3: 197 37% 24%;
+    --chart-4: 43 74% 66%;
+    --chart-5: 27 87% 67%;
+    --radius: 0.5rem;
+    
+    /* Pokemon theme colors */
+    --pokemon-red: 354 86% 55%;
+    --pokemon-blue: 203 87% 50%;
+    --pokemon-yellow: 49 100% 50%;
+    --pokemon-green: 141 69% 58%;
+    --pokemon-black: 0 0% 20%;
+    --pokemon-white: 0 0% 95%;
+  }
+  .dark {
+    --background: 0 0% 3.9%;
+    --foreground: 0 0% 98%;
+    --card: 0 0% 3.9%;
+    --card-foreground: 0 0% 98%;
+    --popover: 0 0% 3.9%;
+    --popover-foreground: 0 0% 98%;
+    --primary: 0 0% 98%;
+    --primary-foreground: 0 0% 9%;
+    --secondary: 0 0% 14.9%;
+    --secondary-foreground: 0 0% 98%;
+    --muted: 0 0% 14.9%;
+    --muted-foreground: 0 0% 63.9%;
+    --accent: 0 0% 14.9%;
+    --accent-foreground: 0 0% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 0 0% 14.9%;
+    --input: 0 0% 14.9%;
+    --ring: 0 0% 83.1%;
+    --chart-1: 220 70% 50%;
+    --chart-2: 160 60% 45%;
+    --chart-3: 30 80% 55%;
+    --chart-4: 280 65% 60%;
+    --chart-5: 340 75% 55%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+    background: linear-gradient(135deg, #f8f8f8 25%, #e0e0e0 25%, #e0e0e0 50%, #f8f8f8 50%, #f8f8f8 75%, #e0e0e0 75%);
+    background-size: 40px 40px;
+    background-repeat: repeat;
+    /* background-size: 200px; */
+  }
+  h1, h2, h3 {
+    font-family: 'Pokemon', sans-serif;
+    letter-spacing: 1px;
+  }
+  h4, h5, h6 {
+    font-family: 'Press Start 2P', monospace;
+    letter-spacing: 0.5px;
+  }
+  button {
+    font-family: 'Press Start 2P', monospace;
+    font-size: 0.8rem !important;
+    letter-spacing: 0.5px;
+  }
+}
+
+/* Pokemon Type Colors */
+.type {
+  @apply inline-block px-2 py-1 rounded text-white text-sm font-medium mr-1;
+  font-family: 'Press Start 2P', monospace;
+  font-size: 0.6rem;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  border: 2px solid rgba(0, 0, 0, 0.3);
+}
+
+.type-normal { @apply bg-gray-400; }
+.type-fire { @apply bg-red-500; }
+.type-water { @apply bg-blue-500; }
+.type-electric { @apply bg-yellow-400; }
+.type-grass { @apply bg-green-500; }
+.type-ice { @apply bg-blue-200; }
+.type-fighting { @apply bg-red-700; }
+.type-poison { @apply bg-purple-500; }
+.type-ground { @apply bg-yellow-600; }
+.type-flying { @apply bg-indigo-300; }
+.type-psychic { @apply bg-pink-500; }
+.type-bug { @apply bg-green-600; }
+.type-rock { @apply bg-yellow-800; }
+.type-ghost { @apply bg-purple-700; }
+.type-dragon { @apply bg-indigo-600; }
+.type-dark { @apply bg-gray-800; }
+.type-steel { @apply bg-gray-500; }
+.type-fairy { @apply bg-pink-300; }
+
+/* Battle UI */
+.pokemon-display {
+  @apply bg-white rounded-lg shadow-md p-4 relative;
+  background-color: #f8f8f8;
+  border: 4px solid #3c5aa6;
+  box-shadow: 0 0 0 4px #2a75bb, 0 0 0 8px #ffcb05, 4px 4px 10px rgba(0, 0, 0, 0.3);
+  position: relative;
+}
+
+.pokemon-display::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 30px;
+  background-color: #ff0000;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  z-index: 0;
+}
+
+.pokemon-display h3 {
+  position: relative;
+  z-index: 1;
+  color: white;
+  text-shadow: 2px 2px 0 #000;
+  margin-top: -10px;
+  padding-bottom: 10px;
+}
+
+.pokemon-sprite {
+  @apply flex justify-center items-center;
+  background: linear-gradient(135deg, #f8f8f8 25%, #e0e0e0 25%, #e0e0e0 50%, #f8f8f8 50%, #f8f8f8 75%, #e0e0e0 75%);
+  background-size: cover;
+  background-position: center;
+  border-radius: 50%;
+  padding: 10px;
+  margin: 10px auto;
+  width: 150px;
+  height: 150px;
+  border: 3px solid #3c5aa6;
+}
+
+.pokemon-sprite img {
+  @apply w-32 h-32 object-contain;
+  image-rendering: pixelated;
+}
+
+.pokemon-info {
+  @apply mt-2 text-center;
+  background-color: #f0f0f0;
+  border: 2px solid #3c5aa6;
+  border-radius: 8px;
+  padding: 8px;
+}
+
+.hp-container {
+  @apply mt-2;
+}
+
+.hp-bar {
+  @apply w-full h-4 bg-gray-200 rounded-full overflow-hidden;
+  border: 2px solid #000;
+}
+
+.hp-fill {
+  @apply h-full bg-green-500 transition-all duration-500;
+}
+
+.moves-container {
+  @apply grid grid-cols-2 gap-2 mt-4;
+}
+
+.move-btn {
+  @apply py-2 px-3 rounded text-white text-sm font-medium transition-colors;
+  border: 3px solid rgba(0, 0, 0, 0.3);
+  text-shadow: 1px 1px 0 #000;
+  box-shadow: inset -2px -2px 0 rgba(0, 0, 0, 0.3);
+}
+
+.switch-btn {
+  @apply mt-4 w-full py-2 bg-blue-500 text-white rounded hover:bg-blue-600 transition-colors;
+  background-color: #3c5aa6;
+  border: 3px solid #2a75bb;
+  text-shadow: 1px 1px 0 #000;
+  box-shadow: inset -2px -2px 0 rgba(0, 0, 0, 0.3);
+}
+
+.battle-controls {
+  @apply flex flex-wrap justify-center gap-2 mt-6;
+}
+
+.battle-controls button {
+  @apply py-2 px-4 bg-blue-500 text-white rounded hover:bg-blue-600 transition-colors;
+  background-color: #ffcb05;
+  border: 3px solid #c7a008;
+  color: #3c5aa6;
+  text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.5);
+  box-shadow: inset -2px -2px 0 rgba(0, 0, 0, 0.3);
+}
+
+/* Battle log styles */
+.battle-log {
+  @apply rounded-lg overflow-y-auto;
+  border: 4px solid #3c5aa6;
+  box-shadow: 0 0 0 4px #2a75bb, 0 0 0 8px #ffcb05, 4px 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+.battle-log h3 {
+  background-color: #ff0000;
+  color: white;
+  text-shadow: 2px 2px 0 #000;
+  padding: 8px;
+  margin: 0;
+}
+
+.battle-log-message {
+  @apply transition-all duration-300 ease-in-out;
+  border: 2px solid #3c5aa6;
+  background-color: #f8f8f8;
+  font-family: 'Press Start 2P', monospace;
+  font-size: 0.7rem;
+  line-height: 1.4;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.3s ease-in-out;
+}
+
+.thinking-display {
+  @apply mt-4 p-3 bg-gray-100 rounded;
+  border: 2px solid #3c5aa6;
+  background-color: #f0f0f0;
+}
+
+.thinking-display h3 {
+  font-size: 0.9rem;
+  color: #3c5aa6;
+  text-shadow: none;
+  margin-top: 0;
+  padding-bottom: 5px;
+}
+
+/* Modal */
+.modal {
+  @apply fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 hidden;
+}
+
+.modal-content {
+  @apply bg-white rounded-lg p-6 max-w-md w-full;
+  border: 4px solid #3c5aa6;
+  box-shadow: 0 0 0 4px #2a75bb, 0 0 0 8px #ffcb05, 4px 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+.modal-content h3 {
+  color: #3c5aa6;
+  text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.5);
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.switch-options {
+  @apply grid grid-cols-2 gap-4 mt-4;
+}
+
+.switch-option {
+  @apply bg-gray-100 p-3 rounded-lg cursor-pointer hover:bg-gray-200 transition-colors text-center;
+  border: 3px solid #3c5aa6;
+  background-color: #f0f0f0;
+}
+
+.switch-option:hover {
+  background-color: #e0e0e0;
+  transform: scale(1.05);
+}
+
+.switch-option img {
+  image-rendering: pixelated;
+}
+
+/* Team Display */
+.team-display {
+  @apply bg-gray-100 p-3 rounded-lg mt-4;
+  background-color: #f0f0f0;
+  border: 3px solid #3c5aa6;
+  margin-bottom: 15px;
+}
+
+.team-display h3 {
+  color: #3c5aa6;
+  text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.5);
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.pokemon-team-item {
+  border: 2px solid #3c5aa6;
+}
+
+.pokemon-team-item.bg-blue-200 {
+  background-color: #ffcb05 !important;
+  border-color: #c7a008 !important;
+}
+
+.pokemon-team-item img {
+  image-rendering: pixelated;
+}
+
+/* Responsive layout */
+@media (max-width: 768px) {
+  .battle-container {
+    @apply flex-col;
+  }
+  
+  .battle-main-content,
+  .battle-sidebar {
+    @apply w-full;
+  }
+  
+  .battle-log {
+    @apply h-64;
+  }
+}
+
+/* Settings UI */
+#llm-settings {
+  background-color: #f8f8f8;
+  border: 4px solid #3c5aa6;
+  box-shadow: 0 0 0 4px #2a75bb, 0 0 0 8px #ffcb05, 4px 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+#llm-settings h2 {
+  color: #3c5aa6;
+  text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.5);
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#llm-settings h3 {
+  color: #ff0000;
+  text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.5);
+}
+
+#llm-settings label {
+  font-family: 'Press Start 2P', monospace;
+  font-size: 0.7rem;
+  color: #3c5aa6;
+}
+
+#llm-settings select, 
+#llm-settings input {
+  border: 2px solid #3c5aa6;
+  background-color: #f0f0f0;
+  border-radius: 4px;
+}
+
+/* Main title styling */
+.text-4xl {
+  color: #ffcb05;
+  text-shadow: 
+    -3px -3px 0 #3c5aa6,  
+    3px -3px 0 #3c5aa6,
+    -3px 3px 0 #3c5aa6,
+    3px 3px 0 #3c5aa6;
+  font-size: 2.5rem !important;
+}
+
+.text-xl {
+  color: #3c5aa6;
+  text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.7);
+}
+
+/* Additional refinements for compact layout */
+
+/* Make the battle container more compact overall */
+.battle-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Further reduce the size of Pokemon sprites for better fit */
+.pokemon-sprite {
+  width: 100px;
+  height: 100px;
+  margin: 3px auto;
+}
+
+.pokemon-sprite img {
+  @apply w-20 h-20 object-contain;
+}
+
+/* Make the battle log more compact */
+.battle-log {
+  max-height: 400px;
+}
+
+.battle-log-message {
+  padding: 3px 5px;
+  margin-bottom: 2px;
+}
+
+/* Reduce box shadow size for more compact appearance */
+.pokemon-display {
+  box-shadow: 0 0 0 3px #2a75bb, 0 0 0 6px #ffcb05, 3px 3px 8px rgba(0, 0, 0, 0.3);
+}
+
+.battle-log {
+  box-shadow: 0 0 0 3px #2a75bb, 0 0 0 6px #ffcb05, 3px 3px 8px rgba(0, 0, 0, 0.3);
+}
+
+/* Make team display items smaller */
+.pokemon-team-item img {
+  max-width: 30px;
+  max-height: 30px;
+}
+
+/* Adjust the grid layout for better space usage */
+.battle-main-content {
+  @apply md:w-3/5;
+}
+
+.battle-sidebar {
+  @apply md:w-2/5;
+}
+
+/* Make move buttons even more compact */
+.moves-container {
+  @apply grid grid-cols-2 gap-1 mt-1;
+}
+
+.move-btn {
+  @apply py-1 px-1 text-xs;
+  font-size: 0.6rem !important;
+}
+
+/* Reduce padding in Pokemon info */
+.pokemon-info {
+  padding: 3px;
+}
+
+/* Make the HP bar thinner */
+.hp-bar {
+  @apply h-2;
+}
+
+/* Adjust the battle controls spacing */
+.battle-controls {
+  @apply mt-2;
+}
+
+/* Ensure text doesn't overflow in small containers */
+.pokemon-display h3, 
+.team-display h3,
+.battle-log h3 {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+

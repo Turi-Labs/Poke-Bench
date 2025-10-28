@@ -1,0 +1,17 @@
+# Pokemon League Tournament System Dependencies
+
+# AI/LLM Integration
+openai>=1.0.0
+python-dotenv>=1.0.0
+
+# Core Python libraries (usually included with Python)
+# json - built-in
+# random - built-in
+# copy - built-in
+# time - built-in
+# os - built-in
+
+# Optional: For enhanced development experience
+# pytest>=7.0.0  # For testing
+# black>=22.0.0   # For code formatting
+# flake8>=5.0.0   # For linting

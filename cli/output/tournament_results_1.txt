@@ -1,0 +1,121 @@
+=== Pokemon League Tournament System ===
+
+Initializing Pokemon League...
+League created with 91 available Pokemon
+
+Creating trainers and selecting teams...
+
+=== Team Selection Reasoning ===
+
+gpt-4.1's team: ['Mewtwo', 'Metagross', 'Salamence', 'Swampert', 'Gengar', 'Zapdos']
+Team selected for gpt-4.1.
+
+o4-mini's team: ['Kyogre', 'Groudon', 'Rayquaza', 'Lugia', 'Magnezone', 'Ho-Oh']
+Team selected for o4-mini.
+
+o3's team: ['Swampert', 'Zapdos', 'Metagross', 'Blissey', 'Gengar', 'Salamence']
+Team selected for o3.
+
+claude-3-5-sonnet-20240620's team: ['Mewtwo', 'Dragonite', 'Gengar', 'Zapdos', 'Tyranitar', 'Swampert']
+Team selected for claude-3-5-sonnet-20240620.
+
+claude-3-7-sonnet-20250219's team: ['Tyranitar', 'Swampert', 'Zapdos', 'Blaziken', 'Metagross', 'Celebi']
+Team selected for claude-3-7-sonnet-20250219.
+
+claude-sonnet-4-20250514's team: ['Mewtwo', 'Tyranitar', 'Swampert', 'Skarmory', 'Gengar', 'Blaziken']
+Team selected for claude-sonnet-4-20250514.
+
+gemini-2.5-pro's team: ['Metagross', 'Swampert', 'Salamence', 'Raikou', 'Skarmory', 'Blissey']
+Team selected for gemini-2.5-pro.
+
+gemini-2.5-flash's team: ['Swampert', 'Venusaur', 'Dragonite', 'Metagross', 'Jolteon', 'Gengar']
+Team selected for gemini-2.5-flash.
+
+Total trainers: 8
+
+
+==================================================
+SINGLE ELIMINATION TOURNAMENT
+==================================================
+
+=== Quarter-finals ===
+
+Quarter-final Match 1:
+gpt-4.1 vs gemini-2.5-pro
+Battle details and reasoning will be recorded here...
+Winner: gpt-4.1
+Battle completed in 27 turns
+
+Quarter-final Match 2:
+o4-mini vs claude-3-5-sonnet-20240620
+Battle details and reasoning will be recorded here...
+Winner: o4-mini
+Battle completed in 25 turns
+
+Quarter-final Match 3:
+claude-sonnet-4-20250514 vs claude-3-7-sonnet-20250219
+Battle details and reasoning will be recorded here...
+Winner: claude-sonnet-4-20250514
+Battle completed in 23 turns
+
+Quarter-final Match 4:
+gemini-2.5-flash vs o3
+Battle details and reasoning will be recorded here...
+Winner: o3
+Battle completed in 19 turns
+
+=== Semi-finals ===
+
+Semi-final Match 1:
+gpt-4.1 vs o4-mini
+Battle details and reasoning will be recorded here...
+Winner: o4-mini
+Battle completed in 24 turns
+
+Semi-final Match 2:
+claude-sonnet-4-20250514 vs o3
+Battle details and reasoning will be recorded here...
+Winner: o3
+Battle completed in 15 turns
+
+=== Finals ===
+
+Final Match:
+o4-mini vs o3
+Championship battle details and reasoning will be recorded here...
+Tournament Champion: o4-mini!
+Championship battle completed in 24 turns
+
+==================================================
+FINAL STATISTICS
+==================================================
+Total battles conducted: 7
+
+Battle Results Summary:
+1. gpt-4.1 vs gemini-2.5-pro -> Winner: gpt-4.1 (Turn 27)
+2. o4-mini vs claude-3-5-sonnet-20240620 -> Winner: o4-mini (Turn 25)
+3. claude-sonnet-4-20250514 vs claude-3-7-sonnet-20250219 -> Winner: claude-sonnet-4-20250514 (Turn 23)
+4. gemini-2.5-flash vs o3 -> Winner: o3 (Turn 19)
+5. gpt-4.1 vs o4-mini -> Winner: o4-mini (Turn 24)
+6. claude-sonnet-4-20250514 vs o3 -> Winner: o3 (Turn 15)
+7. o4-mini vs o3 -> Winner: o4-mini (Turn 24)
+
+Final Trainer Records:
+1. o4-mini: 3-0
+   Team: ['Kyogre', 'Groudon', 'Rayquaza']...
+2. o3: 2-1
+   Team: ['Swampert', 'Zapdos', 'Metagross']...
+3. gpt-4.1: 1-1
+   Team: ['Mewtwo', 'Metagross', 'Salamence']...
+4. claude-sonnet-4-20250514: 1-1
+   Team: ['Mewtwo', 'Tyranitar', 'Swampert']...
+5. claude-3-5-sonnet-20240620: 0-1
+   Team: ['Mewtwo', 'Dragonite', 'Gengar']...
+6. claude-3-7-sonnet-20250219: 0-1
+   Team: ['Tyranitar', 'Swampert', 'Zapdos']...
+7. gemini-2.5-pro: 0-1
+   Team: ['Metagross', 'Swampert', 'Salamence']...
+8. gemini-2.5-flash: 0-1
+   Team: ['Swampert', 'Venusaur', 'Dragonite']...
+
+=== Tournament Complete! ===

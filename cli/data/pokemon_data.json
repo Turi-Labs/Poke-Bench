@@ -1,0 +1,1185 @@
+[
+  {
+    "name": "Mewtwo",
+    "types": ["Psychic"],
+    "stats": {
+      "hp": 145,
+      "attack": 90,
+      "defense": 80,
+      "sp_attack": 134,
+      "sp_defense": 80,
+      "speed": 110
+    },
+    "moves": ["Psychic", "Shadow Ball", "Ice Beam", "Thunderbolt"]
+  },
+  {
+    "name": "Mew",
+    "types": ["Psychic"],
+    "stats": {
+      "hp": 140,
+      "attack": 90,
+      "defense": 90,
+      "sp_attack": 90,
+      "sp_defense": 90,
+      "speed": 90
+    },
+    "moves": ["Psychic", "Soft-Boiled", "Transform", "Thunderbolt"]
+  },
+  {
+    "name": "Dragonite",
+    "types": ["Dragon", "Flying"],
+    "stats": {
+      "hp": 131,
+      "attack": 114,
+      "defense": 85,
+      "sp_attack": 90,
+      "sp_defense": 90,
+      "speed": 70
+    },
+    "moves": ["Dragon Rush", "Outrage", "Earthquake", "Fire Punch"]
+  },
+  {
+    "name": "Alakazam",
+    "types": ["Psychic"],
+    "stats": {
+      "hp": 95,
+      "attack": 46,
+      "defense": 41,
+      "sp_attack": 115,
+      "sp_defense": 75,
+      "speed": 105
+    },
+    "moves": ["Psychic", "Shadow Ball", "Thunder Punch", "Reflect"]
+  },
+  {
+    "name": "Gengar",
+    "types": ["Ghost", "Poison"],
+    "stats": {
+      "hp": 110,
+      "attack": 61,
+      "defense": 56,
+      "sp_attack": 110,
+      "sp_defense": 69,
+      "speed": 95
+    },
+    "moves": ["Shadow Ball", "Thunderbolt", "Ice Punch", "Hypnosis"]
+  },
+  {
+    "name": "Articuno",
+    "types": ["Ice", "Flying"],
+    "stats": {
+      "hp": 130,
+      "attack": 73,
+      "defense": 90,
+      "sp_attack": 85,
+      "sp_defense": 111,
+      "speed": 73
+    },
+    "moves": ["Blizzard", "Ice Beam", "Fly", "Steel Wing"]
+  },
+  {
+    "name": "Zapdos",
+    "types": ["Electric", "Flying"],
+    "stats": {
+      "hp": 130,
+      "attack": 80,
+      "defense": 73,
+      "sp_attack": 111,
+      "sp_defense": 80,
+      "speed": 90
+    },
+    "moves": ["Thunderbolt", "Thunder", "Drill Peck", "Steel Wing"]
+  },
+  {
+    "name": "Moltres",
+    "types": ["Fire", "Flying"],
+    "stats": {
+      "hp": 130,
+      "attack": 90,
+      "defense": 80,
+      "sp_attack": 111,
+      "sp_defense": 73,
+      "speed": 80
+    },
+    "moves": ["Flamethrower", "Fire Blast", "Sky Attack", "Steel Wing"]
+  },
+  {
+    "name": "Snorlax",
+    "types": ["Normal"],
+    "stats": {
+      "hp": 200,
+      "attack": 95,
+      "defense": 61,
+      "sp_attack": 61,
+      "sp_defense": 95,
+      "speed": 26
+    },
+    "moves": ["Body Slam", "Earthquake", "Rest", "Sleep Talk"]
+  },
+  {
+    "name": "Lapras",
+    "types": ["Water", "Ice"],
+    "stats": {
+      "hp": 170,
+      "attack": 73,
+      "defense": 70,
+      "sp_attack": 73,
+      "sp_defense": 85,
+      "speed": 56
+    },
+    "moves": ["Surf", "Ice Beam", "Thunderbolt", "Psychic"]
+  },
+  {
+    "name": "Gyarados",
+    "types": ["Water", "Flying"],
+    "stats": {
+      "hp": 135,
+      "attack": 111,
+      "defense": 71,
+      "sp_attack": 56,
+      "sp_defense": 90,
+      "speed": 73
+    },
+    "moves": ["Hydro Pump", "Earthquake", "Thunder", "Dragon Dance"]
+  },
+  {
+    "name": "Vaporeon",
+    "types": ["Water"],
+    "stats": {
+      "hp": 170,
+      "attack": 61,
+      "defense": 56,
+      "sp_attack": 95,
+      "sp_defense": 85,
+      "speed": 61
+    },
+    "moves": ["Surf", "Ice Beam", "Shadow Ball", "Acid Armor"]
+  },
+  {
+    "name": "Jolteon",
+    "types": ["Electric"],
+    "stats": {
+      "hp": 110,
+      "attack": 61,
+      "defense": 56,
+      "sp_attack": 95,
+      "sp_defense": 85,
+      "speed": 110
+    },
+    "moves": ["Thunderbolt", "Thunder", "Shadow Ball", "Double Kick"]
+  },
+  {
+    "name": "Flareon",
+    "types": ["Fire"],
+    "stats": {
+      "hp": 110,
+      "attack": 110,
+      "defense": 56,
+      "sp_attack": 85,
+      "sp_defense": 95,
+      "speed": 61
+    },
+    "moves": ["Flamethrower", "Fire Blast", "Shadow Ball", "Bite"]
+  },
+  {
+    "name": "Machamp",
+    "types": ["Fighting"],
+    "stats": {
+      "hp": 130,
+      "attack": 110,
+      "defense": 70,
+      "sp_attack": 61,
+      "sp_defense": 73,
+      "speed": 51
+    },
+    "moves": ["Cross Chop", "Earthquake", "Rock Slide", "Fire Punch"]
+  },
+  {
+    "name": "Golem",
+    "types": ["Rock", "Ground"],
+    "stats": {
+      "hp": 120,
+      "attack": 100,
+      "defense": 110,
+      "sp_attack": 51,
+      "sp_defense": 61,
+      "speed": 41
+    },
+    "moves": ["Earthquake", "Rock Slide", "Explosion", "Fire Punch"]
+  },
+  {
+    "name": "Exeggutor",
+    "types": ["Grass", "Psychic"],
+    "stats": {
+      "hp": 135,
+      "attack": 85,
+      "defense": 73,
+      "sp_attack": 111,
+      "sp_defense": 61,
+      "speed": 51
+    },
+    "moves": ["Psychic", "Giga Drain", "Sleep Powder", "Explosion"]
+  },
+  {
+    "name": "Starmie",
+    "types": ["Water", "Psychic"],
+    "stats": {
+      "hp": 110,
+      "attack": 69,
+      "defense": 73,
+      "sp_attack": 90,
+      "sp_defense": 73,
+      "speed": 100
+    },
+    "moves": ["Surf", "Psychic", "Ice Beam", "Thunderbolt"]
+  },
+  {
+    "name": "Chansey",
+    "types": ["Normal"],
+    "stats": {
+      "hp": 290,
+      "attack": 9,
+      "defense": 9,
+      "sp_attack": 33,
+      "sp_defense": 95,
+      "speed": 46
+    },
+    "moves": ["Soft-Boiled", "Toxic", "Thunder Wave", "Ice Beam"]
+  },
+  {
+    "name": "Blastoise",
+    "types": ["Water"],
+    "stats": {
+      "hp": 119,
+      "attack": 75,
+      "defense": 90,
+      "sp_attack": 75,
+      "sp_defense": 95,
+      "speed": 70
+    },
+    "moves": ["Surf", "Ice Beam", "Earthquake", "Rapid Spin"]
+  },
+  {
+    "name": "Venusaur",
+    "types": ["Grass", "Poison"],
+    "stats": {
+      "hp": 120,
+      "attack": 74,
+      "defense": 75,
+      "sp_attack": 90,
+      "sp_defense": 90,
+      "speed": 70
+    },
+    "moves": ["Giga Drain", "Sleep Powder", "Sludge Bomb", "Earthquake"]
+  },
+  {
+    "name": "Charizard",
+    "types": ["Fire", "Flying"],
+    "stats": {
+      "hp": 118,
+      "attack": 76,
+      "defense": 70,
+      "sp_attack": 99,
+      "sp_defense": 77,
+      "speed": 90
+    },
+    "moves": ["Flamethrower", "Air Slash", "Dragon Claw", "Earthquake"]
+  },
+  {
+    "name": "Slowbro",
+    "types": ["Water", "Psychic"],
+    "stats": {
+      "hp": 135,
+      "attack": 69,
+      "defense": 95,
+      "sp_attack": 90,
+      "sp_defense": 70,
+      "speed": 26
+    },
+    "moves": ["Surf", "Psychic", "Ice Beam", "Thunder Wave"]
+  },
+  {
+    "name": "Victreebel",
+    "types": ["Grass", "Poison"],
+    "stats": {
+      "hp": 120,
+      "attack": 95,
+      "defense": 61,
+      "sp_attack": 90,
+      "sp_defense": 56,
+      "speed": 66
+    },
+    "moves": ["Razor Leaf", "Sleep Powder", "Sludge Bomb", "Wrap"]
+  },
+  {
+    "name": "Vileplume",
+    "types": ["Grass", "Poison"],
+    "stats": {
+      "hp": 125,
+      "attack": 70,
+      "defense": 73,
+      "sp_attack": 95,
+      "sp_defense": 80,
+      "speed": 46
+    },
+    "moves": ["Petal Dance", "Sleep Powder", "Sludge Bomb", "Moonlight"]
+  },
+  {
+    "name": "Arcanine",
+    "types": ["Fire"],
+    "stats": {
+      "hp": 130,
+      "attack": 95,
+      "defense": 70,
+      "sp_attack": 90,
+      "sp_defense": 70,
+      "speed": 85
+    },
+    "moves": ["Flamethrower", "Crunch", "Extreme Speed", "Thunder Fang"]
+  },
+  {
+    "name": "Poliwrath",
+    "types": ["Water", "Fighting"],
+    "stats": {
+      "hp": 130,
+      "attack": 73,
+      "defense": 85,
+      "sp_attack": 66,
+      "sp_defense": 80,
+      "speed": 66
+    },
+    "moves": ["Surf", "Submission", "Ice Beam", "Hypnosis"]
+  },
+  {
+    "name": "Rhydon",
+    "types": ["Ground", "Rock"],
+    "stats": {
+      "hp": 145,
+      "attack": 110,
+      "defense": 100,
+      "sp_attack": 41,
+      "sp_defense": 41,
+      "speed": 36
+    },
+    "moves": ["Earthquake", "Rock Slide", "Megahorn", "Fire Blast"]
+  },
+  {
+    "name": "Nidoking",
+    "types": ["Poison", "Ground"],
+    "stats": {
+      "hp": 121,
+      "attack": 84,
+      "defense": 69,
+      "sp_attack": 77,
+      "sp_defense": 69,
+      "speed": 77
+    },
+    "moves": ["Earthquake", "Sludge Bomb", "Ice Beam", "Thunderbolt"]
+  },
+  {
+    "name": "Nidoqueen",
+    "types": ["Poison", "Ground"],
+    "stats": {
+      "hp": 130,
+      "attack": 74,
+      "defense": 79,
+      "sp_attack": 69,
+      "sp_defense": 77,
+      "speed": 69
+    },
+    "moves": ["Earthquake", "Sludge Bomb", "Ice Beam", "Thunderbolt"]
+  },
+  {
+    "name": "Crobat",
+    "types": ["Poison", "Flying"],
+    "stats": {
+      "hp": 115,
+      "attack": 80,
+      "defense": 70,
+      "sp_attack": 66,
+      "sp_defense": 70,
+      "speed": 110
+    },
+    "moves": ["Sludge Bomb", "Air Slash", "U-turn", "Confuse Ray"]
+  },
+  {
+    "name": "Electrode",
+    "types": ["Electric"],
+    "stats": {
+      "hp": 110,
+      "attack": 46,
+      "defense": 66,
+      "sp_attack": 70,
+      "sp_defense": 70,
+      "speed": 130
+    },
+    "moves": ["Thunderbolt", "Thunder", "Explosion", "Light Screen"]
+  },
+  {
+    "name": "Rapidash",
+    "types": ["Fire"],
+    "stats": {
+      "hp": 110,
+      "attack": 90,
+      "defense": 66,
+      "sp_attack": 70,
+      "sp_defense": 70,
+      "speed": 95
+    },
+    "moves": ["Flamethrower", "Double-Edge", "Megahorn", "Quick Attack"]
+  },
+  {
+    "name": "Magnezone",
+    "types": ["Electric", "Steel"],
+    "stats": {
+      "hp": 110,
+      "attack": 56,
+      "defense": 85,
+      "sp_attack": 110,
+      "sp_defense": 80,
+      "speed": 56
+    },
+    "moves": ["Thunderbolt", "Thunder", "Tri Attack", "Flash Cannon"]
+  },
+  {
+    "name": "Dodrio",
+    "types": ["Normal", "Flying"],
+    "stats": {
+      "hp": 110,
+      "attack": 95,
+      "defense": 66,
+      "sp_attack": 56,
+      "sp_defense": 56,
+      "speed": 90
+    },
+    "moves": ["Drill Peck", "Tri Attack", "Steel Wing", "Quick Attack"]
+  },
+  {
+    "name": "Cloyster",
+    "types": ["Water", "Ice"],
+    "stats": {
+      "hp": 90,
+      "attack": 85,
+      "defense": 160,
+      "sp_attack": 73,
+      "sp_defense": 41,
+      "speed": 66
+    },
+    "moves": ["Surf", "Ice Beam", "Explosion", "Spikes"]
+  },
+  {
+    "name": "Hypno",
+    "types": ["Psychic"],
+    "stats": {
+      "hp": 115,
+      "attack": 64,
+      "defense": 66,
+      "sp_attack": 64,
+      "sp_defense": 105,
+      "speed": 61
+    },
+    "moves": ["Psychic", "Hypnosis", "Thunder Punch", "Shadow Ball"]
+  },
+  {
+    "name": "Kingler",
+    "types": ["Water"],
+    "stats": {
+      "hp": 95,
+      "attack": 110,
+      "defense": 95,
+      "sp_attack": 46,
+      "sp_defense": 46,
+      "speed": 69
+    },
+    "moves": ["Crabhammer", "Guillotine", "Mud Shot", "Stomp"]
+  },
+  {
+    "name": "Hitmonlee",
+    "types": ["Fighting"],
+    "stats": {
+      "hp": 90,
+      "attack": 100,
+      "defense": 49,
+      "sp_attack": 33,
+      "sp_defense": 95,
+      "speed": 79
+    },
+    "moves": ["Hi Jump Kick", "Mega Kick", "Earthquake", "Rock Slide"]
+  },
+  {
+    "name": "Hitmonchan",
+    "types": ["Fighting"],
+    "stats": {
+      "hp": 90,
+      "attack": 95,
+      "defense": 71,
+      "sp_attack": 33,
+      "sp_defense": 95,
+      "speed": 69
+    },
+    "moves": ["Fire Punch", "Ice Punch", "Thunder Punch", "Counter"]
+  },
+  {
+    "name": "Weezing",
+    "types": ["Poison"],
+    "stats": {
+      "hp": 110,
+      "attack": 80,
+      "defense": 100,
+      "sp_attack": 73,
+      "sp_defense": 66,
+      "speed": 56
+    },
+    "moves": ["Sludge Bomb", "Explosion", "Fire Blast", "Thunder"]
+  },
+  {
+    "name": "Raichu",
+    "types": ["Electric"],
+    "stats": {
+      "hp": 110,
+      "attack": 80,
+      "defense": 51,
+      "sp_attack": 80,
+      "sp_defense": 70,
+      "speed": 95
+    },
+    "moves": ["Thunderbolt", "Thunder", "Surf", "Focus Punch"]
+  },
+  {
+    "name": "Sandslash",
+    "types": ["Ground"],
+    "stats": {
+      "hp": 125,
+      "attack": 90,
+      "defense": 95,
+      "sp_attack": 41,
+      "sp_defense": 51,
+      "speed": 61
+    },
+    "moves": ["Earthquake", "Rock Slide", "Swords Dance", "Slash"]
+  },
+  {
+    "name": "Ninetales",
+    "types": ["Fire"],
+    "stats": {
+      "hp": 123,
+      "attack": 69,
+      "defense": 69,
+      "sp_attack": 73,
+      "sp_defense": 90,
+      "speed": 90
+    },
+    "moves": ["Flamethrower", "Will-O-Wisp", "Confuse Ray", "Hypnosis"]
+  },
+  {
+    "name": "Golduck",
+    "types": ["Water"],
+    "stats": {
+      "hp": 120,
+      "attack": 74,
+      "defense": 70,
+      "sp_attack": 85,
+      "sp_defense": 70,
+      "speed": 77
+    },
+    "moves": ["Surf", "Psychic", "Ice Beam", "Cross Chop"]
+  },
+  {
+    "name": "Primeape",
+    "types": ["Fighting"],
+    "stats": {
+      "hp": 110,
+      "attack": 95,
+      "defense": 56,
+      "sp_attack": 56,
+      "sp_defense": 66,
+      "speed": 85
+    },
+    "moves": ["Cross Chop", "Rock Slide", "Earthquake", "Seismic Toss"]
+  },
+  {
+    "name": "Tentacruel",
+    "types": ["Water", "Poison"],
+    "stats": {
+      "hp": 120,
+      "attack": 66,
+      "defense": 61,
+      "sp_attack": 70,
+      "sp_defense": 100,
+      "speed": 90
+    },
+    "moves": ["Surf", "Sludge Bomb", "Ice Beam", "Rapid Spin"]
+  },
+  {
+    "name": "Aerodactyl",
+    "types": ["Rock", "Flying"],
+    "stats": {
+      "hp": 120,
+      "attack": 95,
+      "defense": 61,
+      "sp_attack": 56,
+      "sp_defense": 69,
+      "speed": 110
+    },
+    "moves": ["Rock Slide", "Earthquake", "Wing Attack", "Fire Blast"]
+  },
+  {
+    "name": "Dugtrio",
+    "types": ["Ground"],
+    "stats": {
+      "hp": 75,
+      "attack": 70,
+      "defense": 46,
+      "sp_attack": 46,
+      "sp_defense": 66,
+      "speed": 100
+    },
+    "moves": ["Earthquake", "Rock Slide", "Slash", "Tri Attack"]
+  },
+  {
+    "name": "Persian",
+    "types": ["Normal"],
+    "stats": {
+      "hp": 110,
+      "attack": 66,
+      "defense": 56,
+      "sp_attack": 61,
+      "sp_defense": 61,
+      "speed": 95
+    },
+    "moves": ["Slash", "Bubble Beam", "Thunder", "Hypnosis"]
+  },
+  {
+    "name": "Marowak",
+    "types": ["Ground"],
+    "stats": {
+      "hp": 110,
+      "attack": 70,
+      "defense": 95,
+      "sp_attack": 46,
+      "sp_defense": 70,
+      "speed": 41
+    },
+    "moves": ["Earthquake", "Rock Slide", "Bone Club", "Fire Blast"]
+  },
+  {
+    "name": "Typhlosion",
+    "types": ["Fire"],
+    "stats": {
+      "hp": 118,
+      "attack": 74,
+      "defense": 70,
+      "sp_attack": 99,
+      "sp_defense": 77,
+      "speed": 90
+    },
+    "moves": ["Flamethrower", "Thunder Punch", "Earthquake", "Focus Blast"]
+  },
+  {
+    "name": "Feraligatr",
+    "types": ["Water"],
+    "stats": {
+      "hp": 115,
+      "attack": 95,
+      "defense": 90,
+      "sp_attack": 69,
+      "sp_defense": 73,
+      "speed": 70
+    },
+    "moves": ["Surf", "Ice Punch", "Earthquake", "Crunch"]
+  },
+  {
+    "name": "Meganium",
+    "types": ["Grass"],
+    "stats": {
+      "hp": 120,
+      "attack": 74,
+      "defense": 90,
+      "sp_attack": 77,
+      "sp_defense": 90,
+      "speed": 70
+    },
+    "moves": ["Giga Drain", "Earthquake", "Synthesis", "Light Screen"]
+  },
+  {
+    "name": "Espeon",
+    "types": ["Psychic"],
+    "stats": {
+      "hp": 110,
+      "attack": 61,
+      "defense": 56,
+      "sp_attack": 110,
+      "sp_defense": 85,
+      "speed": 95
+    },
+    "moves": ["Psychic", "Shadow Ball", "Morning Sun", "Calm Mind"]
+  },
+  {
+    "name": "Umbreon",
+    "types": ["Dark"],
+    "stats": {
+      "hp": 135,
+      "attack": 61,
+      "defense": 95,
+      "sp_attack": 56,
+      "sp_defense": 110,
+      "speed": 61
+    },
+    "moves": ["Toxic", "Moonlight", "Shadow Ball", "Confuse Ray"]
+  },
+  {
+    "name": "Ampharos",
+    "types": ["Electric"],
+    "stats": {
+      "hp": 130,
+      "attack": 69,
+      "defense": 69,
+      "sp_attack": 105,
+      "sp_defense": 80,
+      "speed": 51
+    },
+    "moves": ["Thunderbolt", "Fire Punch", "Focus Punch", "Light Screen"]
+  },
+  {
+    "name": "Skarmory",
+    "types": ["Steel", "Flying"],
+    "stats": {
+      "hp": 110,
+      "attack": 70,
+      "defense": 120,
+      "sp_attack": 36,
+      "sp_defense": 66,
+      "speed": 66
+    },
+    "moves": ["Drill Peck", "Steel Wing", "Spikes", "Whirlwind"]
+  },
+  {
+    "name": "Heracross",
+    "types": ["Bug", "Fighting"],
+    "stats": {
+      "hp": 120,
+      "attack": 111,
+      "defense": 69,
+      "sp_attack": 36,
+      "sp_defense": 85,
+      "speed": 73
+    },
+    "moves": ["Megahorn", "Close Combat", "Rock Slide", "Sleep Talk"]
+  },
+  {
+    "name": "Tyranitar",
+    "types": ["Rock", "Dark"],
+    "stats": {
+      "hp": 140,
+      "attack": 114,
+      "defense": 95,
+      "sp_attack": 85,
+      "sp_defense": 90,
+      "speed": 55
+    },
+    "moves": ["Rock Slide", "Crunch", "Earthquake", "Fire Blast"]
+  },
+  {
+    "name": "Lugia",
+    "types": ["Psychic", "Flying"],
+    "stats": {
+      "hp": 146,
+      "attack": 80,
+      "defense": 110,
+      "sp_attack": 80,
+      "sp_defense": 134,
+      "speed": 95
+    },
+    "moves": ["Aeroblast", "Psychic", "Hydro Pump", "Thunder"]
+  },
+  {
+    "name": "Ho-Oh",
+    "types": ["Fire", "Flying"],
+    "stats": {
+      "hp": 146,
+      "attack": 110,
+      "defense": 80,
+      "sp_attack": 95,
+      "sp_defense": 134,
+      "speed": 80
+    },
+    "moves": ["Sacred Fire", "Thunder", "Earthquake", "Shadow Ball"]
+  },
+  {
+    "name": "Celebi",
+    "types": ["Psychic", "Grass"],
+    "stats": {
+      "hp": 140,
+      "attack": 90,
+      "defense": 90,
+      "sp_attack": 90,
+      "sp_defense": 90,
+      "speed": 90
+    },
+    "moves": ["Psychic", "Giga Drain", "Thunder Wave", "Heal Bell"]
+  },
+  {
+    "name": "Forretress",
+    "types": ["Bug", "Steel"],
+    "stats": {
+      "hp": 125,
+      "attack": 80,
+      "defense": 120,
+      "sp_attack": 56,
+      "sp_defense": 56,
+      "speed": 36
+    },
+    "moves": ["Hidden Power", "Spikes", "Explosion", "Rapid Spin"]
+  },
+  {
+    "name": "Kingdra",
+    "types": ["Water", "Dragon"],
+    "stats": {
+      "hp": 125,
+      "attack": 85,
+      "defense": 85,
+      "sp_attack": 85,
+      "sp_defense": 85,
+      "speed": 73
+    },
+    "moves": ["Surf", "Ice Beam", "Dragon Breath", "Sleep Talk"]
+  },
+  {
+    "name": "Donphan",
+    "types": ["Ground"],
+    "stats": {
+      "hp": 130,
+      "attack": 100,
+      "defense": 100,
+      "sp_attack": 56,
+      "sp_defense": 56,
+      "speed": 46
+    },
+    "moves": ["Earthquake", "Rock Slide", "Rapid Spin", "Hidden Power"]
+  },
+  {
+    "name": "Porygon2",
+    "types": ["Normal"],
+    "stats": {
+      "hp": 115,
+      "attack": 70,
+      "defense": 80,
+      "sp_attack": 95,
+      "sp_defense": 85,
+      "speed": 56
+    },
+    "moves": ["Ice Beam", "Thunderbolt", "Recover", "Thunder Wave"]
+  },
+  {
+    "name": "Houndoom",
+    "types": ["Dark", "Fire"],
+    "stats": {
+      "hp": 125,
+      "attack": 80,
+      "defense": 46,
+      "sp_attack": 95,
+      "sp_defense": 70,
+      "speed": 85
+    },
+    "moves": ["Flamethrower", "Crunch", "Shadow Ball", "Solar Beam"]
+  },
+  {
+    "name": "Blissey",
+    "types": ["Normal"],
+    "stats": {
+      "hp": 295,
+      "attack": 9,
+      "defense": 9,
+      "sp_attack": 69,
+      "sp_defense": 110,
+      "speed": 51
+    },
+    "moves": ["Soft-Boiled", "Toxic", "Ice Beam", "Thunder Wave"]
+  },
+  {
+    "name": "Suicune",
+    "types": ["Water"],
+    "stats": {
+      "hp": 140,
+      "attack": 69,
+      "defense": 105,
+      "sp_attack": 80,
+      "sp_defense": 105,
+      "speed": 73
+    },
+    "moves": ["Surf", "Ice Beam", "Calm Mind", "Rest"]
+  },
+  {
+    "name": "Raikou",
+    "types": ["Electric"],
+    "stats": {
+      "hp": 130,
+      "attack": 73,
+      "defense": 69,
+      "sp_attack": 105,
+      "sp_defense": 90,
+      "speed": 105
+    },
+    "moves": ["Thunderbolt", "Hidden Power", "Calm Mind", "Substitute"]
+  },
+  {
+    "name": "Entei",
+    "types": ["Fire"],
+    "stats": {
+      "hp": 145,
+      "attack": 105,
+      "defense": 73,
+      "sp_attack": 80,
+      "sp_defense": 69,
+      "speed": 90
+    },
+    "moves": ["Flamethrower", "Shadow Ball", "Hidden Power", "Calm Mind"]
+  },
+  {
+    "name": "Swampert",
+    "types": ["Water", "Ground"],
+    "stats": {
+      "hp": 140,
+      "attack": 95,
+      "defense": 80,
+      "sp_attack": 73,
+      "sp_defense": 80,
+      "speed": 56
+    },
+    "moves": ["Surf", "Earthquake", "Ice Beam", "Focus Punch"]
+  },
+  {
+    "name": "Blaziken",
+    "types": ["Fire", "Fighting"],
+    "stats": {
+      "hp": 120,
+      "attack": 100,
+      "defense": 66,
+      "sp_attack": 95,
+      "sp_defense": 66,
+      "speed": 70
+    },
+    "moves": ["Sky Uppercut", "Flamethrower", "Thunder Punch", "Rock Slide"]
+  },
+  {
+    "name": "Sceptile",
+    "types": ["Grass"],
+    "stats": {
+      "hp": 110,
+      "attack": 73,
+      "defense": 61,
+      "sp_attack": 95,
+      "sp_defense": 73,
+      "speed": 100
+    },
+    "moves": ["Leaf Blade", "Dragon Claw", "Thunder Punch", "Hidden Power"]
+  },
+  {
+    "name": "Gardevoir",
+    "types": ["Psychic", "Fairy"],
+    "stats": {
+      "hp": 108,
+      "attack": 61,
+      "defense": 61,
+      "sp_attack": 111,
+      "sp_defense": 105,
+      "speed": 70
+    },
+    "moves": ["Psychic", "Thunderbolt", "Ice Punch", "Calm Mind"]
+  },
+  {
+    "name": "Salamence",
+    "types": ["Dragon", "Flying"],
+    "stats": {
+      "hp": 135,
+      "attack": 115,
+      "defense": 70,
+      "sp_attack": 95,
+      "sp_defense": 70,
+      "speed": 90
+    },
+    "moves": ["Dragon Claw", "Earthquake", "Fire Blast", "Hidden Power"]
+  },
+  {
+    "name": "Metagross",
+    "types": ["Steel", "Psychic"],
+    "stats": {
+      "hp": 120,
+      "attack": 115,
+      "defense": 110,
+      "sp_attack": 85,
+      "sp_defense": 80,
+      "speed": 66
+    },
+    "moves": ["Meteor Mash", "Earthquake", "Explosion", "Rock Slide"]
+  },
+  {
+    "name": "Rayquaza",
+    "types": ["Dragon", "Flying"],
+    "stats": {
+      "hp": 145,
+      "attack": 134,
+      "defense": 80,
+      "sp_attack": 134,
+      "sp_defense": 80,
+      "speed": 85
+    },
+    "moves": ["Dragon Claw", "Earthquake", "Fire Blast", "Thunder"]
+  },
+  {
+    "name": "Kyogre",
+    "types": ["Water"],
+    "stats": {
+      "hp": 140,
+      "attack": 90,
+      "defense": 80,
+      "sp_attack": 134,
+      "sp_defense": 124,
+      "speed": 80
+    },
+    "moves": ["Water Spout", "Ice Beam", "Thunder", "Calm Mind"]
+  },
+  {
+    "name": "Groudon",
+    "types": ["Ground"],
+    "stats": {
+      "hp": 140,
+      "attack": 134,
+      "defense": 124,
+      "sp_attack": 90,
+      "sp_defense": 80,
+      "speed": 80
+    },
+    "moves": ["Earthquake", "Rock Slide", "Fire Blast", "Thunder Punch"]
+  },
+  {
+    "name": "Latios",
+    "types": ["Dragon", "Psychic"],
+    "stats": {
+      "hp": 120,
+      "attack": 80,
+      "defense": 70,
+      "sp_attack": 115,
+      "sp_defense": 105,
+      "speed": 95
+    },
+    "moves": ["Dragon Claw", "Psychic", "Thunder", "Ice Beam"]
+  },
+  {
+    "name": "Latias",
+    "types": ["Dragon", "Psychic"],
+    "stats": {
+      "hp": 120,
+      "attack": 70,
+      "defense": 80,
+      "sp_attack": 95,
+      "sp_defense": 115,
+      "speed": 95
+    },
+    "moves": ["Dragon Claw", "Psychic", "Thunder", "Ice Beam"]
+  },
+  {
+    "name": "Aggron",
+    "types": ["Steel", "Rock"],
+    "stats": {
+      "hp": 110,
+      "attack": 95,
+      "defense": 160,
+      "sp_attack": 56,
+      "sp_defense": 56,
+      "speed": 46
+    },
+    "moves": ["Rock Slide", "Earthquake", "Thunder", "Fire Blast"]
+  },
+  {
+    "name": "Flygon",
+    "types": ["Ground", "Dragon"],
+    "stats": {
+      "hp": 120,
+      "attack": 90,
+      "defense": 70,
+      "sp_attack": 70,
+      "sp_defense": 70,
+      "speed": 90
+    },
+    "moves": ["Earthquake", "Dragon Claw", "Fire Blast", "Hidden Power"]
+  },
+  {
+    "name": "Milotic",
+    "types": ["Water"],
+    "stats": {
+      "hp": 135,
+      "attack": 56,
+      "defense": 74,
+      "sp_attack": 90,
+      "sp_defense": 111,
+      "speed": 73
+    },
+    "moves": ["Surf", "Ice Beam", "Recover", "Toxic"]
+  },
+  {
+    "name": "Slaking",
+    "types": ["Normal"],
+    "stats": {
+      "hp": 150,
+      "attack": 150,
+      "defense": 90,
+      "sp_attack": 85,
+      "sp_defense": 61,
+      "speed": 90
+    },
+    "moves": ["Return", "Earthquake", "Shadow Ball", "Fire Punch"]
+  },
+  {
+    "name": "Absol",
+    "types": ["Dark"],
+    "stats": {
+      "hp": 110,
+      "attack": 110,
+      "defense": 56,
+      "sp_attack": 69,
+      "sp_defense": 56,
+      "speed": 69
+    },
+    "moves": ["Shadow Ball", "Hidden Power", "Thunder", "Fire Blast"]
+  },
+  {
+    "name": "Breloom",
+    "types": ["Grass", "Fighting"],
+    "stats": {
+      "hp": 110,
+      "attack": 110,
+      "defense": 70,
+      "sp_attack": 56,
+      "sp_defense": 56,
+      "speed": 66
+    },
+    "moves": ["Sky Uppercut", "Hidden Power", "Spore", "Focus Punch"]
+  },
+  {
+    "name": "Medicham",
+    "types": ["Fighting", "Psychic"],
+    "stats": {
+      "hp": 110,
+      "attack": 56,
+      "defense": 69,
+      "sp_attack": 56,
+      "sp_defense": 69,
+      "speed": 70
+    },
+    "moves": ["Hi Jump Kick", "Psychic", "Thunder Punch", "Rock Slide"]
+  },
+  {
+    "name": "Claydol",
+    "types": ["Ground", "Psychic"],
+    "stats": {
+      "hp": 110,
+      "attack": 66,
+      "defense": 95,
+      "sp_attack": 66,
+      "sp_defense": 110,
+      "speed": 69
+    },
+    "moves": ["Earthquake", "Psychic", "Ice Beam", "Explosion"]
+  }
+]

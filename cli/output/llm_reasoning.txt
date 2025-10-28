@@ -1,0 +1,998 @@
+gpt-4.1's Reasoning: To create a well-balanced team with great type coverage and overwhelming power, I chose Mewtwo for unrivaled Psychic offense, Metagross for Steel and Psychic utility with impressive bulk and resistances, Salamence for powerful Dragon and Flying coverage and a fast physical attacker, Swampert for excellent Water/Ground typing that covers Electric, Fire, and Rock types, Gengar for Ghost/Poison types enabling it to counter Psychics and Fairies, and Zapdos as an Electric/Flying versatile threat that checks Water, Flying, and Ground types. This core provides strong answers to most type threats, both offensive and defensive prowess, and strategic flexibility.
+
+o4-mini's Reasoning: I chose a team that maximizes type coverage and bulk while covering each other’s weaknesses. Kyogre (79) provides powerful Water STAB and great bulk. Groudon (80) adds Ground STAB to handle Electric and Rock threats. Rayquaza (78) brings Dragon/Flying STAB to cover Grass, Ground, and Fighting. Lugia (60) serves as a bulky Psychic/Flying pivot, handling Fighting and Grass. Magnezone (33) is Electric/Steel for key resistances and Electric coverage. Ho-Oh (61) adds Fire/Flying STAB, dealing with Steel, Bug, and Grass threats.
+
+o3's Reasoning: I built a well-rounded squad that covers all major attacking types, mixes physical and special offense, and has solid defensive synergy. Swampert (72) is a bulky Water/Ground pivot that checks Fire, Rock and Electric threats while providing Stealth Rock support; its only 4× Grass weakness is handled by Zapdos and Salamence. Zapdos (6) offers fast special Electric/Flying offense, a crucial Ground immunity and answers Grass types that menace Swampert. Metagross (77) supplies a Steel/Psychic tank with huge physical power, resisting Ice and Rock attacks that trouble our fliers and smashing Fairy, Rock or Ice foes. Blissey (68) is the premier special wall and cleric, soaking up special hits that the rest of the team dislikes and providing recovery support. Gengar (4) gives speed, powerful Ghost/Poison coverage and immunities to Fighting and Normal, punishing common threats and spreading status. Salamence (76) acts as a mixed physical sweeper and late-game cleaner, completing strong Dragon/Flying coverage while benefiting from the Ice and Rock resistances of Metagross and Swampert. Together these six create balanced type coverage, multiple immunities, complementary resistances and a mix of wallbreaking, sweeping and defensive roles.
+
+claude-3-5-sonnet-20240620's Reasoning: This team provides excellent type coverage and a mix of offensive and defensive capabilities. Mewtwo offers incredible power and speed. Dragonite brings physical strength and typing versatility. Gengar provides Ghost/Poison coverage and high Special Attack. Zapdos offers Electric typing and good Special Attack. Tyranitar brings Rock/Dark coverage and bulk. Swampert rounds out the team with Water/Ground typing and balanced stats.
+
+claude-3-7-sonnet-20250219's Reasoning: I selected a balanced team with diverse type coverage and strong stats. Tyranitar provides Rock/Dark coverage with excellent bulk and attack. Swampert covers Water/Ground types and has good HP. Zapdos brings Electric/Flying coverage with strong special attack and speed. Blaziken offers Fire/Fighting types with balanced offensive stats. Metagross contributes Steel/Psychic typing with excellent physical stats and defense. Finally, Celebi rounds out the team with Psychic/Grass coverage and perfectly balanced stats across all categories.
+
+claude-sonnet-4-20250514's Reasoning: I'm building a balanced team with excellent type coverage and synergy. Mewtwo serves as my primary special sweeper with incredible psychic power. Tyranitar provides physical attacking prowess and covers dark/rock types while offering sandstorm support. Swampert gives me crucial water/ground coverage with no weaknesses except grass (4x). Skarmory is my defensive steel wall that can set up hazards and counter physical attackers. Gengar provides speed, ghost typing for immunities, and can handle psychic threats that might trouble my team. Finally, Blaziken rounds out the team with fire/fighting coverage and mixed attacking capabilities. This team covers all major offensive types while having strong defensive synergy - Skarmory walls physical attacks, Tyranitar handles special attacks with sand support, and Swampert resists common attacking types. The speed distribution is balanced with fast sweepers (Mewtwo, Gengar) and bulky attackers (Tyranitar, Swampert).
+
+gemini-2.5-pro's Reasoning: This team is built around a powerful Steel/Water/Dragon core, providing a fantastic balance of offense, defense, and type synergy. Metagross serves as the primary bulky physical attacker with an outstanding typing. Swampert is a bulky pivot whose Water/Ground typing provides a crucial immunity to Electric attacks and covers the Fire and Ground weaknesses of other members. Salamence is the primary fast sweeper, capable of running physical or mixed sets to break through opponent's teams. To round out the core, Raikou acts as a dedicated fast special attacker to pressure Water and Flying types. Finally, Skarmory and Blissey form the classic 'SkarmBliss' defensive backbone, capable of walling nearly all physical and special attackers in the game, respectively, providing longevity and setup opportunities for the rest of the team.
+
+gemini-2.5-flash's Reasoning: This team is designed for a balance of offensive power, defensive resilience, and broad type coverage. Swampert (Water/Ground) provides excellent defensive typing with an Electric immunity and resistances to Fire, Rock, Steel, and Poison, although it has a glaring 4x weakness to Grass. Venusaur (Grass/Poison) serves as a counter to Water and other Grass types, resisting Fighting and Fairy attacks, and covering Swampert's Grass weakness. Dragonite (Dragon/Flying) is a powerful physical attacker with a Ground immunity and strong offensive presence against Grass and Fighting types, though it is 4x weak to Ice. Metagross (Steel/Psychic) is a robust physical tank and attacker, resisting a multitude of types including Ice, Dragon, Flying, Psychic, and Fairy, effectively covering Dragonite's primary weaknesses. Jolteon (Electric) offers high speed and special attack, providing coverage against Flying and Water types, crucial for speed control and breaking through faster threats. Gengar (Ghost/Poison) adds a fast special attacker with immunities to Normal and Fighting, vital for handling common threats, and provides powerful STAB options against Psychic and Grass types. The team's diverse typings and balanced stats allow for effective offensive pressure against a wide range of opponents and strategic defensive switching to mitigate weaknesses.
+
+---
+
+gpt-4.1's Reasoning: Metagross is weak to Ghost-type moves due to its Steel/Psychic typing, making Shadow Ball super effective. Mewtwo is at full HP and outspeeds Metagross, so attacking with Shadow Ball gives the highest chance to deal strong damage immediately.
+
+gemini-2.5-pro's Reasoning: Mewtwo is a Psychic-type Pokémon, which means my Metagross's Steel typing provides a resistance to its primary STAB attacks. Mewtwo's physical defense is generally lower than its special defense, making my physical attacker Metagross a strong offensive threat. Earthquake is my most powerful and reliable move available, so I'll use it to inflict maximum damage on the first turn.
+
+gpt-4.1's Reasoning: Metagross has only 5 HP remaining and any of Mewtwo's moves will likely knock it out. Shadow Ball is super effective against Metagross' Steel/Psychic typing and was used successfully last turn. Using Shadow Ball again is the safest way to ensure Metagross is knocked out without risking a switch.
+
+gemini-2.5-pro's Reasoning: Metagross has only 5 HP remaining and will surely be knocked out by Mewtwo's next attack. The best strategic move is to switch to a Pokémon that can absorb the incoming damage. Blissey has extremely high HP and Special Defense, making it the ideal wall against a special attacker like Mewtwo. It can take a Shadow Ball with ease and create a better position for my team.
+
+gpt-4.1's Reasoning: Shadow Ball had no effect on Blissey since it is a Normal type, and Psychic is resisted. Blissey has high special defense, but switching to Metagross (Steel/Psychic) would provide a strong physical attacker who resists Blissey's likely Normal-type moves and can hit back harder.
+
+gemini-2.5-pro's Reasoning: My Blissey is immune to Mewtwo's known move, Shadow Ball, so I am not in any danger. Mewtwo's HP is low enough that an attack might knock it out. I will use Ice Beam to apply pressure and potentially win the matchup.
+
+gpt-4.1's Reasoning: Metagross resists Ice Beam and is currently healthy. Blissey has very high HP but low Defense, making physical moves like Earthquake highly effective. Earthquake is also super effective against Blissey's Normal-type, so it's the best move to maximize damage.
+
+gemini-2.5-pro's Reasoning: My active Pokémon, Blissey, has a move that is not very effective against the opponent's Metagross. Metagross is a powerful physical attacker, which is Blissey's weak point. I will switch to Swampert, whose Ground typing is super-effective against Metagross's Steel type. Swampert also resists Steel-type attacks, making it a safe and advantageous switch.
+
+gpt-4.1's Reasoning: Earthquake did significant damage to Swampert previously and is Metagross's strongest move. Despite Swampert's Water typing, it is also a Ground type, so Earthquake will deal neutral damage. Keeping up the offensive pressure is preferable since Metagross still has high HP and is not at a clear type disadvantage.
+
+gemini-2.5-pro's Reasoning: My active Pokémon, Swampert, has a Ground type. The opponent's Metagross is a Steel/Psychic type, making it weak to Ground-type moves. My Swampert's Earthquake is a powerful STAB (Same-Type Attack Bonus) super-effective attack that will deal maximum damage and has a very high probability of knocking out the opponent's Metagross in one hit. Since it is my turn to move, this is the most direct path to victory against this specific opponent.
+
+gpt-4.1's Reasoning: Metagross is at critically low HP (3/120) and will almost certainly be KO'd by another Earthquake. Swampert is weak to Grass-type moves, but none of my Pokémon currently on the field have that advantage. Of my available team, Salamence can threaten Swampert with a potential Dragon- or Flying-type move and resists Earthquake because of its Flying type. Switching to Salamence both preserves Metagross for later and prevents a likely KO.
+
+gemini-2.5-pro's Reasoning: The opponent's Metagross has only 3 HP remaining. My Swampert's Earthquake is super-effective and will guarantee a knockout. Although my Swampert is low on HP, it's crucial to eliminate the threat before the opponent can act.
+
+gpt-4.1's Reasoning: Swampert is at very low HP (21/140) and is weak to Dragon-type moves. 'Dragon Claw' is a reliable attack with 100% accuracy and enough power to guarantee the KO. Salamence is at full health and faces no immediate threat from Swampert, since Earthquake has no effect. Using Dragon Claw is the safest way to secure the knockout without risking a miss from Fire Blast or being resisted by Earthquake.
+
+gemini-2.5-pro's Reasoning: My Swampert is very low on health and slower than Salamence, so it will likely be knocked out this turn. Attacking with Ice Beam is risky. A safer play is to switch to a Pokémon that can handle Salamence. Skarmory is an excellent choice as it has a 4x resistance to Dragon-type attacks and is immune to Ground-type attacks, making it a strong defensive counter to Salamence.
+
+gpt-4.1's Reasoning: Skarmory is Steel/Flying type, making it 4x weak to Fire moves and resistant to Dragon and Ground. Salamence is at full HP and outspeeds Skarmory. Fire Blast is the best offensive option here, likely KOing Skarmory. Despite its imperfect accuracy, Fire Blast is strongly favored for maximum damage.
+
+gemini-2.5-pro's Reasoning: Salamence's Dragon Claw is not very effective against my Skarmory, but a potential Fire-type move would be devastating. Switching to Raikou is the best strategic move. Raikou's Electric-type moves are super-effective against Salamence's Flying type, and Raikou has a high Speed stat, likely allowing it to attack first and threaten a one-hit KO.
+
+gpt-4.1's Reasoning: Raikou is an Electric-type, which is weak to Ground-type moves. Salamence knows Earthquake, a powerful Ground-type attack with perfect accuracy. Salamence is currently at full HP and faster than most Raikou sets. Attacking with Earthquake provides the best chance to deal significant damage or even knock out Raikou.
+
+gemini-2.5-pro's Reasoning: My Raikou is faster than the opponent's Salamence. My move, Thunderbolt, receives a Same-Type Attack Bonus (STAB) and is super-effective against Salamence's Flying type. This gives me a very high chance to knock out Salamence in a single hit before it can attack me again. This is the most efficient way to eliminate the current threat.
+
+gpt-4.1's Reasoning: Raikou has fainted and the opponent is about to send out a new Pokémon. Salamence is at less than half HP and could be easily knocked out depending on the opponent's next choice. Swampert is currently at full HP and has great defensive typing with few common weaknesses. Switching to Swampert is a safer play to handle most possible threats and preserve Salamence for later.
+
+gemini-2.5-pro's Reasoning: Blissey is the best choice due to its massive HP and high Special Defense, allowing it to safely absorb any attack from Salamence. Most importantly, Blissey can learn Ice-type moves which are 4x super-effective against the opponent's Dragon/Flying type, ensuring a knockout on the weakened Salamence.
+
+gemini-2.5-pro's Reasoning: The opponent's Salamence is a Dragon/Flying type, making it 4x weak to my Blissey's Ice Beam. Given Salamence's low remaining HP, Ice Beam is almost certain to secure a knockout. My Blissey has full HP and can withstand any single attack from Salamence, making this the safest and most effective play.
+
+gpt-4.1's Reasoning: Blissey has very high Special Defense, which lessens the impact of Surf and Ice Beam, both special moves. Earthquake is a physical move that is super effective against Blissey's Normal-type and targets its much lower Defense, making it the most effective choice to deal significant damage.
+
+gemini-2.5-pro's Reasoning: Blissey has very low physical Defense and is extremely vulnerable to Swampert's physical STAB attacks like Earthquake. Switching to Salamence is the optimal play. Salamence's Flying type makes it immune to Ground moves and it resists Water-type moves, completely walling the opponent's Swampert. At full health, Salamence can then apply significant offensive pressure.
+
+gpt-4.1's Reasoning: Salamence is a Dragon/Flying-type Pokémon, making it 4x weak to Ice-type moves like Ice Beam. Swampert still has high HP and can survive a hit, making it safe to go for a super effective attack.
+
+gemini-2.5-pro's Reasoning: My opponent's known move, Earthquake, does not affect my Salamence due to its Flying type, giving me a free turn to attack. Dragon Claw is my best offensive option, as it receives a Same-Type Attack Bonus (STAB), making it more powerful than Earthquake against a target it hits for neutral damage. This allows me to deal significant damage while the opponent is at a disadvantage.
+
+gpt-4.1's Reasoning: Opponent needs to send out a new Pokémon, and I don't know what it will be yet. Swampert is low on HP (45/140) and could be easily KO'd, but switching now could give the opponent a free attack on my switch-in. Swampert has already done a great job taking out Salamence. Gengar and Zapdos are both at full HP and are flexible safe pivots. Sending out Gengar prepares me to outspeed and threaten many possible opponents, while preserving Swampert for potential later use as a sack or useful resist. I will switch to Gengar.
+
+gemini-2.5-pro's Reasoning: Skarmory is the safest and most strategic choice. Its Flying type grants a crucial immunity to Swampert's Ground-type STAB attacks. With high physical defense and healthy HP, it can easily withstand a potential Water-type move. It can safely switch in and finish off the low-HP Swampert, likely moving first due to its higher speed stat.
+
+gemini-2.5-pro's Reasoning: My active Pokémon, Skarmory, has a significant type advantage. Its Flying type makes it immune to Swampert's known move, Earthquake. The opposing Swampert is at low health and can likely be knocked out by a single attack. Switching to any other Pokémon is risky, as Metagross and my own Swampert are at critical HP, and Blissey cannot apply enough offensive pressure. The best strategy is to stay in and attack to secure the knockout.
+
+gpt-4.1's Reasoning: Skarmory is a Steel/Flying-type Pokémon, which means it is weak to Electric attacks. Thunderbolt, being Electric-type, is super effective against Skarmory. Gengar is at full HP and has a type advantage, so using Thunderbolt maximizes my chances to deal heavy damage and potentially knock out Skarmory.
+
+gemini-2.5-pro's Reasoning: Gengar is a fast and powerful special attacker. It likely carries a move like Thunderbolt which would be super-effective against Skarmory's Flying type. Switching to Blissey is the safest play. Blissey's Normal typing makes it immune to Gengar's Ghost-type STAB, and its massive Special Defense and HP can easily absorb any potential coverage move like Focus Blast or Thunderbolt, effectively walling the Gengar.
+
+gpt-4.1's Reasoning: Gengar resists Ice Beam and cannot be hit by Blissey's common Normal-type STAB moves due to its Ghost typing. Thunderbolt did decent damage, but Shadow Ball is STAB and hits Blissey for neutral damage (since Blissey is not weak to Electric nor Ghost). Shadow Ball has slightly lower base power but benefits from STAB, making it the optimal choice for consistent damage against Blissey.
+
+gemini-2.5-pro's Reasoning: My Blissey is a special wall and is taking very little damage from Gengar's Thunderbolt. My other available Pokémon are at very low HP and would be at risk if I switched. By staying in and attacking with Ice Beam, I can slowly chip away at Gengar's health while maintaining my strong defensive position, forcing my opponent to find a better answer.
+
+gpt-4.1's Reasoning: Shadow Ball does not affect Blissey due to its Normal typing. However, Thunderbolt is a neutral attack and can deal consistent damage. Switching is less favorable right now, as Gengar still has healthy HP and is not threatened by Ice Beam. I will attack with Thunderbolt to chip away at Blissey's large HP.
+
+gemini-2.5-pro's Reasoning: Gengar's Ghost-type attacks do not affect my Normal-type Blissey. Blissey has extremely high Special Defense and HP, so it can easily withstand a Thunderbolt from Gengar. Continuing to attack with Ice Beam is the most efficient way to knock out Gengar without taking any significant risk.
+
+gpt-4.1's Reasoning: Gengar is at very low HP (39/110), and will likely faint if Blissey uses Ice Beam again. Thunderbolt did only modest damage last turn, and Shadow Ball may do more since Blissey typically has low Defense; however, Gengar may not survive another hit. Switching to Zapdos, who is at full HP and resists Ice moves, allows for maintaining offensive pressure while preserving Gengar for later.
+
+gemini-2.5-pro's Reasoning: Gengar's HP is critically low at 39. My Blissey's Ice Beam dealt 36 damage last turn, so using it again will secure the knockout. There is no need to switch and risk taking damage on another Pokémon.
+
+gpt-4.1's Reasoning: Zapdos is currently threatened by Blissey's super effective Ice Beam, and with only 68 HP left, another Ice Beam would likely knock Zapdos out. Blissey typically has very high Special Defense, making Electric attacks less effective, and my other options are either severely weakened or also weak to Ice. Swampert resists Ice Beam and is immune to Electric attacks, so switching to Swampert both absorbs the Ice Beam better and allows for more strategic play in future turns.
+
+gemini-2.5-pro's Reasoning: Blissey's Ice Beam is super effective against Zapdos and did significant damage last turn. With only 68 HP remaining, another Ice Beam is highly likely to secure the knockout. My Blissey is very healthy and can take a hit if needed. There is no reason to switch.
+
+gpt-4.1's Reasoning: Swampert is at critically low HP and will likely be knocked out by another Ice Beam from Blissey. Switching to Metagross as a sacrifice could provide a safe switch for another teammate since Metagross has only 3 HP left and would be knocked out immediately. This would give me a free switch into another Pokémon, such as Mewtwo or Salamence, to better deal with Blissey.
+
+gemini-2.5-pro's Reasoning: The opponent's Swampert has very low HP (12/140). My Blissey's Ice Beam is 4x super effective and will guarantee a knockout. There is no need to switch as attacking is the most direct way to eliminate this threat.
+
+gpt-4.1's Reasoning: Blissey is a Normal-type Pokémon with very high HP and Special Defense but low Defense. My best approach is to use a strong physical attacker. Salamence fits this role well, boasting high Attack and decent Speed, which can exploit Blissey's low Defense. Although Salamence is not at full health, its remaining HP (51/135) is sufficient for at least one or two powerful physical attacks. Mewtwo, though strong, is mainly a special attacker, and Gengar is frail with little HP left. Swampert and Zapdos both lack notable advantages and also have low HP. Thus, Salamence is the most likely to finish off Blissey quickly.
+
+gpt-4.1's Reasoning: Blissey's Defense is low but its Special Defense is very high. Salamence's Earthquake is a powerful physical move and exploits Blissey's low Defense, while Salamence outspeeds Blissey and can deal significant damage. Switching is risky with all teammates fairly low on HP and Blissey potentially using Ice Beam again. Attacking with Earthquake is the most effective play.
+
+gemini-2.5-pro's Reasoning: My opponent has to switch to a new Pokémon, giving me a free turn. Blissey has done its job by knocking out Metagross. I will switch to Skarmory, which has a great defensive typing (Steel/Flying), is immune to the opponent's known move Earthquake, and has a healthy amount of HP. This puts me in a strong defensive position to scout and react to their next Pokémon.
+
+gpt-4.1's Reasoning: Earthquake has no effect on Skarmory because it is a Flying type. Dragon Claw will do neutral damage, but Fire Blast is super effective against Skarmory's Steel typing, and could deal heavy damage or possibly knock it out. Despite Fire Blast's lower accuracy, it is the strongest available move and gives the best chance to finish Skarmory quickly. Salamence still has enough HP to risk another turn.
+
+gemini-2.5-pro's Reasoning: The opponent's Salamence is faster than my Skarmory and carries Fire Blast, which is a super-effective, one-hit-KO threat. Switching is the only safe play. My Blissey has enormous special defense and HP, allowing it to easily absorb a Fire Blast. Blissey can then threaten Salamence with a super-effective attack on the next turn. This switch safely neutralizes the opponent's biggest remaining threat.
+
+gpt-4.1's Reasoning: Blissey has very high Special Defense, making Fire Blast less effective over time. Dragon Claw is a physical move that takes advantage of Blissey's weak Defense. Earthquake is also physical and stronger, but Blissey is not weak to Ground. Staying in with Salamence is a risk because Blissey knows Ice Beam, which is super effective against Salamence. However, my other Pokémon are all very low except for Zapdos (which is weak to Ice Beam) and Mewtwo (which has decent HP left). If I switch, Blissey could hit the switch-in with Ice Beam or another move. The best option is to attack with Earthquake to deal the most physical damage before Salamence faints.
+
+gemini-2.5-pro's Reasoning: The opponent's Salamence is a Dragon/Flying type, making it 4x weak to my Blissey's Ice Beam. With only 51 HP remaining, Ice Beam is a guaranteed knockout. Although Salamence will likely attack first, Blissey has enough HP to survive another hit. Eliminating a powerful threat like Salamence is the highest priority.
+
+gpt-4.1's Reasoning: Blissey has fainted, so the opponent will be forced to send in a new Pokémon. Salamence is low on HP but still active, and no switches are allowed right now before seeing which Pokémon the opponent sends out. I will wait for the opponent to reveal their next Pokémon before deciding to attack or switch.
+
+gemini-2.5-pro's Reasoning: Skarmory has the most remaining HP and its Steel/Flying typing provides a key resistance to Salamence's Dragon-type STAB attacks. Its high Defense stat allows it to withstand physical attacks. My other Pokémon have too little HP to safely switch in.
+
+gemini-2.5-pro's Reasoning: My active Pokémon, Skarmory, has a major type advantage against the opponent's Salamence. Skarmory's Flying type makes it immune to Earthquake, and its Steel type gives it resistance to Dragon Claw. The opposing Salamence is at low health. Switching out to either Metagross or Swampert is extremely risky as they both have very little HP remaining and would likely be knocked out. The best strategy is to stay in and attack to secure the knockout.
+
+gpt-4.1's Reasoning: Fire Blast is super effective against Skarmory's Steel typing, potentially dealing heavy damage despite its lower accuracy. Salamence still has enough HP to survive an attack and make use of this strong offensive move. Switching out risks unnecessary damage to lower-HP Pokémon. Best to take advantage of Salamence's offensive presence.
+
+gemini-2.5-pro's Reasoning: Switching is not a viable option as my other Pokémon, Metagross and Swampert, have critically low HP and would be knocked out by any of Salamence's attacks. My best chance to win is to stay in with Skarmory and attack. Salamence is low on health and a strong attack could knock it out. While Skarmory is weak to Fire Blast, it resists Dragon Claw and is immune to Earthquake, giving me a decent chance to survive and retaliate for the win.
+
+gpt-4.1's Reasoning: Since Skarmory has fainted, the opponent needs to send out a new Pokémon. Until I know the identity of their next Pokémon, I should wait and observe before choosing an attack or switching. No action is required right now.
+
+gemini-2.5-pro's Reasoning: Metagross has only 5 HP and will be knocked out by any attack from Salamence. Swampert has more remaining HP and a better chance to survive a hit. As a Water-type, Swampert may know an Ice-type move, which is 4x super-effective against a Dragon/Flying type like Salamence and offers the best chance to win.
+
+gemini-2.5-pro's Reasoning: My Swampert is very low on HP and slower than Salamence, so it will likely be knocked out this turn. Switching is not a viable option, as Metagross has even less HP (5) and would be knocked out by any of Salamence's attacks. My only chance to win is to attack with the most powerful move available. Ice Beam is 4x super effective against the opponent's Dragon/Flying type Salamence and will guarantee a knockout if it hits. I must hope Swampert can survive the incoming attack.
+
+gpt-4.1's Reasoning: Swampert's Water/Ground typing makes it 4x weak to Grass and immune to Electric, but neither of my available Pokémon have Grass moves by type. Zapdos's Electric typing is nullified by Swampert's Ground type, making its STAB less effective; however, Zapdos still resists potential Ground-type moves with its Flying type and has enough HP to survive. Gengar is low on HP and is generally frail. Mewtwo has high Speed and strong special attack, but Psychic-type moves are neutral. Given the considerations, Mewtwo has the best combination of speed, power, and remaining HP to safely finish off the low-HP Swampert before taking much damage.
+
+gpt-4.1's Reasoning: Mewtwo is faster than Swampert and Swampert has only 21 HP remaining. Using Psychic will be sufficient to KO Swampert, and there is no risk in staying in as Swampert is unlikely to survive the attack. No need to switch Pokémon at this stage.
+
+gemini-2.5-pro's Reasoning: My only other available Pokémon, Metagross, has only 5 HP remaining, making a switch incredibly risky. My best option is to keep Swampert in and attempt to deal as much damage as possible. The opponent knows I have Ice Beam after knocking out their Salamence, so they may switch to a Pokémon that resists Ice, like a Steel or Fire type. Earthquake is my strongest STAB move and is super-effective against both Steel and Fire types, making it the most logical predictive move in this situation.
+
+gpt-4.1's Reasoning: Mewtwo is at moderate HP and is currently active. The opponent must switch in a new Pokémon, and I do not yet know its identity or typing. Mewtwo's movepool provides diverse coverage, so keeping it in allows for a strong, versatile response to whatever the opponent brings in. There is no immediate threat requiring a switch. Remaining offensive pressure is important while maintaining momentum.
+
+gemini-2.5-pro's Reasoning: Metagross is my only remaining Pokémon. Although its HP is critically low, I have no other option but to send it out. Its Steel typing gives it a valuable resistance to Mewtwo's Psychic-type attacks, which is my only hope.
+
+gemini-2.5-pro's Reasoning: Metagross is my last Pokémon and has only 5 HP remaining. It will certainly be knocked out this turn. Switching is not an option. My only play is to deal as much damage as possible before fainting. Earthquake has the highest base power among my moves, making it the optimal choice for this final attack.
+---
+o4-mini's Reasoning: Mewtwo is neutral to both Ice and Electric but Ice Beam has perfect accuracy and still deals solid damage with STAB. It’s safer than risking a miss with Thunder at this stage of the battle.
+
+claude-3-5-sonnet-20240620's Reasoning: Mewtwo is a strong Psychic-type Pokemon, but Kyogre is a Water-type legendary with high defensive stats. While Psychic would be a neutral hit, Thunderbolt (Electric-type) would be super effective against Kyogre due to its Water typing. This gives us the best chance to deal significant damage right from the start of the battle.
+
+o4-mini's Reasoning: Kyogre is low on HP and Mewtwo’s Thunderbolt threatens to KO. Switching to Groudon grants immunity to Electric and lets me take advantage offensively against Mewtwo.
+
+claude-3-5-sonnet-20240620's Reasoning: Kyogre is already low on HP, and Thunderbolt was super effective. Another Thunderbolt should be enough to knock it out. Mewtwo still has decent HP, so it's worth staying in to finish off Kyogre rather than switching.
+
+o4-mini's Reasoning: Groudon is immune to Thunderbolt and can use Earthquake for reliable high damage against Mewtwo with perfect accuracy, maximizing damage and keeping momentum.
+
+claude-3-5-sonnet-20240620's Reasoning: Groudon is a Ground/Fire type, which is weak to Ice-type moves. Mewtwo's Ice Beam would be super effective against Groudon. Additionally, Mewtwo's HP is relatively low, so dealing maximum damage quickly is crucial.
+
+o4-mini's Reasoning: Rayquaza is at full health, has high speed and strong offensive versatility to handle whatever your opponent sends next
+
+claude-3-5-sonnet-20240620's Reasoning: Swampert is the best choice for this situation. As a Water/Ground type, it has a significant advantage against Groudon, which is a pure Ground type. Water moves will be super effective against Groudon. Additionally, Swampert's Ground typing makes it immune to Groudon's Electric-type moves if it has any. Swampert also has full HP (140/140) and decent defensive stats, which means it can potentially take hits from Groudon if needed. Its Attack stat of 95 is also respectable, allowing it to deal good damage with its Water-type moves. The fact that Groudon is already low on HP (23/140) means Swampert should be able to finish it off quickly, possibly even in one hit with a strong Water-type move.
+
+claude-3-5-sonnet-20240620's Reasoning: Groudon is at very low HP (23/140) and is weak to Water-type moves. Swampert's Surf attack is super effective against Groudon and has a high chance of finishing the battle. Additionally, using a Water-type move eliminates the risk of Groudon's Earthquake being super effective against Swampert.
+
+o4-mini's Reasoning: Rayquaza’s Earthquake and Thunder won’t hit Swampert, and Fire Blast is less reliable without STAB. Dragon Claw gets STAB, 100% accuracy, and neutral damage—making it the best choice to wear down Swampert while maintaining momentum.
+
+claude-3-5-sonnet-20240620's Reasoning: Rayquaza is a Dragon/Flying type, which is weak to Ice-type moves. Our Swampert knows Ice Beam, which would be super effective against Rayquaza. This is our best option for dealing maximum damage and potentially knocking out Rayquaza quickly.
+
+o4-mini's Reasoning: Swampert’s Water/Ground typing makes it immune to Electric and resistant to Water, leaving only neutral hits on Grass and other types. Among my roster, Lugia (index 3) is immune to Ground moves (like Earthquake) thanks to its Flying type, takes only neutral damage from Water, and has full HP and strong defenses to outlast Swampert while I can safely scout or set up.
+
+o4-mini's Reasoning: Swampert is low on HP and Psychic with perfect accuracy and enough power will reliably KO it. No need to switch and risk losing momentum.
+
+claude-3-5-sonnet-20240620's Reasoning: Since Rayquaza has fainted and the opponent needs to choose a new Pokémon, this is a good opportunity to switch out Swampert. Swampert's HP is low at 53/140, and we don't know what type of Pokémon the opponent will send out next. Dragonite is a strong, versatile Pokémon with full HP, making it a good choice for this uncertain situation. Its Dragon and Flying type gives it fewer weaknesses compared to Swampert, and it likely has a diverse movepool to handle various opponent types.
+
+o4-mini's Reasoning: Psychic is STAB and will reliably OHKO the weakened Dragonite without risk of missing
+
+claude-3-5-sonnet-20240620's Reasoning: Dragonite is at low HP and vulnerable to Lugia's Psychic attacks. Earthquake won't be effective against Lugia due to its Flying type, and Fire Punch isn't very effective either. It's best to switch to a Pokémon with better type matchup and full HP. Tyranitar, being part Dark-type, resists Psychic attacks and has full HP, making it the best choice for this situation.
+
+o4-mini's Reasoning: Psychic is useless against Dark, Thunder is resisted by Rock, and Hydro Pump is super effective against Tyranitar’s Rock typing. Despite lower accuracy, it’s the strongest option to deal significant damage.
+
+claude-3-5-sonnet-20240620's Reasoning: Tyranitar has a type advantage against Lugia, being immune to Psychic-type moves. We should capitalize on this by using our strongest super-effective move. Crunch is a Dark-type move that will be super effective against Lugia's Psychic typing. It also has 100% accuracy, making it a reliable choice.
+
+o4-mini's Reasoning: Psychic has perfect accuracy and previous use dealt ~82 damage, enough to KO Tyranitar this turn without risking a miss. That prevents Tyranitar from landing another Crunch and potentially knocking out Lugia.
+
+claude-3-5-sonnet-20240620's Reasoning: Tyranitar is at low HP and vulnerable to Lugia's Psychic attacks. Switching to Gengar would provide resistance to Psychic moves and allow for a safe switch. Gengar is at full HP and can potentially deal super effective damage with Ghost-type moves if it has any.
+
+o4-mini's Reasoning: Gengar just fainted and Lugia is only about half health. I want to bring in a fresh, high‐bulk Pokémon to handle whatever comes next. Ho-Oh has full HP and can resist many types, giving us a strong pivot.
+
+claude-3-5-sonnet-20240620's Reasoning: Tyranitar is the best choice for this situation. As a Rock/Dark type, it has a significant advantage against Lugia's Psychic/Flying typing. Rock moves are super effective against Flying, while Dark moves are super effective against Psychic. Additionally, Tyranitar's Dark typing provides immunity to Psychic attacks. Although Tyranitar's HP is relatively low at 58/140, its high Defense (95) and Special Defense (90) stats should help it withstand Lugia's attacks. Tyranitar's Attack stat of 114 is also the highest among the available options, allowing it to deal substantial damage. While Zapdos has full HP and an Electric type advantage, it's also weak to Lugia's Psychic moves due to its Flying type. Dragonite and Swampert don't have as favorable type matchups against Lugia.
+
+claude-3-5-sonnet-20240620's Reasoning: Zapdos is a strong choice against Lugia due to its Electric typing. Lugia is part Flying-type, which is weak to Electric moves. Thunderbolt has higher accuracy than Thunder, making it a more reliable choice. It's super effective and should deal significant damage to Lugia, potentially finishing it off given its current HP.
+
+o4-mini's Reasoning: Ho-Oh can’t survive another Thunderbolt, so I’ll switch to Groudon (immune to Electric) to safely absorb the next attack and preserve position
+
+claude-3-5-sonnet-20240620's Reasoning: Zapdos is at full health and has a type advantage against Ho-Oh, which is Flying-type. Thunderbolt has already proven effective, and it has a higher accuracy than Thunder. With Ho-Oh at low HP, Thunderbolt should be sufficient to finish it off without risking a miss.
+
+o4-mini's Reasoning: Groudon is immune to Zapdos’s Thunderbolt, so it’s safe to use its strongest super-effective move. Fire Blast hits Flying-types at 2× power and will cripple Zapdos quickly.
+
+claude-3-5-sonnet-20240620's Reasoning: Zapdos' Electric-type moves are ineffective against Groudon due to its Ground type. Switching to a Water-type Pokémon like Swampert would be advantageous, as it's strong against Ground types and can resist Groudon's Earthquake.
+
+o4-mini's Reasoning: Groudon at 23 HP will be 1HKO’d by Surf or Ice Beam. Magnezone resists Ice Beam and takes neutral damage from Surf, and can threaten Swampert with Electric moves, making it a safe pivot.
+
+claude-3-5-sonnet-20240620's Reasoning: Swampert is at critically low HP and vulnerable to Groudon's Earthquake. Groudon is also low on HP, so a strong attack could end the battle. Surf is super effective against Ground-type Groudon and has a high chance of KO'ing it. Using Surf is the best option to potentially win before Swampert faints.
+
+o4-mini's Reasoning: Swampert is at low HP and weak to Electric. Using Thunderbolt with perfect accuracy will reliably KO and secure the win.
+
+claude-3-5-sonnet-20240620's Reasoning: Swampert is at critically low HP and vulnerable to Magnezone's Electric-type attacks. Earthquake would be super effective against Magnezone due to its Steel typing, but Swampert might not survive another hit. Switching to Zapdos is the safest option as it resists Electric attacks and is at full health, allowing us to better assess the situation and potentially set up for a win.
+
+o4-mini's Reasoning: Magnezone heavily resists Zapdos’s Electric attacks and can reliably finish it off with Thunderbolt at full accuracy
+
+claude-3-5-sonnet-20240620's Reasoning: Zapdos is at low HP and vulnerable. Magnezone is also Electric-type, so our Electric moves won't be very effective. It's better to switch to a Pokémon with a type advantage. Swampert, being part Ground-type, is immune to Electric attacks and can deal super-effective damage to Magnezone. Although Swampert's HP is low, it's our best option to potentially finish off Magnezone quickly.
+
+o4-mini's Reasoning: Swampert is immune to Electric attacks, so Thunderbolt or Thunder won’t work. Flash Cannon is super effective neutral type and can finish off the low HP Swampert. I’ll use Flash Cannon to KO it.
+
+claude-3-5-sonnet-20240620's Reasoning: Swampert has a significant type advantage against Magnezone, being immune to Electric attacks and having access to super-effective Ground-type moves. Earthquake is the most powerful and effective option, dealing 4x damage due to Magnezone's Electric/Steel typing. This should be enough to defeat Magnezone given its current HP.
+
+o4-mini's Reasoning: Swampert’s Ground moves can’t hit a Flying-type, and its Water attacks will be only neutral. Between Ho-Oh and Lugia, Lugia has higher current HP and greater bulk, making it safer to switch in and finish off the low‐HP Swampert.
+
+o4-mini's Reasoning: Swampert is at 9 HP and immune to Electric, Psychic is 100% accurate and will secure the KO safely
+
+claude-3-5-sonnet-20240620's Reasoning: Swampert is critically low on HP and vulnerable to the next attack. Since the opponent needs to choose a new Pokémon, this is an ideal opportunity to switch to a stronger Pokémon. Dragonite has the highest HP remaining and is a versatile attacker, making it the best choice for facing an unknown opponent.
+
+o4-mini's Reasoning: Dragonite is at low HP and Psychic has perfect accuracy, guaranteeing a knockout before it can act again.
+
+claude-3-5-sonnet-20240620's Reasoning: Dragonite is critically low on HP and vulnerable to Lugia's Psychic attacks. Earthquake won't be effective against the Flying-type Lugia, and Fire Punch isn't very powerful. It's best to switch to a Pokémon with better type matchup and more HP. Zapdos, being an Electric type, has an advantage against Lugia's Flying type and has more HP remaining.
+
+o4-mini's Reasoning: I’ll stick with Lugia and use Psychic; it’s reliable STAB with perfect accuracy against the incoming Pokémon, avoiding the risk of missing Hydro Pump or Thunder.
+
+claude-3-5-sonnet-20240620's Reasoning: Tyranitar is the best choice in this situation. It has the highest remaining HP (58/140) among the available Pokémon, giving it the best chance to survive. More importantly, Tyranitar's Dark type gives it a significant advantage against Lugia's Psychic type, as Dark is immune to Psychic moves. Additionally, Tyranitar's Rock type provides resistance to Lugia's Flying-type moves. While Tyranitar's Rock type is weak to Lugia's potential Water-type moves, the overall type matchup is favorable. Tyranitar also has strong offensive stats to potentially deal significant damage to Lugia.
+
+claude-3-5-sonnet-20240620's Reasoning: Tyranitar has a type advantage against Lugia with its Rock-type move. Rock Slide is super effective against Flying-type Pokémon like Lugia. Additionally, Tyranitar's Dark typing provides resistance to Lugia's Psychic attacks. With Tyranitar having decent HP remaining and being our strongest active Pokémon, it's best to stay in and use our most effective move.
+
+o4-mini's Reasoning: Tyranitar is Rock/Dark. Water moves are super effective on Rock and neutral on Dark, and Kyogre has more remaining HP (52/140) than Groudon (23/140). Ho-Oh’s Fire/Flying is resisted by Rock. Kyogre can hit Tyranitar hard and survive longer.
+
+o4-mini's Reasoning: Kyogre’s best bet is to use the 100% accurate Ice Beam to secure a likely OHKO on Tyranitar without risking a miss and a retaliatory hit, since switching would bring in a Pokémon vulnerable to Rock Slide.
+
+claude-3-5-sonnet-20240620's Reasoning: The opponent's Lugia has fainted, and they need to choose a new Pokémon. This presents an opportunity to potentially set up or deal significant damage to their next Pokémon. Given that Tyranitar still has a decent amount of HP left (58/140), it's worth keeping it in battle for now. Since we don't know what Pokémon the opponent will send out next, it's best to use a move that has good coverage and power. Earthquake is a strong move with 100 power and 100 accuracy, making it a reliable choice against a wide range of Pokémon types. It could be especially effective if the opponent sends out a Fire, Electric, Rock, or Steel type.
+
+o4-mini's Reasoning: Groudon’s Ground typing lets it hit Tyranitar’s Rock/Dark type super effectively and safely finish it off with Earthquake. Sending in Groudon ensures a quick knockout without risking Ho-Oh against Tyranitar’s Rock moves.
+
+o4-mini's Reasoning: Tyranitar is at 3 HP and Earthquake (100% accuracy, Ground vs Rock/Dark) will easily KO it. No need to switch and risk bringing in Ho-Oh against Rock Slide’s 4× weakness. I finish off Tyranitar now.
+
+claude-3-5-sonnet-20240620's Reasoning: Our Tyranitar is critically low on HP with only 3 HP remaining. While we've just defeated Kyogre, the opponent will be sending out a new Pokémon. Given Tyranitar's vulnerability, it's strategically better to switch to a Pokémon with more HP. Dragonite has the most HP left among our available Pokémon and doesn't have any known type disadvantages against the opponent's team. Switching to Dragonite will give us a better chance to continue the battle effectively.
+
+o4-mini's Reasoning: Dragonite is Flying type and doubly weak to Rock. With its low HP, Groudon’s Rock Slide can OHKO even if Multiscale halves the damage. Rock Slide is also more accurate and powerful than Fire Blast here.
+
+claude-3-5-sonnet-20240620's Reasoning: Dragonite is immune to Ground-type moves due to its Flying type, which gives us an advantage against Groudon's Earthquake. Groudon is weak to Dragon-type moves, but we don't have any. Fire Punch won't be very effective against Groudon, but it's our best offensive option. With Groudon at low HP, we have a chance to finish it off. Switching to our other remaining Pokémon (Tyranitar or Swampert) would be risky due to their low HP and vulnerability to Groudon's moves.
+
+o4-mini's Reasoning: Groudon is critically low on HP and vulnerable to the incoming contender. Ho-Oh is my only remaining healthy Pokémon with significant bulk to handle most opponents, so I will switch to Ho-Oh.
+
+claude-3-5-sonnet-20240620's Reasoning: I choose to send out Swampert. While both Tyranitar and Swampert have low HP, Swampert has a clear type advantage against Groudon. As a Water-type, Swampert's attacks will be super effective against the Ground-type Groudon. Additionally, Swampert's Ground-type gives it immunity to Groudon's Electric-type moves if it has any. Swampert also has slightly more HP remaining than Tyranitar, which could be crucial in this situation. Given Groudon's low remaining HP, Swampert has a good chance of finishing the battle with a strong Water-type move.
+
+claude-3-5-sonnet-20240620's Reasoning: Swampert is at critically low HP and unlikely to survive another hit. However, it has a type advantage against Groudon with its Water-type move Surf. Given that Groudon is also low on HP, our best chance is to attempt a knockout with Surf before Groudon can attack. Switching to Tyranitar would be risky due to its extremely low HP and vulnerability to Groudon's Earthquake.
+
+o4-mini's Reasoning: Your only available Pokémon is Groudon. Although Swampert’s Water/Ground typing makes it resistant to Ground moves, Groudon’s high Attack (134) and Speed (80) allow it to outspeed Swampert (Speed 60) and KO it before taking a hit. With Swampert at just 9 HP remaining, switching to Groudon and using a strong Ground-type move will secure the knockout.
+
+o4-mini's Reasoning: All other Pokémon are fainted so I must stay in; Earthquake is my strongest neutral STAB move and will OHKO the low-HP Swampert.
+
+claude-3-5-sonnet-20240620's Reasoning: We just defeated Ho-Oh, and the opponent needs to choose a new Pokémon. Since we don't know what Pokémon they'll send out next, it's best to keep our current Pokémon, Swampert, active. Swampert has a diverse move set that can handle various types. We should wait to see what Pokémon the opponent chooses before deciding on our next move.
+
+o4-mini's Reasoning: All my other Pokémon are fainted so I must stay in with Groudon. With only 23 HP left I need a reliable hit to threaten the incoming Pokémon, so I use Earthquake for its perfect accuracy and solid damage.
+
+claude-3-5-sonnet-20240620's Reasoning: Given the limited options, Tyranitar is the only choice available. Despite its low HP, it has a type advantage against Groudon as Rock-type moves are super effective against Ground-type Pokémon. Tyranitar's high Attack stat could potentially allow it to finish off the weakened Groudon with a powerful Rock-type move. However, its low Speed and critically low HP make this a risky play. It's a last-stand situation where Tyranitar might be able to deal significant damage before fainting, potentially setting up for a win with the next Pokémon.
+
+claude-3-5-sonnet-20240620's Reasoning: Tyranitar is our last Pokémon and has very low HP. Groudon is also low on HP. Our best chance is to use our strongest move that has type advantage. Rock Slide is super effective against Groudon (Ground type) and has the highest accuracy among our powerful moves. It's our best shot at defeating Groudon before we faint.
+---
+claude-sonnet-4-20250514's Reasoning: Tyranitar is a Dark/Rock type Pokemon. My Psychic-type move will be completely ineffective against it due to Dark type immunity. However, my other moves can still work - Ice Beam would be particularly effective as it's super effective against Rock types. Ice Beam has 90 power and 100% accuracy, making it a strong choice to deal significant damage right from the start.
+
+claude-3-7-sonnet-20250219's Reasoning: Mewtwo is a Psychic-type Pokémon which is weak against Dark-type moves. Tyranitar's Crunch is a Dark-type move that has good power (80) and perfect accuracy (100), making it the optimal choice against Mewtwo. Rock, Ground, and Fire moves don't have type advantages against Mewtwo, so Crunch is clearly the best option for maximum damage.
+
+claude-sonnet-4-20250514's Reasoning: Mewtwo is critically low on HP (37/145) and will likely faint from another attack. Tyranitar is a Dark/Rock type, so Psychic moves are not very effective against it. I should switch to a Pokemon that can better handle Tyranitar. Swampert is a Water/Ground type that resists Rock moves and can use Water moves effectively against Tyranitar's Rock typing.
+
+claude-3-7-sonnet-20250219's Reasoning: Mewtwo is nearly defeated with only 37/145 HP left, and my Tyranitar still has decent HP at 82/140. Crunch was super effective against Mewtwo (Dark moves are super effective against Psychic types), and it did significant damage last turn. Since Mewtwo is almost defeated, I should finish it off with another Crunch attack rather than switching out. Crunch has 100% accuracy, making it the safest option to secure the knockout.
+
+claude-sonnet-4-20250514's Reasoning: Earthquake is super effective against Tyranitar (Rock/Dark type) since Ground moves are super effective against Rock types. With 100 power and 100 accuracy, this should deal significant damage and potentially KO the opponent's Tyranitar.
+
+claude-3-7-sonnet-20250219's Reasoning: Tyranitar is at risk with only 82/140 HP remaining. The opponent's Swampert is Water/Ground type, which means it likely has strong Water moves that would be super effective against my Rock-type Tyranitar. Among my moves, Earthquake would be super effective against Swampert due to its Water type, but Swampert is also Ground type, which means it's immune to Earthquake. Rock Slide and Crunch are neutral against Swampert, and Fire Blast would be not very effective. The best strategic move is to switch to Zapdos, which resists Water attacks with its Electric typing and can hit Swampert super effectively with Electric moves.
+
+claude-sonnet-4-20250514's Reasoning: Zapdos is a Flying/Electric type, so it's immune to Ground moves like Earthquake. Ice Beam is super effective against Flying types and will deal significant damage. Swampert can tank a hit from Zapdos while dealing good damage back.
+
+claude-3-7-sonnet-20250219's Reasoning: Zapdos is in an excellent position right now. As an Electric/Flying type, it's immune to Ground-type moves like Earthquake. Swampert is Water/Ground type, which makes it 4x weak to Electric attacks. Both Thunderbolt and Thunder will be super effective. While Thunder has higher power (110 vs 90), Thunderbolt has perfect accuracy (100% vs 70%), making it the more reliable choice to capitalize on this type advantage. I'll use Thunderbolt to deal significant damage to Swampert while maintaining perfect accuracy.
+
+claude-sonnet-4-20250514's Reasoning: Zapdos is at low HP (57/130) and Ice Beam was super effective last turn, dealing 73 damage. Since Ice Beam is super effective against Flying-type Zapdos and can likely finish it off this turn, I should use Ice Beam again to secure the KO.
+
+claude-3-7-sonnet-20250219's Reasoning: Zapdos is at low health (57/130) and both of its Electric-type moves (Thunderbolt and Thunder) are ineffective against Swampert who is Ground/Water type. Swampert's Earthquake is super effective against Zapdos due to its Electric typing, and Ice Beam is also super effective due to Zapdos's Flying typing. I need to switch to a Pokémon that can better handle Swampert. Celebi (Grass/Psychic) would be resistant to Water moves and immune to Ground moves, while being able to hit Swampert with super effective Grass-type moves. Metagross is also a good option as it resists Ice Beam. I'll choose Celebi since it likely has Grass moves that are super effective against Swampert.
+
+claude-sonnet-4-20250514's Reasoning: Celebi is at 78/140 HP and Ice Beam just dealt 62 super effective damage. Another Ice Beam should finish it off since Ice is super effective against Grass/Psychic type Celebi. Swampert still has decent HP at 84/140 and can likely survive one more turn to secure the KO.
+
+claude-3-7-sonnet-20250219's Reasoning: Celebi is at a severe disadvantage against Swampert due to Ice Beam being super effective against Grass types. Celebi only has Psychic available which is not very effective against Swampert (Water/Ground). At 78/140 HP, Celebi likely won't survive another Ice Beam. I should switch to a Pokémon that resists Ice attacks and can deal effective damage to Swampert. Zapdos would be ideal with Electric moves against Water types, but it's low on HP. My best option is to switch to Blaziken (Fire/Fighting) who resists Ice moves and can potentially use Fighting or Grass moves that would be super effective against Swampert's Water/Ground typing.
+
+claude-sonnet-4-20250514's Reasoning: Blaziken is a Fire/Fighting type, so it's weak to Water moves. My Swampert's Surf will deal super effective damage (2x) and has good power at 90. Ice Beam was not very effective last turn, and while Earthquake is powerful, Surf's type advantage makes it the better choice to maximize damage against the weakened Blaziken.
+
+claude-3-7-sonnet-20250219's Reasoning: I need to choose between attacking with Flamethrower or Rock Slide, or switching to another Pokémon. Swampert is Water/Ground type, which means it has a 4x weakness to Grass moves and is also weak to my Rock Slide (super effective against Water). Flamethrower would be resisted by Swampert's Water typing. Swampert knows Earthquake which would be super effective against Blaziken, and Ice Beam which isn't very effective. Since I have a super effective move (Rock Slide) and Blaziken still has good HP, I'll attack with Rock Slide rather than switching.
+
+claude-sonnet-4-20250514's Reasoning: Blaziken has fainted and the opponent needs to choose a new Pokémon. I should stay with Swampert since it just scored a knockout with Surf and is still at reasonable HP (65/140). Swampert has good type coverage with Water, Ground, and Ice moves, making it versatile against whatever the opponent sends out next. I'll wait to see their next Pokémon before deciding on a specific move.
+
+claude-3-7-sonnet-20250219's Reasoning: I'll choose Celebi. It has a strong type advantage as a Grass-type against the opponent's Swampert (Water/Ground). Grass moves are super effective against both Water and Ground types, potentially dealing 4x damage. Celebi also has good remaining HP (78/140) and balanced stats across the board. With its high Speed stat of 90, Celebi will likely move first against the opponent's Swampert, allowing me to capitalize on the type advantage immediately. While Zapdos would also have a type advantage with Electric against Water, it has lower HP remaining and Electric attacks would be neutralized by Swampert's Ground typing.
+
+claude-3-7-sonnet-20250219's Reasoning: Celebi is at risk against Swampert's Ice Beam which would be super effective against both Psychic and Grass types. Swampert is Water/Ground type, so I should switch to a more advantageous matchup. Zapdos (Electric/Flying) would be excellent as Electric moves are super effective against Water types, and Zapdos is immune to Earthquake. While Zapdos's HP is somewhat low at 57/130, it's my best counter to Swampert right now. Metagross is also a possibility with full HP, but doesn't have the same type advantage.
+
+claude-sonnet-4-20250514's Reasoning: Zapdos has only 1 HP left, so any of my moves will KO it. Surf is guaranteed to hit with 100% accuracy and will easily finish off Zapdos. No need to switch or use a different move when I can secure the KO this turn.
+
+claude-3-7-sonnet-20250219's Reasoning: Zapdos is at critical health (1 HP) and will faint to any attack. Since Swampert is weak to Electric attacks, I could try to attack with Thunder which has higher power (110) than Thunderbolt (90). However, Thunder's accuracy is only 70%, making it risky. Alternatively, I could switch to another Pokémon. Metagross is at full health and could be a good switch. While Swampert's Earthquake is super effective against Metagross, Metagross's Steel typing resists Ice Beam. My own Swampert is also at full health and would resist Surf, but would be vulnerable to the opponent's Earthquake. Given Zapdos's critical condition, switching to a healthy Pokémon is the better option, and Metagross seems optimal.
+
+claude-sonnet-4-20250514's Reasoning: Earthquake is super effective against Metagross (Steel/Psychic type) since Ground moves are super effective against Steel types. With Metagross at 63/120 HP and Earthquake having 100 power compared to Surf's 90 power, this should deal significant damage and potentially knock out Metagross this turn.
+
+claude-3-7-sonnet-20250219's Reasoning: Metagross is at about half health (63/120) and as a Steel/Psychic type, it resists Water attacks like Surf. Swampert is Water/Ground type, which means it's 4x weak to Grass but has no weaknesses to my current moves. However, Earthquake is a strong STAB move that will be super effective against Swampert since it's part Ground type. Rock Slide would only do neutral damage. Swampert is at less than half health (65/140), so a strong Earthquake has a good chance of finishing it off. Even if Swampert survives and uses Earthquake back, Metagross's Steel typing resists Ground moves. This is our best option to finish off Swampert quickly.
+
+claude-sonnet-4-20250514's Reasoning: Swampert is critically low on HP (9/140) and will likely faint to any attack. The opponent's Metagross just fainted and they need to choose a new Pokémon. This is the perfect opportunity to switch to a healthier Pokémon that can handle whatever they send out next. Tyranitar is at full HP and has excellent stats, making it a strong choice to maintain momentum.
+
+claude-3-7-sonnet-20250219's Reasoning: I'll choose Celebi for several strategic reasons: (1) Celebi is Psychic/Grass type, giving it a significant type advantage against the opponent's Water/Ground Swampert. Grass moves are super effective against both Water and Ground types. (2) Celebi has good remaining HP at 78/140, enough to survive hits if needed. (3) Celebi has balanced stats including good Speed (90), which likely means it will outspeed the opponent's Swampert (Speed 56). (4) The opponent's Swampert is nearly defeated with only 9 HP remaining, so Celebi should be able to finish it off quickly with a Grass-type move. (5) Zapdos would also have type advantage with Electric against Water, but with only 1 HP remaining, it's too risky.
+
+claude-3-7-sonnet-20250219's Reasoning: The opponent's Swampert is almost defeated with only 9 HP left. I should finish it off this turn. Celebi can use Psychic, which isn't super effective against Swampert (Water/Ground type), but with only 9 HP remaining, it should be enough to defeat it. Swampert's known moves (Earthquake, Ice Beam, Surf) are all threatening to Celebi - Earthquake is neutral, Ice Beam is super effective against Grass, and Surf is neutral. Since Swampert will likely faint this turn, it's better to attack than to switch.
+
+claude-sonnet-4-20250514's Reasoning: Celebi is a Psychic/Grass type and my Tyranitar is Rock/Dark type. Celebi's Psychic moves are ineffective against my Dark typing as just demonstrated. I should use Crunch, which is a Dark-type move that will be super effective against Celebi's Psychic typing. Crunch has 100% accuracy and 80 power, making it a reliable choice to deal significant damage.
+
+claude-3-7-sonnet-20250219's Reasoning: Psychic is completely ineffective against Tyranitar who is Dark/Rock type, as Dark is immune to Psychic. I need to switch to a better matchup. Swampert (Water/Ground) is a perfect counter to Tyranitar (Dark/Rock) as it can hit with super effective Water-type moves against Rock, and Tyranitar's moves would be resisted. Swampert is also at full health and can take hits if needed.
+
+claude-sonnet-4-20250514's Reasoning: Swampert is a Water/Ground type, so my Ground-type Earthquake will be super effective against it. With Swampert at 89/140 HP, Earthquake's 100 base power should be enough to knock it out this turn, especially with the type advantage.
+
+claude-3-7-sonnet-20250219's Reasoning: Tyranitar is Rock/Dark type, which has a 4x weakness to Fighting, 2x weakness to Water, Ground, Bug, Fairy, Steel, and Grass. Swampert's Earthquake (Ground) and Surf (Water) are both super effective. Since Earthquake has higher base power (100 vs 90), it will deal more damage. My Swampert still has decent HP at 89/140, so I should take advantage of this type matchup before potentially switching later.
+
+claude-sonnet-4-20250514's Reasoning: Both Tyranitar and Swampert are at very low HP (22 and 28 respectively). Tyranitar is likely to be knocked out by Swampert's next Earthquake attack. I should switch to a Pokémon that can resist Ground-type moves and potentially finish off the low-HP Swampert. Skarmory is a Flying/Steel type that is immune to Ground-type moves like Earthquake, making it the perfect counter. At full HP, Skarmory can survive any attack from the weakened Swampert and potentially secure the knockout.
+
+claude-3-7-sonnet-20250219's Reasoning: Swampert is at very low HP (28/140) and might not survive another hit from Tyranitar. Earthquake is super effective against Tyranitar, confirming it's part Rock-type. I should try to finish off Tyranitar this turn since it only has 22 HP left. Earthquake was super effective last turn and did significant damage, but Ice Beam would be super effective if Tyranitar is Rock/Dragon. Since Earthquake did massive damage last turn and Tyranitar has low HP, I'll use Surf which is still a strong STAB move and should be enough to knock out Tyranitar.
+
+claude-sonnet-4-20250514's Reasoning: Skarmory is at low HP (48/110) and vulnerable to Swampert's Surf attacks. Gengar at full HP (110/110) would be a better choice as it can potentially outspeed Swampert and deal significant damage, while also being immune to Earthquake if Swampert switches to that move.
+
+claude-3-7-sonnet-20250219's Reasoning: Skarmory is a Steel/Flying type, so it's weak to Electric attacks but resistant to my current Water moves. Earthquake won't affect it since it's Flying type. Ice Beam would be neutral. Given Swampert's low HP (28/140), it's better to switch to Zapdos which has Electric attacks that would be super effective against Skarmory. However, Zapdos only has 1 HP, making it too risky. Tyranitar with Rock moves would be effective against Skarmory, and it has decent HP (82/140). Celebi is also an option with decent HP (78/140), but may not have super effective moves against Skarmory. Tyranitar is the best choice due to potential Rock moves and good remaining HP.
+
+claude-sonnet-4-20250514's Reasoning: Shadow Ball is super effective against Tyranitar since it's a Ghost-type move against a Dark-type Pokemon. With 80 base power and 100% accuracy, it should deal significant damage to Tyranitar who is already weakened at 82/140 HP. This could potentially knock out or severely weaken the opponent's Pokemon.
+
+claude-3-7-sonnet-20250219's Reasoning: Tyranitar is a Rock/Dark type which gives it a double advantage against Gengar (Ghost/Poison). Specifically, Dark-type moves are super effective against Ghost types. Crunch is a Dark-type move with 80 power and 100% accuracy, making it the optimal choice against Gengar. While Earthquake has higher base power, it won't be effective against Gengar who is likely able to float/levitate. Rock Slide would be neutral and Fire Blast would be resisted. Crunch is clearly the best option here to deal maximum damage.
+
+claude-sonnet-4-20250514's Reasoning: Blaziken is the optimal choice here. It has full HP (120/120) and its Fighting-type moves are super effective against Tyranitar's Rock typing. While Blaziken's Fire typing is resisted by Rock, the Fighting advantage more than compensates. Blaziken also has solid Attack (100) and Special Attack (95) stats to capitalize on the type advantage. The opponent's Tyranitar is already weakened at 50/140 HP, so Blaziken should be able to finish it off quickly with a Fighting-type move.
+
+claude-sonnet-4-20250514's Reasoning: Blaziken is at full health and has a type advantage with Fighting moves against Tyranitar (Rock/Dark type). However, I only have Fire and Rock moves available. Flamethrower is neutral against Tyranitar but has higher power (90 vs 75) and perfect accuracy (100 vs 90). With Tyranitar at low HP (50/140), Flamethrower should be able to finish it off.
+
+claude-3-7-sonnet-20250219's Reasoning: Tyranitar just defeated Gengar, and the opponent needs to send out a new Pokémon. This is a perfect opportunity to switch to a Pokémon that might have better matchups against whatever comes next, while also preserving Tyranitar's remaining HP (50/140). Tyranitar has taken significant damage, and we should save it for later if needed. Looking at my available options, Celebi (78/140 HP) is my healthiest Pokémon and has good overall typing as Grass/Psychic. Swampert (28/140) and Zapdos (1/130) are too low on health to risk switching in. Switching to Celebi gives me the most flexibility against whatever the opponent sends out next.
+
+claude-sonnet-4-20250514's Reasoning: Celebi has fainted and my opponent needs to choose a new Pokémon. I should stay with Blaziken since it's at full health and has strong offensive moves. I'll wait to see what they send out next before deciding on my move.
+
+claude-3-7-sonnet-20250219's Reasoning: I should switch to Swampert despite its low HP because it has a double type advantage against Blaziken. As a Water/Ground type, Swampert is resistant to Fire moves and immune to Electric moves. More importantly, it has a 4x effectiveness against Blaziken's Fire type. Even with only 28 HP remaining, Swampert's type advantage gives it the best chance to deal significant damage to Blaziken. Tyranitar has more HP but would be vulnerable to Blaziken's Fighting moves, while Zapdos with only 1 HP would likely faint immediately.
+
+claude-3-7-sonnet-20250219's Reasoning: I need to choose a new Pokémon after Celebi fainted. Swampert is my best choice here since it has a type advantage against Blaziken (Water beats Fire). Blaziken is a Fire/Fighting type, and my Swampert's Water-type moves will be super effective. Additionally, Swampert's Ground typing gives it immunity to Electric attacks if Blaziken has any. While Swampert's HP is low at 28/140, it's still better positioned than Tyranitar (who would be weak to Fighting moves) or the nearly-fainted Zapdos. I'll switch to Swampert and then use Surf on my next turn for super effective damage.
+
+claude-sonnet-4-20250514's Reasoning: The opponent's Swampert has fainted and they need to choose a new Pokémon. I should stay with Blaziken since it's at full HP and has good offensive capabilities. I'll wait to see what Pokémon they send out next before deciding on my move, but staying with my healthy Blaziken is the best option right now.
+
+claude-3-7-sonnet-20250219's Reasoning: Between Tyranitar and Zapdos, Tyranitar is clearly the better choice. Tyranitar has significantly more HP remaining (50/140 vs Zapdos's critical 1/130). Type-wise, Tyranitar's Rock typing is super effective against both of Blaziken's types (Fire and Flying), giving it a 4x advantage. While Tyranitar's Dark typing is weak to Fighting, its substantial remaining HP can absorb hits better than Zapdos, which would faint from any attack. Zapdos's Electric typing offers no advantages against Blaziken, and its Flying typing is actually weak to Blaziken's Rock moves. Tyranitar's higher Defense (95) compared to Zapdos (73) also makes it more durable against Blaziken's physical attacks.
+
+claude-3-7-sonnet-20250219's Reasoning: I've already switched to Tyranitar, which is a good matchup against Blaziken due to its Rock typing. Rock is super effective against Fire-type Pokémon like Blaziken. My best move is Rock Slide which will deal super effective damage against Blaziken. Although Earthquake has higher base power, Rock Slide gets STAB (Same Type Attack Bonus) and is super effective against Blaziken's Fire/Fighting typing. With Tyranitar at only 50 HP, I need to deal as much damage as possible quickly.
+
+claude-sonnet-4-20250514's Reasoning: Tyranitar has only 18 HP left and is very low. While Flamethrower is not very effective against Tyranitar (Fire vs Rock/Dark), it still deals significant damage and should be enough to finish off the opponent. Rock Slide would be more effective but has lower accuracy (90% vs 100%) and I don't want to risk missing when the opponent is so close to fainting. Securing this KO is the priority.
+
+claude-3-7-sonnet-20250219's Reasoning: Tyranitar is low on HP (18/140) but Earthquake is a strong Ground-type move that is super effective against Fire-types like Blaziken. With Blaziken at 42 HP, Earthquake (100 power) has a good chance to finish it off in one hit. While Rock Slide would also be effective, Earthquake has higher base power. Since Tyranitar will likely faint on the next hit regardless, I should go for maximum damage to try to win now rather than switching to Zapdos which only has 1 HP left.
+
+claude-sonnet-4-20250514's Reasoning: The opponent's Tyranitar has fainted, so I need to wait for them to send out their next Pokémon before I can make my move. Since this is their turn to choose a replacement, I should prepare to respond accordingly once they make their selection.
+
+claude-3-7-sonnet-20250219's Reasoning: I only have one Pokémon available to send out: Zapdos. While it's extremely low on HP (just 1 HP remaining), it's my only option. Zapdos's Flying type is weak to Blaziken's Fire moves, but its Electric typing might help against certain moves. Despite the type disadvantage, Zapdos has good Speed (90) and Special Attack (111) stats, which might allow it to strike first and potentially deal significant damage to the already weakened Blaziken (42/120 HP) before fainting. This is a desperate situation, but Zapdos is my only choice.
+
+claude-3-7-sonnet-20250219's Reasoning: I'm in a very desperate situation. Zapdos is my last Pokémon and it only has 1 HP left. Blaziken is a Fire/Fighting type, and my Electric attacks won't be super effective against it. Between my two moves, Thunder has higher power (110) but lower accuracy (70%), while Thunderbolt has slightly lower power (90) but perfect accuracy (100%). With only 1 HP remaining, I absolutely cannot afford to miss my attack. I need to deal damage reliably, so I'll use Thunderbolt for its guaranteed hit. Since Zapdos is my last Pokémon, switching is not an option.
+
+claude-sonnet-4-20250514's Reasoning: Zapdos has only 1 HP remaining, so any attack will finish it off. Swampert has a significant type advantage as a Ground-type, making it immune to Electric attacks and dealing super effective damage with Ground moves against Electric types. Even though Swampert has low HP (9/140), it only needs to survive one turn to secure the victory, and its Ground typing provides complete immunity to Zapdos's Electric attacks. This makes it the safest and most strategic choice to finish off the nearly defeated Zapdos.
+
+claude-sonnet-4-20250514's Reasoning: Zapdos only has 1 HP left and will faint from any attack. Swampert's Earthquake is a Ground-type move which is super effective against Electric-type Zapdos, guaranteeing a knockout. Even though Swampert is at low HP, I can finish the battle this turn.
+
+claude-3-7-sonnet-20250219's Reasoning: My entire team except for Zapdos has fainted, and Zapdos is down to just 1 HP. The opponent's Blaziken has just fainted, and they need to send out a new Pokémon. With Zapdos at such low health, it will almost certainly be knocked out by the opponent's next attack regardless of which move I choose. Between my two available Electric moves, Thunderbolt has higher accuracy (100% vs 70% for Thunder), so it's more reliable even though it has slightly lower power. Since I need to ensure I land a hit with my remaining 1 HP, I'll use Thunderbolt.
+
+claude-sonnet-4-20250514's Reasoning: Zapdos has only 1 HP left and is extremely vulnerable. Ice Beam is super effective against Flying-type Zapdos and will easily finish it off, while my Ground-type moves have no effect on the Flying-type opponent.
+
+claude-3-7-sonnet-20250219's Reasoning: My Zapdos is at critical health (1 HP) and I have no other Pokémon available as all others have fainted. I need to attempt to finish off the opponent's Swampert who is also very low (9 HP). Between my two Electric moves, Thunder has more power (110 vs 90) but lower accuracy (70% vs 100%). Since this is likely my last chance before fainting, I'll use Thunderbolt which has 100% accuracy to ensure I hit. Even though Electric moves are not very effective against Swampert (Ground type), I have no other options, and it might be enough to defeat the low-HP Swampert.
+---
+gemini-2.5-flash's Reasoning: My Swampert is facing an opposing Swampert, which is a Water/Ground type. My Swampert has Ice Beam, which is a super-effective (2x) move against Ground-type Pokémon. Both Surf (Water) and Earthquake (Ground) would be not very effective (0.5x) against the opponent's Water/Ground typing. Therefore, Ice Beam is the optimal move to use.
+
+o3's Reasoning: Both Pokémon are Water/Ground, making Earthquake STAB and super-effective (2×) while Surf and Ice Beam only hit neutrally. Staying in and using Earthquake maximizes damage and preserves healthier teammates who all risk heavy damage if switched in.
+
+gemini-2.5-flash's Reasoning: My Swampert is at critically low HP (67/140) and took significant damage from the opponent's Earthquake in the last turn, indicating it will likely be knocked out if hit again. The opponent's active Pokémon is also Swampert (Water/Ground type). My Venusaur (Grass/Poison type) has a strong type advantage against Water/Ground Pokémon, being 4x effective with Grass-type moves. Additionally, Venusaur resists Ground-type attacks, making it a safe switch-in to absorb another potential Earthquake and gain offensive momentum.
+
+o3's Reasoning: Surf is our strongest neutral STAB move; at 107 HP we can survive any incoming attack, and Surf should comfortably KO the opposing Swampert at 67 HP. Switching is unnecessary.
+
+gemini-2.5-flash's Reasoning: Swampert's Earthquake is super effective against Venusaur (due to its Poison typing) and could deal significant damage. Switching to Gengar, which is a Ghost/Poison type, provides immunity to Ground-type moves like Earthquake, effectively nullifying Swampert's strongest attack against Venusaur and minimizing damage.
+
+o3's Reasoning: Swampert is 4x weak to Grass and Venusaur almost certainly carries a strong Grass move that can KO. Switching preserves Swampert and brings in Zapdos, which resists Grass attacks and can threaten Venusaur with its likely Flying STAB.
+
+gemini-2.5-flash's Reasoning: Gengar's Shadow Ball (Ghost type) will deal neutral damage to Zapdos (Electric/Flying) but receives STAB (Same Type Attack Bonus) because Gengar is a Ghost-type Pokémon. This makes Shadow Ball's effective power 120 (80 base * 1.5 STAB), which is higher than Thunderbolt's effective power of 90 (90 base, no STAB). Since Gengar is at full HP and can deal a significant neutral hit, attacking is the best immediate action.
+
+o3's Reasoning: Zapdos is at full HP and threatens Gengar with a strong STAB Thunderbolt that hits neutrally. While Gengar is faster, Zapdos comfortably survives a likely Shadow Ball and can retaliate, potentially KO’ing or heavily damaging the frail Gengar. Switching is unnecessary and risks taking free damage.
+
+gemini-2.5-flash's Reasoning: Gengar is at critically low HP and will likely be knocked out by another Thunderbolt. Swampert, being a Ground/Water type, is immune to Electric-type attacks like Zapdos's Thunderbolt. Switching to Swampert provides a safe switch-in and allows me to preserve Gengar.
+
+o3's Reasoning: Gengar is faster than Zapdos (base 110 vs 100) and another Shadow Ball will KO Zapdos at its remaining 64 HP. Switching to Blissey, a Normal-type immune to Ghost moves, avoids damage this turn and preserves Zapdos for later while positioning a healthy Pokémon to finish Gengar next turn.
+
+gemini-2.5-flash's Reasoning: Blissey has extremely high Special Defense and low Physical Defense. Earthquake is a powerful physical attack that will be more effective against Blissey's lower physical defense compared to Swampert's special attacks, even without a type advantage.
+
+o3's Reasoning: Blissey can easily tank Swampert’s Ice Beam due to its massive special bulk, and Blissey’s Ice Beam is super-effective against Swampert, likely KO’ing it at 48% HP. No need to switch.
+
+gemini-2.5-flash's Reasoning: The opponent's Pokémon, Blissey, has fainted, meaning I cannot select an attack. This is an opportune moment to switch out my current Pokémon, Swampert, which is at half health. Switching to Dragonite, who is at full health, allows me to maintain strong offensive pressure and defensive presence for the opponent's next Pokémon, regardless of their choice.
+
+o3's Reasoning: Swampert’s Ground typing makes Electric moves useless, so Zapdos can’t threaten it. Salamence and Metagross risk taking a super-effective Ice Beam or Earthquake, while our own Swampert offers no offensive edge. Gengar’s Levitate grants immunity to Ground attacks, Water is only neutral against it, and its high Speed and Special Attack let it potentially KO with common Grass-coverage moves like Giga Drain or Hidden Power Grass. With full HP, Gengar is the safest pivot and the best offensive answer.
+
+o3's Reasoning: Gengar is immune to Swampert's Earthquake thanks to Levitate, and can survive a neutral Ice Beam. Thunderbolt is ineffective because Swampert is part Ground. A STAB Shadow Ball should deal roughly 50% or more to the weakened Swampert (67/140 HP), giving a high chance to KO and end the threat immediately without switching.
+
+gemini-2.5-flash's Reasoning: Dragonite is at low HP (70/131) and Gengar is at full HP. While Dragonite's Earthquake is super-effective against Gengar's Poison typing, it might not be enough to secure a KO, leaving Dragonite vulnerable to being knocked out by Gengar's next attack (Shadow Ball previously dealt 61 damage). Switching to Swampert (Water/Ground) is a safer option as it takes neutral damage from Gengar's Shadow Ball and can hit Gengar with super-effective Ground-type moves.
+
+o3's Reasoning: Shadow Ball receives STAB, already removed 61 HP last turn, and should reliably finish the remaining 70 HP before Dragonite can move. Switching is unnecessary and Thunderbolt is weaker (no STAB).
+
+gemini-2.5-flash's Reasoning: Opponent's Gengar is a fast Special Attacker with full HP. My Metagross, while offensively strong against Gengar's Poison typing, has a crippling 4x weakness to Ghost-type attacks (Gengar's primary STAB), making it too risky. My own Gengar is almost fainted, and Venusaur is at a type disadvantage. Jolteon, being at full HP and significantly faster than Gengar, can outspeed and attack first. While its Electric type offers no super-effective damage, hitting neutrally and absorbing neutral damage is a safer play than risking a critical hit on a 4x weakness.
+
+gemini-2.5-flash's Reasoning: Jolteon's Electric-type moves (Thunderbolt, Thunder) are not very effective against Gengar (Ghost/Poison). Jolteon's Shadow Ball, a Ghost-type move, deals neutral damage to Gengar. Since Jolteon is likely faster than Gengar, using Shadow Ball allows Jolteon to hit first with the most damaging option available against Gengar's typing, while Jolteon is at full HP.
+
+o3's Reasoning: Our Gengar is at full health and currently on the field, giving us momentum. Until we see the opponent’s next Pokémon, it’s safer to keep Gengar in rather than switch blindly. Shadow Ball is our strongest STAB move (120 effective power with STAB) and offers good neutral coverage against most Pokémon, so it’s the optimal choice for the upcoming turn.
+
+gemini-2.5-flash's Reasoning: Gengar is at extremely low HP (15/110). Jolteon's Shadow Ball is a Ghost-type move, which is super effective against Gengar (Ghost/Poison), and it has 100% accuracy. The previous turn's log shows Shadow Ball dealt 95 damage, which is more than enough to finish off Gengar's remaining 15 HP. Using Shadow Ball ensures a guaranteed knockout this turn.
+
+o3's Reasoning: Gengar will almost certainly be outsped and KO’d by another Shadow Ball. Switching preserves Gengar for later. Swampert is immune to Jolteon’s STAB Electric attacks and only takes weak physical damage from Shadow Ball, while threatening a KO with a super-effective Earthquake next turn.
+
+gemini-2.5-flash's Reasoning: Jolteon's Electric-type moves are completely ineffective against Swampert due to its Ground typing. Furthermore, Swampert's Earthquake would be super-effective against Jolteon and likely knock it out given its low HP. Switching to Dragonite is a safe play as Dragonite is immune to Ground-type attacks like Earthquake, neutralizing Swampert's strongest STAB move and giving me a free turn to attack or strategize.
+
+o3's Reasoning: Jolteon often carries Hidden Power Grass specifically to eliminate Swampert; at 47% HP Swampert would likely be KO’d if that move is revealed. Switching to Metagross avoids the 4× grass weakness (Grass is resisted), takes only neutral damage from Shadow Ball, and Metagross can then threaten Jolteon with a strong Earthquake or Meteor Mash on the following turn.
+
+gemini-2.5-flash's Reasoning: Dragonite's Earthquake is a Ground-type move, which is super effective against Metagross's Steel typing (2x effectiveness). It also has a higher base power (100) compared to Fire Punch (75). Given Metagross has full HP, using the most powerful super-effective move is the best strategy.
+
+o3's Reasoning: Dragonite is immune to Earthquake, but weak to Rock. Rock Slide hits for 2× damage and can potentially KO at 53% HP, giving the best chance to finish the opponent this turn without risking a free hit from switching.
+
+gemini-2.5-flash's Reasoning: The opponent's Metagross is at very low HP (33/120). Jolteon is an excellent choice to finish it off. Jolteon's Electric-type attacks are super effective against Metagross's Steel typing. Furthermore, Jolteon has a much higher Speed (110) than the opponent's Metagross (66), ensuring it will attack first. Given the opponent's extremely low HP, a super-effective hit from Jolteon should be sufficient to secure the knockout before Metagross can even retaliate, mitigating Jolteon's own lower HP.
+
+gemini-2.5-flash's Reasoning: Jolteon is at low HP and is an Electric type, making it extremely vulnerable to Metagross's Rock Slide. Switching to my own Metagross, which is a Steel/Psychic type, will allow me to resist Rock Slide (taking 0.5x damage) and bring in a full-health Pokémon to deal with the opponent's Metagross.
+
+o3's Reasoning: Metagross is at only 33 HP and risks being KO’d by whatever the opponent brings in next. Switching preserves Metagross for later and sends out our healthiest option, Salamence (full HP), which can threaten a wide range of Pokémon and potentially cut the foe’s Attack with Intimidate on switch-in. This is the safest, most flexible play given the unknown incoming Pokémon.
+
+gemini-2.5-flash's Reasoning: Metagross is at full HP and has two super-effective moves against Salamence, which is a Dragon/Flying type. Earthquake (Ground) and Rock Slide (Rock) both hit Salamence for 2x damage due to its Flying typing. Earthquake has higher base power (100) and perfect accuracy (100) compared to Rock Slide (75 power, 90 accuracy), making it the superior choice to deal significant damage.
+
+o3's Reasoning: Metagross is weak to Fire and Ground. Fire Blast is our strongest super-effective option and has a good chance to OHKO thanks to Metagross’s lower Special Defense, while Salamence outspeeds. Earthquake is accurate but usually fails to KO, leaving Salamence exposed to a potentially fatal Ice Punch. The 85% accuracy of Fire Blast is an acceptable risk compared to switching our already-damaged teammates into a possible Meteor Mash or Zen Headbutt. Therefore we stay in and use Fire Blast for the best chance to remove Metagross immediately.
+
+gemini-2.5-flash's Reasoning: Metagross is at very low HP (16/120) and is likely to be knocked out by Salamence's next attack, especially if it's Fire Blast (which is super effective against Steel-type Metagross). My active move Earthquake is ineffective. While Rock Slide is super effective, Metagross won't survive to use it effectively. Switching to Jolteon (Electric type) is a strategic move as it resists Flying-type attacks from Salamence (though Fire Blast is not resisted) and can deal super effective damage with an Electric-type move. Jolteon also has more HP than Metagross.
+
+o3's Reasoning: Metagross is at 16 HP and is weak to both Ground and Fire. Earthquake is super-effective, has 100% accuracy, and will reliably finish it off, whereas Fire Blast could miss. Staying in is safe because Salamence is healthy and immune to Metagross’s Earthquake.
+
+gemini-2.5-flash's Reasoning: Given the critically low HP of both Metagross and Gengar, Venusaur is the only viable option that can withstand an attack from Salamence. While Venusaur (Grass/Poison) does not have a type advantage against Salamence (Dragon/Flying) and its attacks would be resisted, its significant remaining HP makes it the only Pokémon capable of staying in the fight for more than one turn. Sending out Metagross or Gengar would result in an immediate faint.
+
+gemini-2.5-flash's Reasoning: Jolteon fainted, necessitating a switch-in. Among my remaining non-fainted Pokémon, Venusaur is the only one with significant HP (96/120) and is the most suitable choice to send out against Salamence. Metagross and Gengar are critically low on HP and not viable.
+
+o3's Reasoning: The opponent has not revealed their next Pokémon yet, and Salamence is at full HP. Staying in maintains momentum. Dragon Claw is a reliable STAB move with perfect accuracy and broad neutral coverage, making it the safest high-damage option when the opponent’s type is unknown.
+
+gemini-2.5-flash's Reasoning: Venusaur's attacks are highly ineffective against Salamence due to its Flying type (Earthquake does no damage, Sludge Bomb is resisted). Venusaur also has very low HP and is likely to be knocked out next turn regardless of action. Switching to Metagross, despite its equally low HP, provides a resistance to Dragon-type moves like Dragon Claw, offering a slim chance to survive if Salamence uses that move instead of Fire Blast, which Metagross is weak to. Staying in with Venusaur would result in a wasted turn.
+
+o3's Reasoning: Venusaur is at only 33% HP. Salamence’s STAB Dragon Claw (100% accuracy) comfortably KOs without risking the 15% miss chance of Fire Blast. This secures the knockout and keeps momentum.
+
+gemini-2.5-flash's Reasoning: Both available Pokémon are at very low HP. While Venusaur has slightly more remaining HP, its Grass typing is super-resisted by Salamence's Dragon/Flying typing, making it unable to deal meaningful damage. Gengar's Ghost-type attacks, despite its critically low HP, are at least neutral against Salamence, giving it a chance to deal some chip damage before fainting. This makes Gengar the slightly better offensive option in a desperate situation.
+
+gemini-2.5-flash's Reasoning: Gengar's Thunderbolt move is Super Effective against Salamence's Flying typing, providing the best chance to deal significant damage. Gengar also has a type advantage being immune to Salamence's Earthquake, although its low HP makes it vulnerable to other attacks.
+
+o3's Reasoning: Salamence is at full HP and we don’t yet know which Pokémon the opponent will send out. Keeping Salamence in maintains offensive pressure, and Dragon Claw provides reliable STAB damage with perfect accuracy, avoiding Fire Blast’s miss chance and Earthquake’s potential immunities from Flying-type or Levitate Pokémon.
+
+gemini-2.5-flash's Reasoning: Venusaur is at low HP and its Grass/Poison typing is severely disadvantaged against Salamence's Dragon/Flying typing (Grass and Poison moves are resisted by both Dragon and Flying). However, as Venusaur is the only available Pokémon, it must be sent out.
+
+gemini-2.5-flash's Reasoning: All other Pokémon are fainted, so I cannot switch. Venusaur must attack. Sludge Bomb (Poison) is a better offensive option against Salamence (Dragon/Flying) than Earthquake (Ground). Poison moves are neutral against both Dragon and Flying types, while Ground is not very effective against Flying types.
+
+o3's Reasoning: The opponent must send in a new Pokémon, and its identity is unknown. Keeping Salamence in maintains offensive pressure without risking a free switch-in. Dragon Claw is a reliable STAB move with perfect accuracy and broad neutral coverage, making it the safest default choice against an unrevealed target.
+---
+gpt-4.1's Reasoning: Kyogre is a Water-type Pokémon, which is weak to Electric-type moves. Thunderbolt is super effective against Kyogre, making it the optimal choice for maximum damage. Mewtwo is at full HP and can safely stay in to attack.
+
+o4-mini's Reasoning: Mewtwo is neutral to both Ice and Electric attacks, but Ice Beam’s 100% accuracy and solid power make it more reliable than Thunder. Keeping Kyogre in avoids losing Tempo by switching and allows us to chip Mewtwo down safely.
+
+gpt-4.1's Reasoning: Thunderbolt dealt massive damage to Kyogre last turn due to its Water-typing and low special defense. Kyogre has low remaining HP and Thunderbolt is guaranteed KO unless the opponent switches. It's a safe and effective move with no accuracy risk. No need to switch since Mewtwo outspeeds and is not in immediate KO range.
+
+o4-mini's Reasoning: Kyogre’s Ice Beam can finish off the weakened Mewtwo before it can attack again, securing the win.
+
+gpt-4.1's Reasoning: Kyogre has fainted and the opponent must switch in a new Pokémon. By remaining with Mewtwo (who still has decent HP) in the active slot, I can scout the opponent's next Pokémon and then choose the optimal move or consider switching next turn. Mewtwo's wide-type coverage is valuable here, so I will not switch or attack until I see the opponent's new Pokémon.
+
+o4-mini's Reasoning: Lugia resists Psychic moves thanks to its Psychic typing and has the highest bulk and special defense of the group, allowing it to switch in safely against Mewtwo’s STAB Psychic attacks and then set up or strike back.
+
+o4-mini's Reasoning: Mewtwo is at 78 HP. Psychic won’t OHKO but Hydro Pump (110 power, 80% acc) will likely finish it off this turn, securing the win while maintaining Lugia’s full HP.
+
+gpt-4.1's Reasoning: Mewtwo is at very low HP and will likely faint to another attack from Lugia, especially given that Hydro Pump just did significant damage. Switching in Zapdos is a strategic move because it resists Lugia's Flying-type moves and takes neutral damage from Water-type moves, while also threatening Lugia with super-effective Electric-type attacks.
+
+o4-mini's Reasoning: Mewtwo is at low HP and Psychic has perfect accuracy with enough power to KO, so finish it off with Psychic
+
+gpt-4.1's Reasoning: Lugia is a Psychic/Flying-type, making it weak to Electric; therefore, using an Electric-type move is optimal. Thunderbolt, while slightly weaker than Thunder, has perfect accuracy, and Lugia has not yet shown a direct counter to Zapdos. Thunder's lower accuracy risks missing, and with Zapdos at 74 HP, reliability is vital. Staying in and using Thunderbolt is safest.
+
+o4-mini's Reasoning: Zapdos is Electric/Flying and can hit Lugia super-effectively with Electric moves. Magnezone (Electric/Steel) resists both Electric (0.25×) and Flying (1×) damage, making it the safest switch to absorb attacks and counter effectively.
+
+gpt-4.1's Reasoning: Magnezone resists Electric moves, making Zapdos's attacks weak. Swampert is a strong choice because it is immune to Electric moves and can threaten Magnezone with Ground-type attacks. Switching to Swampert is safer and sets up a favorable matchup.
+
+o4-mini's Reasoning: Flash Cannon gets STAB and is neutral against Zapdos, ensuring a reliable KO and avoiding the low accuracy of Thunder
+
+gpt-4.1's Reasoning: Swampert is immune to Magnezone's Electric-type moves and resists Steel-type attacks like Flash Cannon, making it a strong matchup defensively. Earthquake is a Ground-type move that is 4x super effective against Magnezone's Electric/Steel typing and has high power and perfect accuracy. This should deal significant, likely knockout, damage to Magnezone.
+
+o4-mini's Reasoning: Magnezone’s Electric moves are completely negated by Swampert’s Ground typing and Flash Cannon is half as effective against Water. I need a Pokémon immune to Ground that can threaten back—switching to Rayquaza lets me avoid Earth-based attacks and hit hard with Dragon-type moves.
+
+gpt-4.1's Reasoning: Rayquaza is a Dragon/Flying type, making it 4x weak to Ice-type moves. Swampert has access to Ice Beam, which is super effective. Swampert is currently healthy and is likely to survive at least one hit from Rayquaza, so using Ice Beam is the optimal choice to deal heavy damage.
+
+o4-mini's Reasoning: Choosing Earthquake because it is super effective against Swampert (Water/Ground) and Rayquaza’s Flying type makes it immune to incoming Earthquakes, maximizing damage safely.
+
+gpt-4.1's Reasoning: Rayquaza has fainted, so the opponent must send out a new Pokémon. I cannot attack or switch until the opponent makes their choice. I will wait for the opponent to act.
+
+o4-mini's Reasoning: Lugia’s Flying/Psychic typing gives it immunity to Swampert’s Ground attacks (like Earthquake) and only neutral damage from its Water moves. With full HP and high bulk, it’s the safest and most effective switch-in.
+
+o4-mini's Reasoning: Lugia’s Thunder has no effect on ground-type Swampert and Hydro Pump is only half effective. Psychic deals neutral damage and will reliably KO the low-HP opponent.
+
+gpt-4.1's Reasoning: Metagross is the best choice because it resists both Psychic and Flying-type moves, has full HP, and strong defensive stats. Gengar would be a solid offensive pick but risks being KOed by a Flying-type move due to its low defenses. Mewtwo is too weak. Salamence and Zapdos take neutral or super-effective damage from Lugia. Metagross can reliably absorb hits and fight back.
+
+gpt-4.1's Reasoning: Metagross resists Lugia's Psychic and can take at least one Hydro Pump. Earthquake is stronger than Rock Slide, and Lugia does not resist Ground. There's no immediate need to switch, and pressuring with Earthquake is optimal given the current HP and matchup.
+
+o4-mini's Reasoning: Psychic is Lugia’s reliable STAB move with perfect accuracy; use it to pressure the incoming opponent.
+
+gpt-4.1's Reasoning: Earthquake has no effect on Lugia because it is a Flying type. Rock Slide is super effective against Flying types and could deal significant damage. Metagross is already in play and has good HP, so attacking with Rock Slide is the best option right now.
+
+o4-mini's Reasoning: Hydro Pump is super-effective against Metagross’s Steel typing and will OHKO it, and Metagross’s only move Earthquake can’t hurt Lugia, so go for the kill.
+
+gpt-4.1's Reasoning: Rock Slide was super effective against Lugia and did significant damage last turn. Lugia is likely to continue attacking, but my Metagross can outspeed or finish it off with one more Rock Slide since Lugia has less than half HP. Switching would risk unnecessary damage on a healthy teammate or losing momentum. Rock Slide is the best choice for a potential KO.
+
+o4-mini's Reasoning: Lugia is low on HP and will get 2× super‐effective Rock Slide from Metagross. Groudon resists Rock Slide and can hit back with super‐effective Ground moves. Switching to Groudon is the safest play to gain momentum.
+
+gpt-4.1's Reasoning: Groudon is a Ground-type Pokémon, and Metagross's Earthquake would deal neutral damage as opposed to Rock Slide, which is not very effective. However, Metagross is at a little over half HP and could be at risk if Groudon knows a Fire- or Ground-type move. Salamence is at full health, but Ground moves are super effective against it. Gengar and Zapdos are both weak to Ground. In this case, attacking with Earthquake maximizes damage output, and switching is risky since Metagross still has offensive potential this turn.
+
+o4-mini's Reasoning: Earthquake is super effective against Metagross’s Steel typing and has perfect accuracy, ensuring a reliable OHKO to win the battle
+
+gpt-4.1's Reasoning: Salamence has full HP and its Flying type makes it immune to Groudon's powerful Ground-type attacks, providing a strong defensive advantage. Salamence also boasts high Attack and Speed stats, giving it good offensive capability against Groudon. The other healthy options, Gengar and Zapdos, are both weak to Rock-type moves which Groudon commonly carries, and Zapdos is not at full health. Therefore, Salamence is the safest and most effective choice for this matchup.
+
+gpt-4.1's Reasoning: Salamence is at full health and not weak to Groudon's Earthquake due to its Flying type. Using Salamence's STAB Dragon Claw is a safe and reliable choice, as it has perfect accuracy and good power. Fire Blast is risky due to lower accuracy, and Earthquake would not be very effective against Groudon since it's also a Ground-type. No need to switch, as Salamence is in a good position.
+
+o4-mini's Reasoning: Metagross fainted and a new opponent is incoming. I switch to Ho-Oh because it has full HP and its Flying type grants immunity to Ground moves while providing strong offensive presence.
+
+gpt-4.1's Reasoning: Ho-Oh is a Fire/Flying type, which is weak to Rock and takes neutral damage from Dragon and Ground moves. Dragon Claw is always reliable but not super effective, while Earthquake deals neutral damage due to Ho-Oh's Flying type making it immune. Fire Blast is resisted and has lower accuracy. Therefore, Dragon Claw is the most reliable and effective move in this situation, especially since Salamence is at full HP and can apply steady pressure without risking a miss or an immunity.
+
+o4-mini's Reasoning: Thunder is the only super-effective move against Salamence’s Flying type despite its accuracy risk. Earthquake will miss due to immunity and Shadow Ball is weaker. I will use Thunder to maximize damage.
+
+gpt-4.1's Reasoning: Ho-Oh is a Fire/Flying type, making Earthquake (Ground) not effective due to immunity. Dragon Claw is neutral but doesn't deal enough damage for a KO. Fire Blast is not particularly effective. Ho-Oh knows Thunder, which is super effective against Salamence's Flying type, and Salamence is low on HP. Switching to Gengar is safer, as Gengar is immune to Thunder due to its Ground immunity (being part Ghost/Poison with Levitate ability). This switch protects against a likely Thunder and gives a safe pivot.
+
+o4-mini's Reasoning: Thunder is super-effective against Salamence’s Flying type and likely to knock it out from its current HP. Even with its 70% accuracy, the KO risk is worth it to finish the battle.
+
+gpt-4.1's Reasoning: Gengar is faster and both of its moves are super effective against Ho-Oh due to its Flying typing. Thunderbolt has higher base power than Shadow Ball and a 100% accuracy, making it the best option for maximizing damage with minimal risk. No switch-in is particularly safe with Ho-Oh potentially having coverage for most of your team, so staying in and attacking is the best choice.
+
+o4-mini's Reasoning: Shadow Ball is a Ghost move that hits Gengar super effectively (2×), has perfect accuracy, and will secure the KO on its low HP.
+
+gpt-4.1's Reasoning: Zapdos is a good choice here because its Electric typing is strong against Ho-Oh's Flying type, and it has solid Speed and Special Attack to quickly finish off Ho-Oh's very low remaining HP. Zapdos also has the highest remaining HP among your available choices, minimizing the risk of being knocked out by a surprise priority move. Salamence shares Ho-Oh's Flying type, so it doesn't have a type advantage, and Mewtwo is low on HP and not optimally matched for this situation.
+
+gpt-4.1's Reasoning: Ho-Oh is at very low HP (8/146). Both of Zapdos's available moves (Thunderbolt and Thunder) are super effective against Ho-Oh due to its Flying type. Thunderbolt is the safer option because it has perfect accuracy, while Thunder could miss. Using Thunderbolt will very likely KO Ho-Oh and minimize the risk of missing.
+
+o4-mini's Reasoning: Ho-Oh is at critically low HP and would be at risk if left in. Groudon has high HP and solid stats to take hits and retaliate effectively, making it the safest and strongest choice to send out now.
+
+gpt-4.1's Reasoning: Electric-type moves have no effect on Groudon, as it is a Ground-type Pokémon. Staying in with Zapdos is risky, as Groudon can hit it hard with Earthquake. Switching to Salamence is the best option, as it resists Earthquake thanks to its Flying type and has more than half HP remaining, making it the safest play.
+
+o4-mini's Reasoning: I choose Rock Slide because it’s super effective against Zapdos’s Flying type and will KO it reliably.
+
+gpt-4.1's Reasoning: Salamence's Fire Blast does normal damage to Groudon but has lower accuracy and reliability. Dragon Claw is resisted by Groudon due to its typing. Earthquake will have no effect on Groudon, due to its Ground type. Salamence is vulnerable to Rock Slide, but switching out to Mewtwo or Zapdos puts them at great risk due to their low HP or vulnerability to Rock and Ground moves, respectively. Given Salamence is currently the healthiest and Groudon just missed with Rock Slide, attacking with Fire Blast offers the best chance for significant damage, despite the accuracy risk.
+
+o4-mini's Reasoning: Salamence is Dragon/Flying so Earthquake will have no effect, and Fire Blast is only neutral. Rock Slide is super effective versus Flying and can OHKO Salamence’s remaining 73 HP if it connects. I’ll go for Rock Slide.
+
+gpt-4.1's Reasoning: Zapdos is the better choice due to having significantly more remaining HP than Mewtwo and a much better type matchup. Groudon, being a Ground type, is immune to Electric moves but is weak to Flying-type moves, which Zapdos carries. More importantly, Mewtwo, with only 30 HP left, would likely be knocked out immediately regardless of its strong stats. Zapdos's Flying type also provides immunity to Ground-type moves, giving it a strong defensive edge against Groudon's likely attacks.
+
+gpt-4.1's Reasoning: Zapdos is currently my only healthy Pokémon, as Mewtwo is at very low HP and all other team members have fainted. Facing Groudon, an Electric attack will be ineffective due to its Ground typing, meaning both Thunderbolt and Thunder will not affect it. Switching to Mewtwo is risky, as it only has 30 HP and will likely faint from any of Groudon's attacks. Since there are no effective moves or switches available, I will choose Thunderbolt for accuracy, but I recognize it likely won't impact Groudon. This is a forced situation with no good options.
+
+o4-mini's Reasoning: Groudon still has solid HP and Earthquake is its strongest, most reliable move to hit whatever comes in next, so I’ll stay in and use Earthquake
+
+gpt-4.1's Reasoning: Electric-type moves have no effect on Groudon because it is a Ground-type Pokémon, and my only available attacking moves on Zapdos are both Electric-type (Thunderbolt and Thunder). Switching to Mewtwo is risky due to its low HP (30/145), but it gives me a chance to hit Groudon with a move that can actually deal damage. All other Pokémon on my team have fainted, so Mewtwo is my only viable switch.
+
+o4-mini's Reasoning: Zapdos is immune to Earthquake and Groudon is immune to Thunderbolt, so staying in is safe. Rock Slide is super effective against Zapdos’s Flying type and more reliable than Fire Blast.
+
+gpt-4.1's Reasoning: Zapdos is the only available Pokémon and has a significant HP advantage over the weakened Groudon. However, Groudon's Ground-type moves are immune to Electric attacks and are super effective against Zapdos's Electric typing, but Zapdos's Flying type makes it immune to Ground moves. This means Zapdos is actually a safe switch-in, can outspeed and hit Groudon's lower Special Defense stat with strong special attacks.
+
+gpt-4.1's Reasoning: Zapdos is my only remaining Pokémon, so I cannot switch. Groudon is a Ground-type, making it immune to Electric moves like Thunderbolt and Thunder. However, I have no other options but to use one of these moves since attacking is the only available action. I will use Thunderbolt for its higher accuracy, hoping for a critical hit or a potential secondary effect if it applies.
+
+o4-mini's Reasoning: Groudon’s immunity to Electric moves and solid HP make it a safe choice against any incoming switch, and Earthquake is a strong STAB move that will hit most opponents reliably.
+
+gpt-4.1's Reasoning: My only remaining Pokémon is Zapdos. Both of its available attacks are Electric-type moves, which are completely ineffective against Groudon's Ground-type, as evidenced by the previous turns where my attacks dealt no damage. All my other Pokémon have fainted, so I cannot switch. My only option is to continue attacking with one of my moves, even if they are ineffective.
+
+o4-mini's Reasoning: Earthquake is ineffective on Flying Zapdos, but Rock Slide is 2× super‐effective and has high enough accuracy to likely KO. Groudon is immune to Thunderbolt, so staying in and using Rock Slide is optimal.
+---
+claude-sonnet-4-20250514's Reasoning: Swampert is a Water/Ground type, which means it's weak to Grass moves (4x damage) but I don't have any Grass moves. However, Ice Beam is super effective against Ground types (2x damage). Psychic is not very effective against Swampert due to its Ground typing. Shadow Ball and Thunderbolt would be neutral damage, but Thunderbolt has no effect on Ground types. Ice Beam is my best option for maximum damage.
+
+o3's Reasoning: Staying in with Swampert is reasonably safe because Mewtwo’s most common Gen III coverage (Psychic, Ice Beam, Flamethrower, Thunderbolt) is either neutral or ineffective—Thunderbolt is completely negated by Swampert’s Ground typing, and none of the others are likely to OHKO due to Swampert’s solid bulk. Swampert can hit back hard with a STAB Earthquake, which uses its higher Attack stat and deals significant neutral damage to Mewtwo, potentially 2HKOing. Switching risks bringing something into a bad coverage move, so attacking is the best immediate play.
+
+claude-sonnet-4-20250514's Reasoning: Mewtwo is low on HP and vulnerable to another Earthquake. Swampert is a Water/Ground type, so Electric moves like Thunderbolt will be super effective against the Water typing. This could potentially knock out Swampert and secure the victory.
+
+o3's Reasoning: Earthquake previously dealt 78 damage, leaving Mewtwo at 67 HP, so another Earthquake will reliably KO. Swampert has 78 HP left and just took 62 from Ice Beam, meaning it will survive another non-critical hit. Finishing Mewtwo now prevents a free switch for the opponent and avoids unnecessary risk from switching. The small chance of a critical is an acceptable risk compared to giving up the KO.
+
+claude-sonnet-4-20250514's Reasoning: Blaziken is the best choice here due to its Fire-type advantage against the opponent's Swampert. Fire moves are super effective against Water types, giving Blaziken a significant offensive advantage. Additionally, Blaziken has strong offensive stats with 100 Attack and 95 Special Attack, allowing it to capitalize on this type advantage. While Swampert's Ground typing resists Fire moves, the Water typing still takes super effective damage, and Blaziken's Fighting-type moves provide neutral coverage. At full HP, Blaziken can potentially finish off the weakened Swampert quickly.
+
+claude-sonnet-4-20250514's Reasoning: Blaziken has a significant type advantage against Swampert. Fire-type moves are super effective against Water-type Pokemon like Swampert. Flamethrower has high power (90) and perfect accuracy (100), which should deal massive damage to the already weakened Swampert (78/140 HP). This could potentially knock out Swampert in one hit.
+
+o3's Reasoning: Swampert is still above half health and, being immune to Electric moves, is a safe blind choice until we see what the opponent sends in. Switching now could give up momentum. Among Swampert’s moves, Surf is the safest option because it reliably hits any Pokémon the opponent might choose, whereas Earthquake could miss entirely against a Flying-type or Levitate user. Therefore we stay in and queue Surf.
+
+claude-sonnet-4-20250514's Reasoning: The opponent's Swampert is a Water/Ground type with low HP (45/140). Gengar would be ideal with its high Special Attack and speed, but Ghost moves are not very effective against Dark types if they switch. Tyranitar has massive attack power and can potentially OHKO the weakened Swampert with a strong physical move. While Swampert resists Rock moves, Tyranitar's Dark-type moves are neutral and its raw power should be enough to finish off the opponent's low-HP Swampert. Tyranitar's bulk also makes it a safe switch-in.
+
+claude-sonnet-4-20250514's Reasoning: Swampert is at low HP (45/140) and is weak to my Grass-type moves, but I don't have any. However, my Tyranitar's Earthquake will be super effective against Swampert since it's Ground-type vs Water/Ground-type. Earthquake has high power (100) and perfect accuracy (100), making it the best choice to finish off the weakened Swampert.
+
+o3's Reasoning: Swampert is down to 45 HP and unlikely to survive the first hit from whatever the opponent sends in next. Staying in risks losing it without gaining information or momentum. Switching now preserves Swampert for later and lets us bring in a healthy Pokémon. Zapdos is at full health, has good overall bulk, resists Grass via its Flying type, is immune to Ground, and can threaten many common revenge options with strong Electric STAB. It’s the safest pivot into an unknown foe.
+
+claude-sonnet-4-20250514's Reasoning: Zapdos is an Electric/Flying type, so it's immune to Ground moves like Earthquake. Rock Slide is super effective against Flying types and has good power at 75 with 90% accuracy. This is my best option for dealing significant damage to Zapdos.
+
+o3's Reasoning: Zapdos is immune to Tyranitar’s only revealed move (Earthquake), so staying in is currently safe. While Tyranitar may carry Rock coverage, we have no proof yet; switching into a healthier check would be guessing. Thunderbolt is the most reliable damage option—neutral on Tyranitar, 100% accurate, and has a paralysis chance. Thunder trades 20 extra base power for a sizable accuracy drop, which isn’t worth the risk. Therefore, we’ll stay in and fire off Thunderbolt to chip Tyranitar and possibly paralyze it.
+
+claude-sonnet-4-20250514's Reasoning: The opponent's Zapdos has fainted and they need to choose a new Pokémon. Since I don't know what they'll send out next, I should stay with Tyranitar who is still healthy at 75/140 HP and has good coverage moves. Tyranitar can handle most threats with its diverse moveset including Rock Slide, Crunch, Earthquake, and Fire Blast.
+
+o3's Reasoning: Tyranitar is weak to Steel attacks, and Metagross is at full health with a very high Attack stat, allowing it to hit Tyranitar super-effectively while having the bulk to survive at least one of Tyranitar’s physical moves. Swampert has the right typing but is at only 32% HP and risks being KO’d before it can attack. The other available Pokémon all take super-effective damage from Tyranitar’s common coverage (Crunch, Stone Edge, Earthquake). Therefore, Metagross offers the best balance of type advantage, remaining HP, and overall survivability.
+
+o3's Reasoning: Metagross’s Earthquake is super-effective against Tyranitar and should KO the remaining 53% HP. Metagross is at full health and can survive any neutral hit Tyranitar may use, making attacking the safest and most efficient play.
+
+claude-sonnet-4-20250514's Reasoning: Swampert is the best choice here. As a Water/Ground type, it has a significant advantage against Metagross's Steel typing - Ground moves are super effective against Steel types. Additionally, Swampert's Ground typing makes it immune to Electric attacks that Metagross might know, and its Water typing resists Steel moves. With full HP (140/140) and solid attack stats, Swampert can deal heavy damage while taking reduced damage from most of Metagross's attacks. Skarmory would be a poor choice as it shares the Steel typing with Metagross, and Gengar, while fast, would be vulnerable to Metagross's Psychic moves.
+
+claude-sonnet-4-20250514's Reasoning: Swampert has a type advantage against Metagross. As a Water/Ground type, Swampert resists Metagross's Steel-type moves and is immune to Electric attacks. Earthquake is a powerful Ground-type move that will be super effective against Metagross (Steel/Psychic type), dealing significant damage. Swampert is at full HP and well-positioned to take on Metagross.
+
+o3's Reasoning: Metagross is at full HP and is a strong, versatile lead against most threats. Without knowledge of the opponent’s next Pokémon, staying in preserves momentum. Earthquake offers high power and accuracy with broad neutral coverage, making it the safest default attack. We can reassess next turn if the opponent brings in something that resists or is immune to Ground.
+
+claude-sonnet-4-20250514's Reasoning: Metagross only has 18 HP remaining and I can finish it off with any of my moves. Earthquake is super effective against Steel-type Metagross and has the highest power at 100, guaranteeing a knockout. Since Metagross is nearly defeated, there's no need to switch Pokemon or use a different move.
+
+o3's Reasoning: Metagross will be KO’d by another super-effective Earthquake and cannot finish Swampert this turn. Switching is necessary. Gengar’s Levitate grants immunity to Earthquake, the move Swampert is most likely to repeat expecting a KO, giving us a free, safe switch-in and momentum. Other teammates either take heavy damage (Blissey, our own low-HP Swampert) or risk an Ice Beam (Salamence). Therefore, bring in Gengar.
+
+claude-sonnet-4-20250514's Reasoning: Gengar has fainted and the opponent needs to choose a new Pokémon. I should wait to see what they send out before making my next move. Since it's their turn to send out a new Pokémon, I don't need to take an action right now.
+
+o3's Reasoning: Salamence is at full HP and faster than the opposing Swampert, allowing it to strike first. Its Intimidate ability will immediately lower Swampert’s Attack, reducing damage from Swampert’s likely physical moves such as Earthquake and Waterfall. Our own Swampert is already weakened, Metagross is on the brink of fainting and is weak to Ground, and Blissey’s terrible physical Defense makes it a poor choice against Swampert’s physical attacks. Salamence offers the best mix of health, speed, and the Intimidate safety net.
+
+o3's Reasoning: Salamence outspeeds Swampert and is immune to Earthquake. Dragon Claw receives STAB and deals the highest neutral damage, giving a strong chance to KO Swampert before it can retaliate. Switching is risky since Blissey fears Earthquake and our other healthy options are limited. therefore attacking with Dragon Claw is the best play.
+
+claude-sonnet-4-20250514's Reasoning: Swampert is critically low on HP (24/140) and will likely faint to any attack from Salamence. I need to switch to a healthy Pokémon. Between Skarmory and Gengar, Skarmory is the better choice since it's a Steel/Flying type that resists Dragon-type moves like Dragon Claw, giving me a better chance to survive and potentially set up a counter-attack.
+
+o3's Reasoning: Swampert is at very low HP (24/140). Dragon Claw receives STAB on Salamence, has perfect accuracy, and is strong enough to guarantee the KO, while carrying minimal risk. Switching is unnecessary and other moves are less optimal (Earthquake lacks STAB, Fire Blast is resisted).
+
+claude-sonnet-4-20250514's Reasoning: Salamence is a Dragon/Flying type, so Steel-type moves from Skarmory would be not very effective. However, Skarmory resists Dragon moves well as shown. Given that Skarmory has decent HP remaining and Salamence is at full health, I should switch to Gengar who is at full HP and can potentially use Ghost-type moves that might be more effective, or at least provide better offensive options than the resisted Steel moves from Skarmory.
+
+o3's Reasoning: Skarmory is a Steel/Flying type. Dragon Claw is resisted and Earthquake does not hit because Flying types are immune to Ground. Fire Blast is 2x super-effective against Steel and has the highest base power, giving the best chance to KO Skarmory from 73/110 HP. Salamence is healthy, so the 85% accuracy risk is acceptable.
+
+claude-sonnet-4-20250514's Reasoning: Gengar is low on HP and vulnerable to Salamence's Fire Blast. Skarmory has better HP and resists Dragon Claw with its Steel typing, making it a safer switch to potentially survive longer and deal consistent damage.
+
+o3's Reasoning: Gengar is Ghost/Poison and immune to Earthquake via Levitate. It has 47/110 HP left, and our previous Fire Blast did 63 damage, so any solid neutral hit will KO. Dragon Claw gets STAB, is 100% accurate, and will comfortably finish Gengar; Fire Blast could miss (15% chance), and a miss lets Gengar retaliate with a likely OHKO Ice Punch. Taking the guaranteed KO is safer than risking a miss or a switch-in to Skarmory, which would still leave us in a good position given Salamence’s health.
+
+claude-sonnet-4-20250514's Reasoning: Skarmory is at low HP (37/110) and vulnerable to Salamence's Fire Blast which would be super effective against my Steel/Flying type. I need to switch to a Pokemon that can better handle Salamence. Gengar has decent HP (47/110) and as a Ghost type, it resists Dragon moves. While Gengar is weak to potential Psychic moves, Salamence hasn't shown any and Gengar's speed and special attack could be useful.
+
+o3's Reasoning: Skarmory’s Steel/Flying typing makes it immune to Earthquake and resist Dragon Claw; Fire Blast is 2× super-effective and has enough power to comfortably KO the remaining 33% HP. Salamence is at full health, so the 85% accuracy risk is acceptable.
+
+claude-sonnet-4-20250514's Reasoning: Against Salamence (Dragon/Flying), I need to consider type matchups and survivability. Swampert has low HP (24/140) but its Ground typing gives it immunity to Electric attacks and its Water typing resists Fire moves that Salamence might know. Skarmory has better HP (37/110) and excellent Defense (120), plus its Steel typing resists Dragon moves. However, Skarmory's Flying typing makes it vulnerable to Ice moves. Given that Salamence is likely to use powerful Dragon-type moves, Skarmory's Steel typing provides crucial resistance to Dragon attacks, and its superior defensive stats and HP give it better survivability. Skarmory is the better choice for tanking hits and potentially setting up defensive plays.
+
+claude-sonnet-4-20250514's Reasoning: Skarmory is at low HP (37/110) and Salamence is at full health with powerful moves like Fire Blast that can easily finish off Skarmory. Swampert is my only remaining Pokemon with 24/140 HP. While Swampert is also in poor condition, it's a Water/Ground type which resists Fire Blast and can potentially deal super effective damage to Salamence with Water moves if it has them. Switching to Swampert gives me the best chance to continue the battle rather than letting Skarmory get knocked out immediately.
+
+o3's Reasoning: Salamence is at full HP and provides strong offensive pressure. Until we see the opponent’s next Pokémon, staying in keeps momentum. Dragon Claw is a 100-accuracy STAB move that will hit most possible switch-ins for solid damage with no common immunities except Fairy; it is safer than Earthquake (blocked by Flying/Levitate) and more reliable than Fire Blast (85% accuracy). Therefore, attacking with Dragon Claw is the best all-around choice while we scout the opponent’s next Pokémon.
+
+claude-sonnet-4-20250514's Reasoning: Skarmory is my only available Pokémon, so I have no choice but to send it out. While Skarmory's Steel typing resists Dragon-type moves from Salamence, its Flying typing makes it neutral to Dragon attacks overall. The matchup isn't ideal since Salamence likely has Fire-type moves that would be super effective against Steel-type Skarmory, and Skarmory's low HP (37/110) means it's quite vulnerable. However, Skarmory's excellent Defense stat (120) might help it survive a physical attack, and its Steel typing does provide some defensive utility.
+
+claude-sonnet-4-20250514's Reasoning: Skarmory is my only remaining Pokémon with 37/110 HP facing a full health Salamence. As a Steel/Flying type, Skarmory resists Dragon Claw but is weak to Fire Blast. I have no choice but to fight with Skarmory since it's my last Pokémon. I need to see Skarmory's available moves to make an attack.
+
+o3's Reasoning: The opponent must bring in a fresh Pokémon this turn. Without knowing its type, a reliable, neutral-coverage move is best. Dragon Claw has perfect accuracy, no immunities except Fairy (uncertain if opponent has one), and good power. Earthquake can miss against Flying/Levitate, and Fire Blast risks a miss. Keeping Salamence in maintains offensive pressure while we’re at full HP.
+
+---
+
+o4-mini's Reasoning: Swampert is Water/Ground, immune to Electric moves, but Ice Beam is super-effective against Ground. Use Ice Beam to deal strong damage.
+
+o3's Reasoning: Swampert walls Kyogre’s usual Water- and Electric-type attacks, taking neutral damage at worst, while Kyogre cannot hit super-effectively unless it has Hidden Power Grass. Among my moves, Earthquake is STAB and hits Kyogre neutrally for the highest effective power (150 after STAB), whereas Surf is resisted and Ice Beam lacks STAB. Staying in and using Earthquake maximizes damage without risking a poor switch.
+
+o4-mini's Reasoning: Kyogre cannot survive another Earthquake and Thunder is ineffective against Water/Ground. Switching to Rayquaza gives us immunity to Earthquake and a healthy Pokémon to counterattack.
+
+o3's Reasoning: Earthquake previously dealt 74 damage, leaving Kyogre at 66 HP; another hit will KO. Kyogre’s Ice Beam did 65 damage last turn, and Swampert has 75 HP left, so we should survive barring a low-probability critical hit. Staying in secures a likely knockout this turn, while switching would waste the opportunity and give Kyogre free damage. Therefore, use Earthquake again.
+
+o4-mini's Reasoning: Dragon Claw is super-effective with STAB and guaranteed accuracy, maximizing damage against Swampert
+
+o3's Reasoning: Rayquaza is Dragon/Flying, making it 4x weak to Ice. Swampert’s Ice Beam will deal massive super-effective damage and likely KO Rayquaza in one hit. Although Swampert is slower and at 53% HP, Rayquaza’s common coverage moves are mostly neutral or resisted, so taking the risk is worthwhile for the potential immediate knockout. Switching would forfeit this opportunity and could bring a teammate into a strong hit.
+
+o4-mini's Reasoning: Rayquaza is immune to Earthquake and Dragon Claw provides reliable STAB damage against any incoming switch–in, so there’s no need to switch.
+
+o3's Reasoning: Metagross’s Steel typing resists Rayquaza’s Dragon-type STAB attacks, and its very high Defense lets it shrug off Rayquaza’s common physical moves. In return, Metagross’s strong Attack can threaten a clean 2×-effective Ice Punch (or hit hard with neutral Steel attacks), giving you both survivability and offensive pressure. The other options are either hit neutrally while being much frailer (Zapdos, Gengar), share Rayquaza’s weaknesses (Salamence), or lack physical bulk (Blissey). Metagross is the safest and most threatening switch-in.
+
+o3's Reasoning: Metagross is at full HP and resists Rayquaza’s Dragon Claw, while Rock Slide is super-effective against Rayquaza’s Dragon/Flying typing. Earthquake would miss due to Rayquaza’s Flying type, and switching is unnecessary when we have a favorable matchup.
+
+o4-mini's Reasoning: Rayquaza is low on HP and vulnerable to another super-effective Rock Slide. Metagross is weak to Ground and unable to hit Groudon effectively with Rock Slide, so I’ll switch to Groudon to safely absorb hits and retaliate with a strong Earthquake.
+
+o3's Reasoning: Rayquaza is Flying-type, so it is immune to Earthquake but weak to Rock. Our last Rock Slide took 96 HP; Rayquaza has only 49 HP left, so another Rock Slide will KO if it connects. Metagross resists Dragon Claw, so staying in is safe unless Rayquaza has an unseen super-effective move. Attacking keeps pressure without risking a switch.
+
+o4-mini's Reasoning: Groudon’s STAB Earthquake is super effective on Metagross (Steel/Psychic) and will OHKO the remaining 75 HP. There's no risk this turn as Metagross’s only move is Rock Slide which just missed, so I attack now to secure the knockout.
+
+o3's Reasoning: Metagross is threatened by Groudon’s likely STAB Earthquake, which is super-effective and would KO given Metagross’s current HP. Switching preserves Metagross and brings in Salamence, which is immune to Ground moves and immediately cuts Groudon’s Attack with Intimidate, reducing damage from potential Rock or Fire coverage. Salamence is at full health and can pressure Groudon on the following turn.
+
+o4-mini's Reasoning: Earthquake has no effect on Salamence’s Flying type, so I’ll use Rock Slide to hit super effectively for maximum damage.
+
+o3's Reasoning: Salamence is immune to Groudon's known Earthquake, so staying in is safe for now. Dragon Claw gets STAB, has perfect accuracy, and deals solid neutral damage to Groudon, making it our most reliable way to pressure the opponent while scouting for any potential Rock coverage.
+
+o4-mini's Reasoning: Salamence is nearly defeated and is Flying-type, so Earthquake would miss. Using Rock Slide guarantees a high-accuracy super effective hit to secure the KO.
+
+o3's Reasoning: Salamence is at 16 HP and will be KO’d by another Rock Slide, while Dragon Claw probably can’t finish Groudon from 54% HP. Preserving Salamence for a later Intimidate pivot is valuable. Switching to Gengar is safest: it is immune to Groudon’s Earthquake thanks to Levitate, and if Groudon goes for Rock Slide instead, Gengar is at full health and should survive, giving us a faster Pokémon to pressure Groudon next turn.
+
+o4-mini's Reasoning: Gengar is at low HP and has no immunity to Ground; Earthquake is a strong, 100% accurate STAB that will cleanly KO it.
+
+o3's Reasoning: Gengar is low but outspeeds Groudon. Shadow Ball is the only move that can damage Groudon (Thunderbolt is ineffective), and it should do significant damage to a Groudon already at 54% HP—potentially KOing or leaving it in easy range for a cleaner. Switching risks our healthier teammates taking a powerful Rock Slide or Earthquake on entry. Therefore, staying in and attacking is the safest way to either finish Groudon or gain free switch initiative after Gengar faints.
+
+o4-mini's Reasoning: Groudon is low on HP and I don’t know the opponent’s new Pokémon. Switching to my bulky Lugia will give me a strong pivot to handle whatever comes in.
+
+o3's Reasoning: Zapdos is at full health and, as a Flying type, is immune to Groudon’s Ground-type STAB attacks like Earthquake. It also outspeeds Groudon and only needs any non-Electric attack (e.g., a Flying-type move or coverage move) to remove the last 11 HP. Metagross is weak to Ground, Blissey has poor physical defense against Earthquake, and Salamence is critically low on HP, so Zapdos is the safest and most reliable choice.
+
+o3's Reasoning: Zapdos’ only moves are Electric, which do nothing to the Ground-type Groudon, so it cannot win the game while active. A switch is required. Salamence, at only 16 HP, is the least valuable team member but brings the Intimidate ability to lower Groudon’s Attack and is immune to Earthquake, the move Groudon has been using. If Groudon Earthquakes again, Salamence takes no damage and can attack to finish it; if Groudon chooses Rock Slide, Salamence will likely faint but the Attack drop will make Groudon easier for the rest of the team to clean up. Using Salamence as a pivot is therefore the safest strategic choice.
+
+o4-mini's Reasoning: Lugia can use Psychic with perfect accuracy to KO the 16 HP Salamence safely, securing the knock out without risking a miss.
+
+o3's Reasoning: Salamence is at 16 HP and will almost certainly be KO’d by Lugia’s next attack. Switching would expose our healthy Pokémon to damage, whereas attacking now gives us a chance to chip Lugia before Salamence faints, enabling a safe pivot into Zapdos afterward to pressure with an Electric move.
+
+o4-mini's Reasoning: Lugia can safely stay in and cover for potential Ground or Rock threats like Garchomp or Tyranitar by using a strong Water move. Hydro Pump hits them super effectively and gives good coverage. Despite its lower accuracy, it's worth the risk to maintain offensive momentum.
+
+o3's Reasoning: Zapdos is at full HP and has STAB Electric attacks that hit Lugia’s Flying typing super-effectively. Its Electric typing also resists Flying moves, and it takes only neutral damage from Psychic, giving it both offensive and defensive advantages. Metagross is already weakened and lacks super-effective damage, while Blissey cannot pressure Lugia offensively. Therefore, Zapdos is the optimal switch-in.
+
+o3's Reasoning: Zapdos' Electric STAB is super effective against Lugia's Flying type. Thunderbolt offers reliable 100% accuracy and solid power, while Thunder's 70% accuracy risks a miss. Zapdos is at full HP and can safely stay in to pressure Lugia with consistent damage.
+
+o4-mini's Reasoning: Lugia’s Psychic is 100% accurate and will OHKO Zapdos at 84 HP. Hydro Pump’s 80% accuracy risks letting Zapdos retaliate with Thunderbolt. Best to secure the KO now.
+
+o3's Reasoning: Thunderbolt is super effective against Lugia and already removed over 60% of its HP last turn, leaving it within KO range. Its perfect accuracy avoids the miss chance of Thunder, and Zapdos still has enough HP to survive another hit if Lugia moves first. Therefore, the safest way to finish Lugia is to use Thunderbolt again.
+
+o4-mini's Reasoning: Zapdos is Electric/Flying, so it’s immune to Ground (Groudon) and resists Water (Kyogre is 2× weak). Flying-types (Rayquaza, Ho-Oh) are 2× weak to Electric. Magnezone’s Electric/Steel typing quadruple-resists Electric, walls Zapdos’s STAB, and can hit back super-effectively with Electric moves. Its full HP makes it the safest, most effective switch-in.
+
+o4-mini's Reasoning: Zapdos is at low HP and Thunderbolt has perfect accuracy and STAB; it will reliably KO
+
+o3's Reasoning: Zapdos is at only 23/130 HP and risks being KO’d by almost any attack once the opponent sends in their next Pokémon. Preserving Zapdos for a later, safer entry could still give us a fast, strong Electric attacker. Blissey is at full health and, with its immense special bulk, is the safest pivot to scout whatever the opponent brings in next. Switching now maximizes team longevity and information gathering.
+
+o4-mini's Reasoning: Blissey has no Electric or Steel resistances and Thunderbolt’s perfect accuracy ensures consistent damage to wear it down. I’ll keep Magnezone in and use Thunderbolt to chip away at Blissey’s huge HP.
+
+o3's Reasoning: Blissey easily absorbs Thunderbolt but can barely dent Magnezone with Ice Beam, so staying in stalls without progress. Metagross resists Electric attacks, takes little damage on the switch, and can threaten Magnezone with a likely Earthquake or other strong physical move that hits it super-effectively. Switching gains offensive momentum while keeping Blissey healthy for later special walling.
+
+o4-mini's Reasoning: I anticipate o3 sending a Pokémon that may threaten Magnezone (e.g., Ground-type), so I’m switching to Ho-Oh. It’s full health, Fire/Flying gives immunity to Ground moves and strong coverage options to keep pressure on the opponent.
+
+o3's Reasoning: Zapdos is at only 18% HP and takes neutral damage from Magnezone’s STAB moves, so it risks being KO’d on the switch. Blissey still has 82% HP and a massive Special Defense, allowing it to comfortably absorb Magnezone’s primarily special Electric and Steel attacks. In addition, Blissey can retaliate with a super-effective Flamethrower (or similar coverage) to pressure Magnezone. Therefore, switching to Blissey is the safest and most strategic choice.
+
+o3's Reasoning: Blissey’s massive Special Defense lets it comfortably absorb Magnezone’s Thunderbolt, while our only available move is Ice Beam. Though Ice is resisted by Magnezone’s Steel typing, staying in is safer than switching our critically low Zapdos, which would likely be KO’d on the next turn. Therefore, the best play is to keep Blissey in and chip away with Ice Beam.
+
+o4-mini's Reasoning: Ho-Oh can’t use Earthquake due to its Flying type and Shadow Ball won’t affect Normal types. Thunder is only 70% accurate. Blissey will likely continue spamming Ice Beam, which hits Ho-Oh for super-effective damage. Switching to Magnezone lets me safely absorb Ice Beam with resistance and then strike back with strong Electric STAB moves.
+
+o3's Reasoning: Blissey is currently healthy while Zapdos is on the brink of fainting. Ho-Oh’s Fire/Flying typing makes Ice Beam neutral, but Blissey can safely stay in and keep chipping. Switching Zapdos into a likely Sacred Fire or Brave Bird risks losing our only other healthy Pokémon before it can attack. The safest line is to continue attacking with Ice Beam, hoping to wear Ho-Oh down or potentially freeze it while preserving Zapdos for a later, safer opportunity.
+
+o4-mini's Reasoning: Magnezone resists Ice Beam and can hit Blissey hard with reliable STAB Thunderbolt to chip away its massive HP while staying safely in.
+
+o3's Reasoning: Blissey’s massive special bulk lets it comfortably absorb Magnezone’s Thunderbolt, while Zapdos is at critical HP and would likely be KO’d on the switch. Although Ice Beam is not very effective, chipping Magnezone safely is the best available option.
+
+o4-mini's Reasoning: Magnezone can tank a few more Ice Beams and Thunderbolt is the most reliable STAB with perfect accuracy. We can whittle down Blissey in about three hits while staying healthy enough to survive.
+
+o3's Reasoning: Blissey is our only healthy Pokémon with enough HP to withstand Magnezone’s Thunderbolt; Zapdos is too low to switch in safely. While Ice Beam is not very effective, it is our only available move, can still chip Magnezone, and carries a freeze chance that could swing the battle.
+
+o4-mini's Reasoning: Blissey’s HP is still high but Magnezone can handle another Ice Beam. Thunderbolt is my most reliable STAB with 100% accuracy and solid power to keep chipping away until I can KO Blissey, preserving Magnezone’s health for later.
+
+o3's Reasoning: Blissey still has most of its HP and very high special bulk, so it can survive at least two more Thunderbolts while Zapdos would be KOed immediately if switched in. Ice Beam is Blissey’s only available attack and, despite low damage, it slowly chips Magnezone and carries a 10% freeze chance that could swing the battle. Therefore, staying in and using Ice Beam is the safest and most productive option.
+
+o4-mini's Reasoning: Magnezone can survive one more Ice Beam and Thunderbolt has perfect accuracy and previously dealt around 58 damage, which will KO Blissey’s remaining 70 HP this turn. Go for the guaranteed finisher.
+
+o3's Reasoning: Blissey is our only healthy Pokémon left and can survive one more Thunderbolt (took 58 damage last turn, has 70 HP remaining). Switching to Zapdos is too risky because it only has 23 HP and might still be KO’d even on a resisted Thunderbolt. Although Ice Beam is not very effective, it is our only available move; with two more hits (or a freeze chance) we can potentially finish Magnezone. Therefore we stay in and attack.
+
+o4-mini's Reasoning: Blissey is at very low HP and Thunderbolt will reliably KO without risk, ensuring we finish it off this turn.
+
+o3's Reasoning: Blissey is at 8 HP and will be KO'd by another Thunderbolt. Ice Beam is resisted and cannot finish Magnezone. Switching to Zapdos gives a chance to survive because Zapdos resists Electric, preserving a healthier Pokémon that may finish Magnezone.
+
+o4-mini's Reasoning: Magnezone is very low on HP and vulnerable to a potential super-effective attack from the incoming Pokémon. Ho-Oh has high bulk and remaining HP, allowing us to better absorb hits and maintain momentum.
+
+o3's Reasoning: Blissey is the only remaining conscious Pokémon available to switch in, even though it is at very low HP. With no other options, it must be sent out to avoid an immediate loss.
+
+o3's Reasoning: Blissey is my only remaining Pokémon and my only available move is Ice Beam. All other team members have fainted, so switching isn’t possible. Attacking with Ice Beam is therefore my only viable action, even though it’s resisted by Magnezone.
+
+o4-mini's Reasoning: Blissey is at 8 HP and Earthquake has perfect accuracy, guaranteeing a KO without risk of missing. Shadow Ball is ineffective and Thunder could miss, so Earthquake is the safest finish.
+
+o3's Reasoning: Blissey is our only remaining Pokémon at critically low HP and cannot switch because all teammates are fainted. Our sole available move is Ice Beam, which, while only dealing neutral damage to Ho-Oh, is the only action we can take.
+
+gpt-4.1's Reasoning: For a balanced and powerful team, I want excellent type coverage, high stats, and a mix of physical and special attackers. Rayquaza (78) provides massive offensive power and Flying/Dragon coverage. Swampert (72) covers Water/Ground, providing Electric immunity and Rock resistance. Gengar (4) offers Ghost/Poison, giving resistance to Fighting and access to strong special moves. Skarmory (57) brings Steel/Flying, great for physical defense and Fairy counter. Jolteon (12) provides top Speed and Electric coverage for Water and Flying types. Blissey (68) is an outstanding special wall and reliable healer. This mix lets me handle nearly any threat with minimal type overlap and strong synergy.
+
+o4-mini's Reasoning: I chose Dragonite (2) for a powerful mixed Dragon/Flying attacker that covers Grass, Fighting, and Bug types. Zapdos (6) adds fast Electric/Flying coverage with an immunity to Ground and strong special offense. Gengar (4) provides a speedy Ghost/Poison special attacker to handle Psychic and Fairy foes. Metagross (77) is a Steel/Psychic tank that resists many common types and delivers heavy physical hits. Swampert (72) as Water/Ground handles Fire, Electric, and Poison threats while providing bulk. Blissey (68) serves as a special wall and team support to soak special attacks and provide healing support.
+
+o3's Reasoning: The team is designed to hit every major type for at least neutral damage while keeping defensive synergy. Mewtwo is an all-purpose special sweeper whose vast movepool (Ice Beam, Flamethrower, Thunderbolt, etc.) patches any remaining gaps. Swampert offers a bulky Water/Ground core that counters Rock, Fire, Steel and Electric attacks and sets Stealth Rock; its sole 4× Grass weakness is covered by Zapdos and Houndoom. Zapdos supplies Electric STAB for opposing Waters, a Ground immunity, and Flying coverage to eliminate the Grass threats that endanger Swampert. Metagross gives the squad a Steel backbone with key resistances to Ice, Rock and Dragon while delivering powerful physical hits and priority (Bullet Punch). Houndoom brings Dark/Fire coverage to punish Psychic- and Ghost-types that threaten Mewtwo and Metagross, as well as melt opposing Steel or Ice walls. Heracross rounds out the lineup as a hard-hitting Bug/Fighting breaker that shreds Dark, Psychic and Normal tanks and appreciates Zapdos’s Ground immunity support. Collectively the six provide Water, Electric, Psychic, Ground, Fire, Steel, Bug, Fighting, Dark and Flying offense, balanced mixed attacking stats, and complementary resistances so no single opponent type can sweep the whole team.
+
+claude-3-5-sonnet-20240620's Reasoning: This team provides excellent type coverage and a mix of offensive and defensive capabilities. Mewtwo offers incredible stats and psychic power. Dragonite brings dragon and flying coverage with good all-around stats. Gengar provides ghost and poison coverage with high special attack and speed. Zapdos offers electric and flying coverage with strong special stats. Tyranitar brings rock and dark coverage with high HP and attack. Swampert rounds out the team with water and ground coverage, good bulk, and a counter to electric types.
+
+claude-sonnet-4-20250514's Reasoning: I've selected a balanced team with excellent type coverage and synergy. Mewtwo serves as my primary special sweeper with incredible Psychic power. Tyranitar provides physical bulk and Dark/Rock coverage while checking Psychic types. Swampert offers Water/Ground typing with no weaknesses except Grass, providing excellent defensive utility. Skarmory is a premier physical wall with Steel/Flying typing, perfect for setting up hazards and tanking physical attacks. Gengar brings Ghost/Poison typing with high speed and special attack, covering Fighting and other Psychic types while providing crucial immunities. Finally, Blaziken rounds out the team with Fire/Fighting coverage, strong physical and special attack options, and speed boost potential. This team covers all major type matchups while having strong offensive presence, defensive stability, and speed control across different battle phases.
+
+gemini-2.5-flash's Reasoning: I aimed for a balanced team with strong type coverage, utilizing both physical and special attackers, and including defensive pivots. Rayquaza (78) provides immense offensive pressure with high Attack and Special Attack, covering Dragon and Flying types. Metagross (77) is a reliable physical attacker and tank with high Attack and Defense; its Steel/Psychic typing brings numerous resistances (including to Ice and Rock for Rayquaza) and powerful STAB options. Swampert (72) offers excellent defensive typing (Water/Ground) with only one weakness (Grass, 4x) and resistances to common offensive types like Fire and Rock, providing crucial Ground and Water coverage. Zapdos (6) is a fast special attacker, providing Electric and Flying coverage. It resists Fighting, Flying, Steel, Grass, and is immune to Ground. Snorlax (8) is a phenomenal special wall and general tank with massive HP and Special Defense; its Normal typing means only one weakness (Fighting), allowing it to absorb many hits. Finally, Gengar (4) is a speedy special attacker with Ghost/Poison typing, offering unique offensive coverage against Psychic and Grass, and crucial immunities to Normal and Fighting, providing a fast threat against many opponents.
+
+claude-3-7-sonnet-20250219's Reasoning: Rayquaza is a Dragon/Flying type Pokémon. Ice-type moves are super effective against both Dragon and Flying types, giving Ice Beam a 4x effectiveness. This makes Ice Beam (move index 2) the optimal choice for maximum damage. While Thunderbolt would be effective against Flying, Ice Beam will deal significantly more damage due to the double weakness.
+
+gemini-2.5-flash's Reasoning: Mewtwo is a Psychic-type Pokémon. My current Pokémon, Rayquaza, does not have any super effective moves against Psychic types. However, Gengar, a Ghost/Poison type, can deal super effective Ghost-type damage to Mewtwo. Furthermore, Gengar's Ghost/Poison typing results in it taking neutral damage from Mewtwo's Psychic-type attacks (Ghost resists Psychic, while Poison is weak, balancing out to neutral). Switching to Gengar allows me to immediately gain an offensive advantage.
+
+claude-3-7-sonnet-20250219's Reasoning: Gengar is a Ghost/Poison type Pokémon, making it weak to Ghost-type attacks. Gengar is already low on HP (32/110), and my Shadow Ball (Ghost-type, 80 power) will be super effective against it. While Psychic would normally be a good choice against Poison types, Ghost types are immune to Psychic attacks. Since Gengar is already weakened, a super effective Shadow Ball should be enough to knock it out this turn.
+
+gemini-2.5-flash's Reasoning: Gengar is at critically low HP and will almost certainly be knocked out by Mewtwo's next attack. It is strategically better to switch Gengar out to preserve it. Metagross is an excellent choice as it is a Steel/Psychic type, meaning its Steel typing resists Psychic-type attacks (Mewtwo's primary STAB), allowing it to take hits much better than Gengar.
+
+claude-3-7-sonnet-20250219's Reasoning: Metagross is at very low HP (12/120), so I should finish it off. Shadow Ball was super effective last turn since Metagross is part Psychic-type, and it only needs a small amount of damage to be knocked out. I should use Shadow Ball again to secure the KO.
+
+gemini-2.5-flash's Reasoning: Metagross is critically low on HP and will likely be knocked out by any attack, making it unwise to keep in. Switching to Snorlax is the best option because Snorlax resists Mewtwo's known Shadow Ball move and takes neutral damage from Ice Beam. This allows Snorlax to safely tank an incoming hit, unlike other Pokémon on the team that have critical weaknesses to Ice Beam.
+
+claude-3-7-sonnet-20250219's Reasoning: Shadow Ball didn't affect Snorlax, which suggests Snorlax is either Normal or Ghost type. Snorlax is typically a Normal type, which makes it immune to Ghost attacks like Shadow Ball. Normal types are weak to Fighting moves, but I don't have any Fighting moves. My best options are Ice Beam or Thunderbolt for neutral damage. I'll use Ice Beam since it's generally a good coverage move against many types.
+
+gemini-2.5-flash's Reasoning: Snorlax is currently at full HP and immune to Mewtwo's Shadow Ball, which it used last turn. While Earthquake is not very effective against Mewtwo (Psychic-type), Snorlax can likely tank neutral damage from Mewtwo's other moves (like Ice Beam or potential Psychic-type attacks) and slowly chip away at its health. Switching to a super-effective Pokémon like Gengar is too risky due to its critically low HP.
+
+claude-3-7-sonnet-20250219's Reasoning: Snorlax used Earthquake which is a Ground-type move. My Mewtwo has taken significant damage (down to 96/145 HP). Shadow Ball is a Ghost-type move which is super effective against Psychic types, so it would be good against other Psychic Pokémon, but not particularly effective against Normal-type Snorlax. Ice Beam and Thunderbolt both have the same power as Psychic (90), but Psychic gets STAB (Same Type Attack Bonus) since Mewtwo is a Psychic type. This makes Psychic the most powerful option against Snorlax. Given Mewtwo's reduced HP, I could switch to a fresh Pokémon, but Mewtwo's high offensive capabilities make it worth keeping in battle for now, especially with a powerful STAB move available.
+
+claude-3-7-sonnet-20250219's Reasoning: Mewtwo is at critical health (47/145) and could faint from another Earthquake. Snorlax is a Normal type which is weak to Fighting moves, but I don't have any Fighting moves. Looking at my team, Gengar (Ghost/Poison) would be immune to Earthquake and could use Ghost or Dark type moves against Snorlax. Alternatively, Mew has full health and versatility. Given the situation, I should switch to a Pokémon that can better handle Snorlax.
+
+gemini-2.5-flash's Reasoning: Snorlax is at very low HP (63/200) and took 81 damage from Mewtwo's Psychic last turn. It is highly likely to be knocked out if it stays in. Switching to Zapdos (HP: 130/130, Electric/Flying) is a safer option because Zapdos resists Mewtwo's Psychic-type attacks (taking 0.5x damage) and is at full health, allowing it to safely absorb a hit.
+
+claude-3-7-sonnet-20250219's Reasoning: Zapdos is an Electric/Flying type Pokémon. Gengar's Shadow Ball would be neutral damage against it, while Thunderbolt would be not very effective due to Zapdos's Electric typing. Since Gengar is at full health, I'll use Shadow Ball for maximum damage output rather than switching. Ghost attacks have no resistance against Flying/Electric types, making it the best offensive option available.
+
+gemini-2.5-flash's Reasoning: Zapdos's Electric-type moves are neutral against Gengar (Ghost/Poison). However, Swampert (Water/Ground) has a significant type advantage, as its Ground-type moves would be super effective against both Ghost and Poison types. Switching to Swampert will allow for much greater damage output.
+
+claude-3-7-sonnet-20250219's Reasoning: Swampert is Water/Ground type, which makes it extremely vulnerable to Electric attacks (4x weakness). While Shadow Ball was effective last turn, Thunderbolt will be super effective and deal much more damage. With Swampert already at less than half health, Thunderbolt has a good chance of knocking it out this turn.
+
+gemini-2.5-flash's Reasoning: Swampert is at very low HP (68/140) and will likely be knocked out by Gengar's Shadow Ball, which dealt 72 damage previously. Furthermore, Gengar is immune to Swampert's Earthquake. To avoid losing Swampert and gain momentum, I will switch to Snorlax. Snorlax is a Normal-type Pokémon, making it immune to Gengar's Ghost-type Shadow Ball, allowing for a free switch-in without taking damage.
+
+claude-3-7-sonnet-20250219's Reasoning: Snorlax is at very low HP (17/200), so we should finish it off. Both Shadow Ball and Thunderbolt would work, but since Thunderbolt already proved effective last turn, I'll use it again to secure the knockout. There's no need to switch when we can win with our current Pokémon.
+
+gemini-2.5-flash's Reasoning: My Snorlax is at extremely low HP (17/200) and is likely to be knocked out by another Thunderbolt from Gengar, which Gengar has already used. Switching to Swampert is the best strategic move because Swampert (Water/Ground type) is immune to Electric-type moves like Thunderbolt, completely nullifying one of Gengar's known attacks. It also resists Poison-type attacks, and can hit Gengar with a super effective Ground-type move.
+
+claude-3-7-sonnet-20250219's Reasoning: I need to change my strategy. Thunderbolt had no effect on Swampert because Electric-type moves don't affect Ground types (Swampert is Water/Ground). Shadow Ball would be neutral against Swampert, but I should consider switching to a more effective Pokémon. Dragonite would be a good choice as it resists Water and can hit Swampert with super effective moves if it has any Grass or Electric attacks. Even without those, Dragonite has high attack stats and full HP.
+
+gemini-2.5-flash's Reasoning: Swampert is immune to Gengar's Thunderbolt due to its Ground typing, confirmed by the battle log. All of Swampert's moves deal neutral damage to Gengar. Earthquake has the highest base power among Swampert's available moves, making it the optimal choice to deal the most damage.
+
+claude-3-7-sonnet-20250219's Reasoning: Dragonite has an advantage in this matchup. As a Dragon/Flying type, it's immune to Ground-type moves like Earthquake (which Swampert just used with no effect). My Dragonite is at full health, while Swampert is below half health at 68/140 HP. Fire Punch isn't super effective against Swampert (Water/Ground type), but it's still a solid move with 75 power. I'll attack with Fire Punch to continue dealing damage while maintaining my type advantage against Swampert's Earthquake.
+
+gemini-2.5-flash's Reasoning: Swampert's Earthquake had no effect against Dragonite due to its Flying typing. However, Swampert knows Ice Beam, which is quadruple super effective (2x against Dragon and 2x against Flying) against Dragonite. Using Ice Beam will deal massive damage and is the best strategic move.
+
+claude-3-7-sonnet-20250219's Reasoning: Articuno is the best choice against Swampert because Ice is super effective against Ground-type Pokémon. Additionally, Articuno has full HP (130/130) and good defensive stats, especially Special Defense at 111. Swampert is already at low health (51/140), so Articuno's Ice-type attacks can likely finish it off. While Swampert's Water attacks would be super effective against Articuno's Ice typing, Articuno's Flying typing gives it immunity to Swampert's Ground-type moves.
+
+claude-3-7-sonnet-20250219's Reasoning: Articuno is a good matchup against Swampert. Swampert is Water/Ground type, which means it has a double weakness to Ice attacks. Since Swampert is already at low HP (51/140), I should be able to finish it off with an attack. Between my two moves, Ice Beam has better accuracy (100% vs 70% for Blizzard), and its 90 power should be more than enough to KO Swampert given its double weakness to Ice. I'll go with Ice Beam for the reliable finishing move.
+
+gemini-2.5-flash's Reasoning: Dragonite has fainted. Swampert is at low HP (51/140). It's a good opportunity to switch into a fresh, high-HP Pokémon to maintain pressure and prepare for the opponent's next Pokémon, which is currently unknown. Rayquaza is a powerful offensive threat with full HP, making it a strong choice to send in next.
+
+claude-3-7-sonnet-20250219's Reasoning: My Articuno just defeated Rayquaza with Ice Beam, which was super effective against its Dragon/Flying typing. The opponent now needs to send out a new Pokémon. Since my Articuno is at full health (130/130) and was effective against the previous opponent, it's logical to keep it in battle for now. We don't know what Pokémon the opponent will send next, but Ice types are strong against Flying, Ground, Grass, and Dragon types. If they send something that threatens Articuno, I can switch on the next turn. For now, I'll maintain my position of strength with a fully healthy Articuno.
+
+gemini-2.5-flash's Reasoning: Swampert (Water/Ground) is an excellent choice against Articuno (Ice/Flying). Both Water and Ground types are super effective against Ice, allowing Swampert to deal significant damage with its STAB moves. Defensively, Swampert takes neutral damage from Articuno's Ice and Flying attacks, making it a much safer switch than Zapdos, which would take super effective damage from Articuno's Ice moves. While Zapdos has full HP and a super effective Electric attack against Articuno's Flying type, the super effective damage from Articuno's Ice moves makes it a high-risk option. Swampert's remaining HP is sufficient to withstand a hit.
+
+gemini-2.5-flash's Reasoning: Swampert's Earthquake is completely ineffective against Articuno due to its Flying typing. Surf would deal neutral damage, but Swampert's HP is too low to stay in. Switching to Zapdos is the best strategic move as Zapdos is at full health and its Electric-type attacks would be super effective against Articuno's Flying typing, providing the best chance to take down Articuno.
+
+claude-3-7-sonnet-20250219's Reasoning: Zapdos is an Electric/Flying type, which is weak to Ice attacks. Both of my Ice moves will be super effective against it. Between my two moves, Ice Beam has higher accuracy (100% vs 70% for Blizzard) even though it has slightly lower power. Since Articuno is Ice/Flying type, it's vulnerable to Electric attacks that Zapdos likely has, but since Articuno is at full health, I can afford to prioritize a guaranteed hit with Ice Beam rather than risking a miss with Blizzard.
+
+gemini-2.5-flash's Reasoning: Zapdos's Electric-type moves are super effective against Articuno (Ice/Flying). Thunderbolt has perfect accuracy and good power, making it the most reliable choice to deal significant damage while minimizing the risk of missing.
+
+claude-3-7-sonnet-20250219's Reasoning: Articuno is at very low health (20/130) and could faint from another Thunderbolt. However, Zapdos is also nearly defeated with only 10 HP remaining. Ice Beam has perfect accuracy (100%) and will definitely finish off Zapdos since it was super effective before. While Blizzard has more power, its lower accuracy (70%) makes it risky. With victory one accurate hit away, I'll use Ice Beam to ensure we defeat Zapdos this turn.
+
+gemini-2.5-flash's Reasoning: Zapdos is at extremely low HP (10/130) and is 4x weak to Articuno's Ice Beam, which dealt 120 damage last turn. It is highly likely Zapdos would be knocked out by another Ice Beam. Switching to Swampert, who has decent HP (51/140) and resists Ice-type moves, is the safest strategic option to preserve Zapdos and take minimal damage from Articuno's likely attack. After the switch, Swampert can then attempt to finish off the heavily damaged Articuno.
+
+claude-3-7-sonnet-20250219's Reasoning: Articuno is at very low health (20/130) and likely won't survive another attack. Since the opponent's Swampert has fainted, they'll be sending in a new Pokémon which will get to attack first. I should switch to a healthier Pokémon that can better handle whatever comes next. Mew is at full health (140/140) and has great versatility, making it a safe choice. Alakazam and Gengar are also at full health, but they might be more vulnerable to common attacking types. Mew provides the best combination of health and adaptability for an unknown situation.
+
+gemini-2.5-flash's Reasoning: Articuno is at very low HP (20/130). Gengar is the best choice for several reasons: It has the highest remaining HP (32/110) among your available Pokémon, giving it the best chance to survive an attack if needed. Crucially, Gengar (Speed: 95) is faster than Articuno (Speed: 90), meaning it will attack first. Given Articuno's critically low HP, Gengar's neutral damage attack should be more than enough to finish it off before Articuno can make another move. While Metagross has a type advantage, its HP is too critically low (12/120) and it's slower, making it a high risk. Zapdos is also at critically low HP (10/130) and takes super-effective damage from Ice, making it a poor choice.
+
+gemini-2.5-flash's Reasoning: Articuno is a Flying type, making it weak to Electric-type moves. Gengar's Thunderbolt is super effective against Articuno and should be enough to knock it out given its very low HP (20/130). Attacking is the most direct way to secure the KO.
+
+claude-3-7-sonnet-20250219's Reasoning: Gengar is low on health (32/110), and I can likely finish it with one more attack. Psychic is super effective against Gengar (Ghost/Poison type), while Thunderbolt would be neutral. Using Psychic will deal more damage and likely knock out Gengar this turn. While Mew is at 91/140 HP, it can sustain another hit if needed, but ending the battle quickly is the priority.
+
+gemini-2.5-flash's Reasoning: Gengar is low on HP, but Mew is weak to Ghost-type attacks. Shadow Ball is a super effective Ghost-type move that has a high chance to knock out Mew before Gengar faints. My other available Pokémon are also critically low on HP, making a switch less strategic at this moment.
+
+claude-3-7-sonnet-20250219's Reasoning: I'll choose Alakazam because: 1) It has full HP (95/95) unlike Mewtwo which is low on health; 2) As a Psychic type, it has an advantage against Gengar's Poison typing; 3) Alakazam has excellent Speed (105) which will likely outspeed the opponent's Gengar; 4) Its high Special Attack (115) will be effective for dealing damage; 5) The opponent's Gengar is already weakened (32/110 HP), so Alakazam should be able to finish it off quickly. Our own Gengar would be a mirror match without clear advantages, and Articuno is too low on health to risk.
+
+claude-3-7-sonnet-20250219's Reasoning: Alakazam has just been sent in against Gengar. Gengar is a Ghost/Poison type, which means Psychic-type moves will be ineffective against its Ghost typing. However, Shadow Ball (Ghost-type) will be super effective against Gengar, as Ghost is super effective against Ghost. Gengar is also already weakened at 32/110 HP, so a strong hit should be able to defeat it. I'll use Shadow Ball to target Gengar's weakness and try to finish it off before it can attack again.
+
+gemini-2.5-flash's Reasoning: Mew has fainted, and my active Gengar is at low HP. It's a good opportunity to switch out Gengar for a healthier Pokémon before the opponent sends out their next Pokémon. Among my available Pokémon, Snorlax has the most remaining HP.
+
+claude-3-7-sonnet-20250219's Reasoning: Snorlax has very low HP (17/200), and my current move Shadow Ball just failed because it's a Ghost-type move that doesn't affect Normal types like Snorlax. I should switch to Psychic instead, which is super effective against Snorlax. With Psychic's power of 90, I should be able to finish off Snorlax this turn.
+
+gemini-2.5-flash's Reasoning: My Snorlax is currently immune to Alakazam's known move, Shadow Ball. While Earthquake is not very effective against Alakazam, it allows Snorlax to deal damage without taking any in return, assuming Alakazam continues to use Shadow Ball. All other available Pokémon on my team are at extremely low HP or have a major type disadvantage to Alakazam's likely Psychic STAB moves, making switching a higher risk than staying in and attacking with Snorlax.
+
+claude-3-7-sonnet-20250219's Reasoning: The opponent's Snorlax has fainted, and they need to choose a new Pokémon. My Alakazam is at full health (95/95), so I'm in a good position. Since I don't know what Pokémon the opponent will send out next, I should anticipate potentially unfavorable matchups. Alakazam is vulnerable to Dark, Ghost, and Bug types. Looking at my available team, Gengar (110/110 HP) would be a strong choice with Ghost-type immunity to Normal and Fighting moves, plus has good offensive coverage. My Mewtwo (47/145 HP) is low on health, and Articuno (20/130 HP) is critically low. I'll switch to Gengar, who has full health and can handle various threats the opponent might send out.
+
+gemini-2.5-flash's Reasoning: The opponent's Alakazam is a Psychic type. Gengar, being a Ghost/Poison type, has a significant advantage. Ghost-type moves are super effective against Psychic types, allowing Gengar to deal double damage. Additionally, Poison-type Pokémon resist Psychic-type attacks, providing Gengar with a defensive bonus. While Metagross also resists Psychic, its HP is critically low (12/120), making it a poor choice. Zapdos is also critically low on HP and has no type advantage. Gengar has the most remaining HP (32/110) among the viable options and provides both offensive and defensive type advantages.
+
+gemini-2.5-flash's Reasoning: My Gengar is at very low HP (32/110) and Alakazam is at full HP (95/95) and is faster. It is highly probable that Gengar will be knocked out this turn. However, Gengar's Shadow Ball is a Ghost-type move, which is super effective against Alakazam (Psychic-type) and also benefits from STAB (Same-Type Attack Bonus). This combination results in a very high damage output (80 base power * 1.5 STAB * 2 super effective = 240 equivalent power), which is enough to OHKO Alakazam. My other remaining Pokémon (Metagross and Zapdos) are also at critically low HP and would almost certainly faint if switched in. Therefore, the best strategic move is to attempt to take down Alakazam with a powerful, super effective Shadow Ball before Gengar faints, aiming for a 1-for-1 trade.
+
+claude-3-7-sonnet-20250219's Reasoning: I'll choose Alakazam for several reasons: 1) It's at full health (95/95 HP) unlike Mewtwo (47/145) and Articuno (20/130). 2) As a Psychic type, it has a type advantage against Gengar's Poison typing. 3) Alakazam has excellent Speed (105) which should allow it to move first against Gengar. 4) Its high Special Attack (115) will help deal significant damage. While Mewtwo has better stats overall, its low remaining HP makes it risky. Articuno is in even worse shape with only 20 HP left and its Ice/Flying typing doesn't offer any advantages against Ghost/Poison.
+
+claude-3-7-sonnet-20250219's Reasoning: The opponent's Gengar has just fainted, and they need to choose a new Pokémon. My Alakazam is at full health (95/95) and has strong moves. Since I don't know what Pokémon the opponent will send out next, it's a good idea to maintain my position with Alakazam who is in perfect condition. Both Psychic and Shadow Ball are powerful attacking options that will be useful against various Pokémon types. There's no strategic reason to switch to my other available Pokémon (Mewtwo with lower HP or Articuno with very low HP) when Alakazam is at full health and ready to battle.
+
+gemini-2.5-flash's Reasoning: My current active Pokémon, Gengar, has fainted. Both Metagross and Zapdos are extremely low on HP. Zapdos offers an immunity to Ground-type attacks, which could provide a valuable free switch-in if the opponent brings out a Ground-type Pokémon. Although both are likely to faint from any attack, Zapdos's typing provides a slight strategic advantage.
+
+claude-3-7-sonnet-20250219's Reasoning: Alakazam is at full health and has performed well against the opponent. Since Zapdos fainted, I want to keep Alakazam as my active Pokémon while the opponent chooses their next Pokémon. This allows me to maintain momentum and respond appropriately to whatever Pokémon they send out next. Alakazam has strong psychic attacks and a ghost-type move for coverage, making it versatile against many potential opponents. My other available options (Mewtwo and Articuno) have lower remaining HP, so keeping my fully-healthy Pokémon active is the best strategic choice right now.
+
+gemini-2.5-flash's Reasoning: The opponent's Alakazam is a Psychic type. Metagross (Steel/Psychic) has an excellent defensive typing against Psychic attacks, taking only 0.25x damage. While Metagross's HP is critically low (12/120), this strong resistance offers the best chance to survive an incoming Psychic attack, or at least force Alakazam to switch moves if it has coverage. In contrast, Gengar (Ghost/Poison) has a 4x weakness to Psychic attacks, making it a guaranteed one-shot with its current HP (32/110). Choosing Metagross, despite its low HP, is the more strategic move to potentially absorb a hit or force a favorable prediction.
+
+gemini-2.5-flash's Reasoning: Metagross has extremely low HP (12/120) and is certain to faint from Alakazam's next attack. Switching to Gengar, although also low on HP (32/110), is the only remaining option to prevent Metagross from fainting immediately and provides a chance to survive a hit and counter with potentially super-effective Ghost-type moves.
+
+claude-3-7-sonnet-20250219's Reasoning: My Alakazam just defeated the opponent's Gengar, and they need to send out a new Pokémon. Alakazam is at full health (95/95), which puts me in a strong position. Since my opponent is forced to switch, I can maintain my advantage by keeping Alakazam in battle. Alakazam has strong offensive capabilities with Psychic and Shadow Ball, which gives me coverage against various types. There's no reason to switch to Mewtwo (47/145) or Articuno (20/130) who have lower HP percentages. I'll keep Alakazam active and evaluate my next move once I see what Pokémon my opponent sends out next.
+
+gemini-2.5-flash's Reasoning: Although Metagross has critically low HP, it is the only available Pokémon. Strategically, Metagross (Steel/Psychic) has a massive defensive advantage against Alakazam's (Psychic) attacks, resisting Psychic-type moves by 4x. This strong type resistance might allow it to survive an attack despite its low HP and potentially deal some damage or serve as a temporary pivot.
+
+gemini-2.5-flash's Reasoning: My Metagross is at extremely low HP (12/120) and all my other Pokémon have fainted, leaving me with no option to switch. Alakazam is at full HP. My only course of action is to attack. Between Earthquake (Ground, 100 Power, 100 Accuracy) and Rock Slide (Rock, 75 Power, 90 Accuracy), Earthquake provides the highest damage output with perfect accuracy, even though it will only do neutral damage to Alakazam. It's my best chance to deal damage before Metagross inevitably faints.
+
+gpt-4.1's Reasoning: Mewtwo is a Psychic type, and none of Rayquaza's moves are super effective against it. However, Earthquake and Fire Blast offer strong neutral damage, but Dragon Claw is 100% accurate and reliable, dealing decent neutral damage. Staying in with Rayquaza is safe since both Pokémon are at full health and switching risks unnecessary damage to my other team members. I will use Dragon Claw for consistent damage.
+
+o3's Reasoning: Rayquaza is Dragon/Flying, making it 4x weak to Ice. Ice Beam will deal massive super-effective damage, likely securing a KO while Mewtwo is at full health and faster than Rayquaza. Switching is unnecessary.
+
+gpt-4.1's Reasoning: Gengar is a Ghost/Poison-type, which gives it an immunity to Mewtwo's potentially dangerous Psychic-type moves due to Ghost-typing, and it has high Speed and Special Attack to strike quickly. However, Poison is weak to Psychic, making Gengar very vulnerable to Psychic moves. Swampert, Skarmory, and Jolteon don't resist Psychic, and Blissey, though weak physically, has high HP and excellent Special Defense, making it very resilient against Mewtwo's likely special attacks. Given Mewtwo's high Special Attack and the likelihood of Psychic-type moves, Blissey is the safest switch-in due to its enormous HP pool and the best Special Defense, allowing it to stall, heal, or potentially status Mewtwo. Therefore, I choose Blissey.
+
+gpt-4.1's Reasoning: Blissey has full HP and can tank special attacks like Mewtwo's Ice Beam thanks to its very high special defense and HP. Switching now risks putting one of my other Pokémon into an unfavorable situation, since most of my team are neutral or weak to Ice Beam. Although Blissey's Ice Beam is not very effective against Mewtwo, this keeps my team safe, and I can scout the opponent's next move
+
+o3's Reasoning: Mewtwo is at full HP and currently on the field, giving us momentum. Because the opponent will send in an unknown Pokémon, choosing a broadly effective, high-power move with no immunity issues is safest. Psychic risks total immunity if a Dark type appears, and Shadow Ball is resisted by Dark as well as being ineffective vs Normal. Ice Beam offers wide neutral or super-effective coverage, is only resisted by a few types, and carries a freeze chance. Therefore, stay in with Mewtwo and use Ice Beam to apply immediate pressure regardless of the switch-in.
+
+gpt-4.1's Reasoning: Blissey is tanky and has significantly more HP than Mewtwo. Ice Beam does neutral damage to both, and unless Mewtwo has a powerful Fighting or Psychic move, Blissey can continue stalling and wearing Mewtwo down. Blissey outspeeds Mewtwo, so Ice Beam is the safest play to try to finish off Mewtwo or weaken it further.
+
+o3's Reasoning: Mewtwo outspeeds Blissey and its STAB Psychic is the most powerful safe option (1.5× boost) against Blissey’s low special defense. Shadow Ball is useless because Normal-type Blissey is immune to Ghost, and switching isn’t necessary while Mewtwo is still healthy. Continue attacking to wear Blissey down.
+
+gpt-4.1's Reasoning: Blissey is currently at just over half HP and can take another hit from Mewtwo, but Blissey has poor offensive stats and is unlikely to KO Mewtwo quickly. However, swapping to Gengar would provide an immunity to Psychic due to its Ghost typing and would likely outspeed Mewtwo, applying pressure. Switching to Swampert is less useful as it is weak to Ice Beam. Skarmory resists Ice Beam but is neutral to Psychic, while Jolteon can outspeed and hit hard, but may not KO Mewtwo immediately. Switching to Gengar maximizes both offense and defense on Mewtwo's current move set.
+
+o3's Reasoning: Blissey’s massive special bulk makes our special attacks inefficient—Psychic is only a 3-4HKO, and Mewtwo will likely faint to repeated Ice Beams before finishing the job. Switching to Heracross gives us a full-HP physical attacker with STAB Fighting moves that can potentially OHKO Blissey, while taking only moderate neutral damage from Ice Beam on the switch.
+
+gpt-4.1's Reasoning: Gengar has a strong type advantage against Heracross, who is Bug/Fighting-type and is weak to Ghost-type moves. Shadow Ball is a super-effective move and can deal significant damage to Heracross. Both Pokémon are at full HP, and there is no immediate threat that requires a switch. Attacking with Shadow Ball is the optimal choice.
+
+o3's Reasoning: Heracross can’t damage Gengar much—Close Combat is ineffective and Rock Slide is only neutral while Heracross will likely get hit hard by Gengar’s special attacks first. Switching is safer. Metagross is immune to Poison, takes only neutral damage from Ghost or Fighting coverage, and can retaliate strongly next turn, making it the safest pivot.
+
+gpt-4.1's Reasoning: My opponent must switch to a new Pokémon since Metagross has fainted. I will wait to see which Pokémon they choose before deciding to attack or switch, in order to maximize my type advantage and not risk switching unnecessarily.
+
+o3's Reasoning: Gengar is weak to Dark, Psychic and Ground moves. Of my healthy options, Houndoom is a Dark-type, giving it STAB super-effective damage while also resisting Gengar’s primary Ghost STAB (Shadow Ball). Houndoom is at full HP, so it can comfortably absorb an initial hit and threaten a KO back. Mewtwo could KO faster but is already weakened and would likely be KO’d by a Shadow Ball speed tie. The rest of the team either cannot hit Gengar super-effectively or are threatened by its coverage. Therefore Houndoom is the safest and most effective switch-in here.
+
+o3's Reasoning: Houndoom’s Dark typing lets it resist Gengar’s known Shadow Ball, and Crunch is STAB and super-effective, giving the highest chance to KO Gengar quickly. Although Gengar could carry Focus Blast, its 70% accuracy and the possibility of an OHKO from our Crunch make staying in and attacking the optimal play.
+
+gpt-4.1's Reasoning: Swampert is the optimal choice because its Water/Ground typing gives it immunity to Houndoom's Electric moves (if any), resistance to Fire-type moves, and Water-type STAB (Same Type Attack Bonus) can hit Houndoom's Fire typing for super-effective damage. Swampert also has full HP, making it the sturdiest option. The other options are either weak to Fire (Skarmory), vulnerable due to low Defense (Jolteon, Blissey), or provide less offensive and defensive value in this matchup.
+
+gpt-4.1's Reasoning: Swampert is immune to Houndoom's Electric and resistant to Fire and Dark moves. Earthquake is super effective against Houndoom, a Fire/Dark type, and it has the highest power out of Swampert's moves. Houndoom is at full HP, so a strong, super-effective move is the optimal play.
+
+o3's Reasoning: My Houndoom is at full health and the opponent must send in a new Pokémon. Without knowing their choice, the safest play is to stay in and select Houndoom’s most reliable, high-powered STAB move. Flamethrower has the highest base power among my accurate moves, benefits from STAB and Houndoom’s higher Special Attack, and offers broad neutral or super-effective coverage against many possible switch-ins. Switching now would be premature since I have no information on the incoming threat.
+
+gpt-4.1's Reasoning: Since Swampert has solid HP remaining and good coverage with its move set, it's best to wait and see which Pokémon the opponent sends out before deciding on whether to switch or what move to use. However, since the opponent hasn't chosen a new Pokémon yet, no action can be initiated right now.
+
+o3's Reasoning: Swampert’s main STAB attack is usually Earthquake, which Zapdos is completely immune to thanks to its Flying type, making it the safest switch-in. Zapdos is at full HP, outspeeds Swampert, and can hit back with neutral Flying-type moves while taking only neutral damage from Water or Ice coverage. Mewtwo could deal heavy damage but would risk taking a strong hit on entry at only 57% HP, and its Psychic STAB is merely neutral. Heracross is physically frail and shares no resistances, while a mirror Swampert offers no advantage. Therefore, Zapdos provides the best combination of safety and offensive pressure.
+
+o3's Reasoning: Zapdos has only Electric-type attacks, which are completely ineffective against Swampert’s Water/Ground typing, so it cannot damage the opponent. Remaining in with Zapdos also risks taking heavy damage from a potential Ice Beam or Rock Slide. Switching to Mewtwo, our healthiest Pokémon that can hit on the special side, puts immediate offensive pressure on Swampert while avoiding the Electric immunity issue.
+
+gpt-4.1's Reasoning: Swampert is currently at 104/140 HP and faces Mewtwo, which is a Psychic type at 82/145 HP. All of Swampert's offensive moves are not super effective against Mewtwo, but Earthquake has the highest power and STAB (same-type attack bonus) due to Swampert's Ground typing, which maximizes potential damage. Mewtwo knows Psychic and Ice Beam—both are neutral against Swampert and unlikely to OHKO. Swampert should stay in and attack with Earthquake for maximum damage to Mewtwo.
+
+o3's Reasoning: Mewtwo is faster than Swampert and Ice Beam is super-effective (2×) against Water/Ground, providing a high-probability OHKO before Swampert can retaliate with a potentially lethal Earthquake. Switching is unnecessary; using Thunderbolt would fail and Psychic/Shadow Ball are less effective.
+
+gpt-4.1's Reasoning: Mewtwo is at very low HP (5/145) and any of Swampert's available moves will KO it. Earthquake has already done significant damage and Mewtwo is not immune to Ground. Since it is guaranteed to hit and has the highest base power among my available moves, I will use Earthquake again to ensure Mewtwo is knocked out before Swampert can be finished off by another Ice Beam or Psychic.
+
+o3's Reasoning: Mewtwo is faster than Swampert and Ice Beam previously dealt 65 damage, leaving Swampert at 39 HP. A second Ice Beam (100% accuracy, super-effective 2×) is guaranteed to KO before Swampert can use Earthquake again, preserving momentum without risking a switch.
+
+gpt-4.1's Reasoning: Jolteon is the best choice here due to its high Speed, ensuring it can outspeed and finish off the opponent's low-HP Mewtwo before it can act. Skarmory has great defense but is weak to Mewtwo’s likely special moves, and Blissey is low on HP and weak on defense. Jolteon's Electric-type does not confer weakness to Psychic moves, and its Sp.Atk is the highest among my remaining Pokémon, making it ideal to quickly secure the knockout.
+
+gpt-4.1's Reasoning: Mewtwo has only 5 HP remaining, and Jolteon's Thunderbolt is a reliable move with 100% accuracy, ensuring a safe knockout without the risk of missing. Thunder or Shadow Ball are less optimal due to lower accuracy or lower base power. Staying in with Jolteon is safe because Mewtwo is unlikely to survive another turn regardless of which move it might use.
+
+o3's Reasoning: Mewtwo is critically low at 5 HP and would almost certainly faint to any incoming move. Because the opponent must send in a new Pokémon after Swampert’s knockout, we get a free opportunity to switch without taking damage. Zapdos is our healthiest, most versatile option, giving us strong neutral matchups and allowing us to scout the opponent’s next Pokémon while preserving Mewtwo for a potential late-game clean-up.
+
+gpt-4.1's Reasoning: Thunderbolt is a reliable move with 100% accuracy and was effective last turn, dealing significant damage to Zapdos. Thunder has higher power but lower accuracy, which could risk missing and giving Zapdos a chance to retaliate. Shadow Ball is not very effective against Zapdos due to its typing. Since Jolteon still has full HP and can outspeed Zapdos, using Thunderbolt gives the best chance to secure the knockout or put Zapdos in a position for an easy follow-up.
+
+o3's Reasoning: Zapdos’s only available attacks are Electric-type, which Jolteon resists, and Zapdos will be KO’d by another Thunderbolt. Swampert is immune to Electric moves thanks to its Ground typing and is at full health, allowing a safe switch that also pressures Jolteon on the following turn.
+
+gpt-4.1's Reasoning: Jolteon's Electric-type moves are completely ineffective against Swampert, who is immune due to its Ground typing. The only attacking option that can damage Swampert is Shadow Ball, but it will do very little damage due to Swampert's high physical and special defenses, and Jolteon's overall low offensive power against it. To avoid wasting time and risking Jolteon, I should switch to Skarmory, who is healthy and resists most of what Swampert typically carries. Blissey is low on health and is not a good switch-in for a possible physical attack or Earthquake. Therefore, switching to Skarmory is the best option.
+
+o3's Reasoning: Swampert is immune to Jolteon’s Electric attacks and Earthquake is a STAB Ground move that is super-effective against Jolteon, likely KOing it in one hit with no risk this turn.
+
+gpt-4.1's Reasoning: Swampert's Earthquake is ineffective against Skarmory due to its Flying type. Skarmory currently has full HP and is immune to Ground-type attacks, making it a safe choice to stay in. Attacking to slowly wear down Swampert or possibly scout for other moves is the best strategy. Without knowing Skarmory's exact moves, selecting the first move to begin pressure makes sense.
+
+o3's Reasoning: Swampert’s only effective move on Skarmory is Surf, which will deal modest neutral damage against Skarmory’s high Special Defense, while Ice Beam is resisted and Earthquake is immune. Switching to Zapdos gives a strong type advantage: Electric attacks are 4× effective against Skarmory’s Steel/Flying typing, and Zapdos also resists Skarmory’s likely Flying STAB moves. Despite Zapdos being at ~50% HP, it should outspeed and threaten an immediate KO, making the switch the most efficient path to victory.
+
+gpt-4.1's Reasoning: Skarmory is currently facing Zapdos, which is an Electric/Flying type and likely has Electric-type moves that are super effective against Skarmory's Flying typing. Skarmory is at full HP but will be at a big disadvantage due to Zapdos's Electric STAB moves. Switching to Jolteon, which resists Electric-type moves and can threaten Zapdos with its own Electric-type attacks, is the safest play.
+
+o3's Reasoning: Skarmory is Steel/Flying, making it 4x weak to Electric attacks. Zapdos has STAB Electric moves and likely outspeeds. Thunderbolt deals massive, reliable damage with 100% accuracy, giving the best chance to KO or severely weaken Skarmory without risking Thunder’s lower accuracy. No switch is needed.
+
+gpt-4.1's Reasoning: Both Jolteon and Zapdos are Electric types, so Electric moves will be not very effective. Shadow Ball is the only move that is neutrally effective since Zapdos is part Flying and Electric, taking neutral damage from Ghost. Jolteon does not currently appear to be in immediate danger, and switching into Skarmory or Blissey risks them taking unnecessary damage, especially as Skarmory is weak to Electric. Therefore, using Shadow Ball for neutral damage is the best option.
+
+o3's Reasoning: Zapdos's Electric moves are weak against Jolteon, and Jolteon outspeeds and can deal neutral Electric damage, risking a KO on my mid-health Zapdos. Swampert is immune to Electric attacks, can switch in safely, and threatens Jolteon with super-effective Ground moves next turn. Therefore, switching maximizes type advantage and preserves Zapdos.
+
+gpt-4.1's Reasoning: Swampert is a Water/Ground type, which is immune to Electric-type moves like Thunderbolt and Thunder, leaving Shadow Ball as Jolteon's only effective attack. However, Swampert can retaliate with Earthquake, which is super effective against Jolteon and could knock it out. Switching to Skarmory is the safest play because Skarmory is immune to Ground-type moves due to its Flying typing and resists many of Swampert's likely coverage options. This switch preserves Jolteon for later and positions Skarmory for a safer matchup.
+
+o3's Reasoning: Swampert’s Ground typing makes it immune to Jolteon’s Thunderbolt and leaves Shadow Ball as Jolteon’s only threatening move, which Swampert can survive. Earthquake gains STAB, is super-effective against Jolteon’s Electric type, has perfect accuracy, and its 100 base power should comfortably KO Jolteon from 75/110 HP. Staying in and using Earthquake maximizes damage while keeping the typing advantage.
+
+gpt-4.1's Reasoning: Skarmory is immune to Swampert's known Earthquake, suggesting Swampert may struggle to damage Skarmory. Keeping Skarmory in allows me to scout more of Swampert's moves while threatening it. As I don't have information on Skarmory's moves, I will proceed with an attack to apply pressure and potentially discover what my Skarmory knows.
+
+o3's Reasoning: Earthquake is useless against the Flying-type Skarmory, and Surf/Ice Beam will do only modest neutral or resisted damage due to Swampert’s low Special Attack. Zapdos has a strong Electric STAB that hits Skarmory super-effectively, resists its likely Flying moves, and can switch in safely with 66 HP remaining. Switching maximizes offensive pressure and type advantage.
+
+gpt-4.1's Reasoning: Zapdos has Thunderbolt, which is super effective against Skarmory's Flying typing and can likely knock it out in one or two hits. Switching into Jolteon allows me to absorb Thunderbolt (thanks to Volt Absorb ability), regaining some HP and putting immediate pressure on Zapdos. Blissey risks being hit by Drill Peck (a common physical move on Zapdos) and is also weak to possible coverage. Jolteon is the safest switch for now.
+
+o3's Reasoning: Electric attacks are 2x super-effective against Skarmory’s Steel/Flying typing, and Thunderbolt receives STAB while having perfect accuracy, giving it both high reliability and enough power to likely one-shot Skarmory. Switching is unnecessary since Zapdos has the advantageous matchup.
+
+gpt-4.1's Reasoning: Jolteon is at low HP and would not survive another Thunderbolt from Zapdos. Switching to Skarmory is the safest play since it is at full HP, resists Electric moves due to its Steel typing, and can potentially stall or pressure Zapdos. Blissey, while healthy, is weak to special attacks and may not threaten Zapdos much offensively.
+
+o3's Reasoning: Jolteon is already weakened (41 HP) and resists Electric attacks, but our previous Thunderbolt still did 34 damage. Another Thunderbolt has perfect accuracy and will either KO or leave Jolteon with very little HP while Zapdos safely resists Jolteon’s Thunderbolt. Staying in avoids the risk of a switch‐in taking unnecessary damage.
+
+gpt-4.1's Reasoning: Blissey has significantly more remaining HP than Jolteon and is less vulnerable to Zapdos's Electric-type moves due to her high Special Defense. Jolteon, being an Electric-type, has no type advantage and lower HP. While Blissey is weak offensively, her bulk allows her to stall or heal, making her the safer switch-in to manage Zapdos's attacks.
+
+gpt-4.1's Reasoning: Blissey is my only healthy Pokémon left aside from Jolteon, who has very low HP and would not survive a Thunderbolt. Blissey resists special attacks with high HP, and its Ice Beam is super effective against Zapdos's Flying type. My best chance is to attack with Ice Beam and aim to knock out Zapdos.
+
+o3's Reasoning: Opponent’s next Pokémon is unknown. Zapdos is already on the field with over half HP and can scout safely. Thunderbolt is the most reliable, 100%-accurate STAB move; if the foe is immune (Ground type) we learn that immediately and can switch next turn. Switching pre-emptively risks bringing Swampert into a bad matchup (e.g., Grass). Therefore, stay in and use Thunderbolt.
+
+gpt-4.1's Reasoning: Blissey's Ice Beam is super effective against Zapdos and brought it down to 3 HP last turn. Using Ice Beam again is the safest way to finish off Zapdos, as switching to Jolteon is unnecessary and risky given Jolteon's low HP. There is no need to change strategy—just finish off the opponent.
+
+o3's Reasoning: Zapdos is at 3 HP and will faint to any attack. Blissey still has 112 HP and high special defense; Zapdos cannot KO it before going down. Switching preserves Zapdos for a potential sacrifice later and brings in Heracross, a full-health physical Fighting type that can exploit Blissey’s very low physical defense and threaten a KO, while taking Ice Beam neutrally.
+
+gpt-4.1's Reasoning: Blissey is at low HP and has a poor type matchup against Heracross, who is likely to use a Fighting-type move for a super effective knockout. However, almost my entire team has fainted except Jolteon, who is also very low on HP (41/110) and does not have a defensive advantage. Switching would not change the likely outcome, and Blissey's Ice Beam is the only available option to deal more damage to Heracross before fainting. Staying in and attacking is the best move to maximize damage output.
+
+o3's Reasoning: Close Combat is STAB and super-effective against Blissey’s Normal typing; at 38% HP the opponent should be knocked out in one hit, ending the turn before the Defense drop matters. No switch is necessary.
+
+gpt-4.1's Reasoning: Jolteon is the only available Pokémon to send out, so there is no choice. While Heracross resists Electric-type moves and may have advantage against Jolteon due to its Fighting-type attacks and Jolteon's relatively low Defense, switching Jolteon in is the only option at this moment.
+
+gpt-4.1's Reasoning: Jolteon is the last remaining Pokémon with only 41 HP left, and all other team members have fainted. Switching is not possible. Heracross resists Electric-type moves but takes neutral damage from Shadow Ball. Since Jolteon is frail and could be knocked out by another Close Combat, maximizing damage is the best option. Shadow Ball is the best available move because it has 100% accuracy and will not be resisted.
+
+o3's Reasoning: The opponent will send in a fresh, unknown Pokémon. Remaining on the field with Heracross is risky because Heracross has poor bulk, 4× weakness to Flying, and cannot hit Ghost types with Close Combat. Swampert is our healthiest unfainted Pokémon (97/140 HP), has only a single 4× Grass weakness, and is generally bulky, making it a safer pivot until we see the opponent’s choice. Therefore, switch to Swampert to scout the incoming threat without risking Heracross.
+
+gpt-4.1's Reasoning: Jolteon is my only remaining Pokémon and is weak to Swampert's Earthquake, which will likely knock it out on the next turn. Electric-type moves will not affect Swampert due to its Ground typing, leaving Shadow Ball as the only available move that can deal any damage. There are no Pokémon left to switch to, so using Shadow Ball again is the only viable option.
+
+o3's Reasoning: Swampert is immune to Jolteon’s Thunderbolt, resists Shadow Ball reasonably well, and threatens a super-effective STAB Earthquake that should KO Jolteon from 41% HP. Staying in and attacking maximizes our chance to remove the opponent while avoiding unnecessary switch risks.
+
+claude-sonnet-4-20250514's Reasoning: Since both Pokémon are Mewtwo with identical stats, I need to consider type matchups. Psychic moves are not very effective against Psychic types, so using Psychic would deal reduced damage. Shadow Ball (Ghost type) is super effective against Psychic types and will deal more damage than the other options. This gives me the best chance to win the mirror match.
+
+claude-sonnet-4-20250514's Reasoning: The opponent's Mewtwo is at very low HP (40/145) and can be easily finished off. Shadow Ball is a Ghost-type move that will hit Psychic-type Mewtwo for neutral damage, which should be more than enough to KO it given its low remaining HP. This avoids the Psychic vs Psychic matchup where my moves would be not very effective.
+
+claude-sonnet-4-20250514's Reasoning: The opponent's Mewtwo has fainted, so I need to wait for them to send out their next Pokémon before I can take any action. Since they need to choose a new Pokémon, I should stay with my current Mewtwo who still has decent HP at 95/145 and can handle most threats with its diverse moveset.
+
+claude-sonnet-4-20250514's Reasoning: I've selected a balanced team with excellent type coverage and synergy. Mewtwo serves as my primary special sweeper with incredible psychic power. Dragonite provides physical attack power and Flying/Dragon coverage. Zapdos covers Electric attacks and offers speed. Machamp handles Fighting-type coverage and can break through walls. Golem provides crucial Ground/Rock typing to handle Electric, Fire, and Flying weaknesses while offering solid physical defense. Finally, Lapras rounds out the team with Water/Ice coverage, bulk, and can handle Fire and Ground types that threaten other team members. This team covers most major type matchups while having good offensive and defensive balance.
+
+claude-sonnet-4-20250514's Reasoning: Since both Pokémon are Mewtwo with Psychic type, Psychic moves will be not very effective. Shadow Ball is a Ghost-type move which is super effective against Psychic types, making it the best choice for maximum damage output.
+
+gemini-2.5-pro's Reasoning: The opposing Mewtwo is a Psychic type. My Mewtwo's Shadow Ball is a Ghost-type move, which is super-effective against Psychic types. This move will deal the most damage in this situation. Switching is not a good option as none of my other Pokémon have a significant advantage, and it would give the opponent a free attack.
+
+claude-sonnet-4-20250514's Reasoning: Both Mewtwo are at very low HP. My Mewtwo has 33 HP while opponent's has 28 HP. Since Shadow Ball was super effective against my Psychic-type Mewtwo, the opponent likely has a Ghost-type move advantage. However, I should attack with Shadow Ball since it was super effective against their Mewtwo and will likely knock them out first due to their lower HP.
+
+gemini-2.5-pro's Reasoning: Both my Mewtwo and the opponent's Mewtwo are at critical health. Shadow Ball is super effective against the opposing Mewtwo. By attacking with Shadow Ball, I have a chance to knock it out if I am faster. Switching would give the opponent a free hit on my next Pokémon and I would lose the opportunity to eliminate their biggest threat.
+
+claude-sonnet-4-20250514's Reasoning: The opponent's Mewtwo has fainted and they need to choose a new Pokémon. My Mewtwo is at low HP (33/145) and vulnerable. I should switch to a healthier Pokémon to maintain battlefield control. Dragonite is a strong, versatile option with full HP that can handle most threats the opponent might send out.
+
